@@ -64,6 +64,10 @@ The results table records eligible channels, scored readings, labelled events, a
 
 Log protocol changes with their rationale, affected channels and whether test outputs have been inspected. Preserve the original frozen run. Treat variants motivated by observed test performance as exploratory. A new confirmatory claim requires independent evaluation data.
 
+## Pilot evaluation record
+
+The completed [P-1 event ledger](../reports/p1-replay.json) records the alarms, expert-labelled intervals, matching decisions and score checksum for the held-out pilot. The [P-1 freeze record](../reports/p1-pilot.json) captures the thresholds and checkpoint hash used for that replay. Pilot results apply to this channel only.
+
 ## Sources
 
 1. Hundman, K., Constantinou, V., Laporte, C., Colwell, I. and Soderstrom, T. (2018). [Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding](https://doi.org/10.1145/3219819.3219845). KDD 2018. The proposed fixed-threshold comparison is a separate experiment.
