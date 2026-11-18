@@ -66,7 +66,6 @@ Log protocol changes with their rationale, affected channels and whether test ou
 
 ## Sources
 
-1. Project owner. *Space Machine Learning Project Guides*. Supplied Word document, Project 3 and shared ground rules.
+1. Hundman, K., Constantinou, V., Laporte, C., Colwell, I. and Soderstrom, T. (2018). [Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding](https://doi.org/10.1145/3219819.3219845). KDD 2018. The proposed fixed-threshold comparison is a separate experiment.
 2. Hundman and colleagues. [Telemanom project and dataset documentation](https://github.com/khundman/telemanom). Release layout, preprocessing limitations and published benchmark counts.
 3. Telemanom authors. [Expert anomaly interval metadata](https://github.com/khundman/telemanom/blob/master/labeled_anomalies.csv). Channel identity, mission, event class and test indices.
-4. Hundman, K., Constantinou, V., Laporte, C., Colwell, I. and Soderstrom, T. (2018). [Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding](https://doi.org/10.1145/3219819.3219845). KDD 2018. The proposed fixed-threshold comparison is a separate experiment.
