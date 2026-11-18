@@ -62,14 +62,33 @@ The training command reads only the P-1 training member. It selects a checkpoint
 
 **Frozen pilot.** Training stopped at epoch 28. The selected checkpoint (epoch 23) achieved validation MSE 0.02484. Its calibrated alarm threshold was 0.1725272. Removing future readings preserved all 215 prefix alarm decisions, and loading the checkpoint reproduced every calibration score. [Run report and freeze record](reports/p1-pilot.json) · [Pilot review](https://github.com/nisxl-s/spacecraft-anomaly-detection/pull/2)
 
+### Held-out results on P-1
+
+All three detectors saw the same 8,255 readings (indices 250–8,504). The LSTM detected the event beginning at 2,149 after 41 readings. Persistence detected the event beginning at 3,539 after 15 readings. All three missed the event beginning at 4,536.
+
+| Detector | Events found | False alarms | False alarms per 1,000 | Readings in alarm |
+|---|---:|---:|---:|---:|
+| Level | 0/3 | 5 | 0.606 | 15 |
+| Persistence | 1/3 | 17 | 2.059 | 23 |
+| LSTM | 1/3 | 20 | 2.423 | 47 |
+
+The LSTM matched persistence on event recall and produced three additional false alarms. It did not meet the prespecified superiority criterion on P-1. The overall hypothesis requires the two-mission evaluation. [Event ledger and score-file checksum](reports/p1-replay.json)
+
+To reproduce with the exact frozen checkpoint (verify its SHA-256 against the pilot report), use fresh output paths:
+
+```sh
+python scripts/replay_p1.py --archive kaggle.zip --manifest reports/intake.json --pilot reports/p1-pilot.json --checkpoint p1.pt --labels labeled_anomalies.csv --scores p1-scores.csv --report p1-replay.json
+```
+
 ### Research log
 
 - [x] Define the hypothesis, calibration policy and event-matching rules.
 - [x] Reconcile the data release and record file hashes.
 - [x] Verify and freeze the P-1 training-side pilot.
+- [x] Replay all three frozen detectors on P-1 and verify the event ledger.
 - [ ] Evaluate both missions and publish the event ledger.
 
 [Read the research protocol](docs/research-protocol.md) · [Explore the source dataset](https://github.com/khundman/telemanom) · [Read the original paper](https://doi.org/10.1145/3219819.3219845)
 
 > **Interpretation limit**  
-> The released telemetry was scaled using test-set extrema. This study evaluates replay on those released arrays. The benchmark counts above describe the source archive. Model performance is still unmeasured.
+> The released telemetry was scaled using test-set extrema. This study evaluates replay on those released arrays. The benchmark counts above describe the source archive. Performance results above apply to P-1 only.
