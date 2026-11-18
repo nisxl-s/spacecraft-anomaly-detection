@@ -30,10 +30,29 @@ flowchart TD
 
 **Decision rule.** The forecast earns a claim of improvement if it catches a larger share of events than both baselines with no increase in false alarms per 1,000 readings. Detection delay and time spent in alarm show what those numbers mean for someone monitoring a channel.
 
+### Data admitted to the experiment
+
+| Mission | Eligible channels | Eligible events | Eligible test readings |
+|---|---:|---:|---:|
+| SMAP | 52 | 66 | 406,699 |
+| Curiosity (MSL) | 26 | 34 | 66,133 |
+| **Total** | **78** | **100** | **472,832** |
+
+The Kaggle mirror has 82 train/test pairs. Its labels match the [pinned source CSV](https://github.com/khundman/telemanom/blob/2e6c5b6c3558e7835601519b7bdef37c649bdbdc/labeled_anomalies.csv) byte for byte. SMAP P-2 has two conflicting records, T-10 lacks a label record, and D-12 and T-9 have insufficient training history under the protocol. The [intake manifest](reports/intake.json) records the per-file hashes, splits and exclusions.
+
+**P-1 pilot.** The two baselines calibrated on 431 training-file readings. Both produced four strict threshold exceedances on that same calibration block. Replaying its first 215 readings reproduced the corresponding smoothed scores exactly. These checks precede held-out evaluation.
+
+To reproduce with Python and NumPy, download the [telemetry ZIP](https://www.kaggle.com/api/v1/datasets/download/patrickfleith/nasa-anomaly-detection-dataset-smap-msl) as `kaggle.zip` and the pinned CSV as `labeled_anomalies.csv`. Run from the repository root:
+
+```sh
+python scripts/intake.py --archive kaggle.zip --labels labeled_anomalies.csv --source https://www.kaggle.com/api/v1/datasets/download/patrickfleith/nasa-anomaly-detection-dataset-smap-msl --commit 2e6c5b6c3558e7835601519b7bdef37c649bdbdc --retrieved 2026-11-19 --output intake-replay.json
+python scripts/pilot_baselines.py kaggle.zip
+```
+
 ### Research log
 
 - [x] Define the hypothesis, calibration policy and event-matching rules.
-- [ ] Reconcile the data release and record file hashes.
+- [x] Reconcile the data release and record file hashes.
 - [ ] Verify the P-1 pilot and freeze the experiment.
 - [ ] Evaluate both missions and publish the event ledger.
 
