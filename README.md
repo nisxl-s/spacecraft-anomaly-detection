@@ -60,11 +60,13 @@ python scripts/pilot_lstm.py kaggle.zip --checkpoint p1.pt --output p1-run.json 
 
 The training command reads only the P-1 training member. It selects a checkpoint on the chronological validation block and freezes the alarm threshold on the final calibration block.
 
+**Frozen pilot.** Training stopped at epoch 28. The selected checkpoint (epoch 23) achieved validation MSE 0.02484. Its calibrated alarm threshold was 0.1725272. Removing future readings preserved all 215 prefix alarm decisions, and loading the checkpoint reproduced every calibration score. [Run report and freeze record](reports/p1-pilot.json) · [Pilot review](https://github.com/nisxl-s/spacecraft-anomaly-detection/pull/2)
+
 ### Research log
 
 - [x] Define the hypothesis, calibration policy and event-matching rules.
 - [x] Reconcile the data release and record file hashes.
-- [ ] Verify the P-1 pilot and freeze the experiment.
+- [x] Verify and freeze the P-1 training-side pilot.
 - [ ] Evaluate both missions and publish the event ledger.
 
 [Read the research protocol](docs/research-protocol.md) · [Explore the source dataset](https://github.com/khundman/telemanom) · [Read the original paper](https://doi.org/10.1145/3219819.3219845)
