@@ -45,9 +45,20 @@ The Kaggle mirror has 82 train/test pairs. Its labels match the [pinned source C
 To reproduce with Python and NumPy, download the [telemetry ZIP](https://www.kaggle.com/api/v1/datasets/download/patrickfleith/nasa-anomaly-detection-dataset-smap-msl) as `kaggle.zip` and the pinned CSV as `labeled_anomalies.csv`. Run from the repository root:
 
 ```sh
-python scripts/intake.py --archive kaggle.zip --labels labeled_anomalies.csv --source https://www.kaggle.com/api/v1/datasets/download/patrickfleith/nasa-anomaly-detection-dataset-smap-msl --commit 2e6c5b6c3558e7835601519b7bdef37c649bdbdc --retrieved 2026-11-19 --output intake-replay.json
+python scripts/intake.py --archive kaggle.zip --labels labeled_anomalies.csv --source https://www.kaggle.com/api/v1/datasets/download/patrickfleith/nasa-anomaly-detection-dataset-smap-msl --commit 2e6c5b6c3558e7835601519b7bdef37c649bdbdc --retrieved 2026-11-18 --output intake-replay.json
 python scripts/pilot_baselines.py kaggle.zip
 ```
+
+### Reproduce the P-1 pilot
+
+Use the archive above with the CPU build of PyTorch 2.8.0 and NumPy. Run from the repository root with fresh paths for the checkpoint and report.
+
+```sh
+python -m unittest discover -s scripts -p 'test_event_scoring.py' -v
+python scripts/pilot_lstm.py kaggle.zip --checkpoint p1.pt --output p1-run.json --threads 2
+```
+
+The training command reads only the P-1 training member. It selects a checkpoint on the chronological validation block and freezes the alarm threshold on the final calibration block.
 
 ### Research log
 
