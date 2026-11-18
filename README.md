@@ -74,10 +74,10 @@ All three detectors saw the same 8,255 readings (indices 250–8,504). The LSTM 
 
 The LSTM matched persistence on event recall and produced three additional false alarms. It did not meet the prespecified superiority criterion on P-1. The overall hypothesis requires the two-mission evaluation. [Event ledger and score-file checksum](reports/p1-replay.json)
 
-To reproduce with the exact frozen checkpoint (verify its SHA-256 against the pilot report), use fresh output paths:
+To reproduce with the exact frozen checkpoint (verify its SHA-256 against the pilot report), use the `intake-replay.json` generated above and fresh output paths. The replay checks the manifest’s SHA-256, so JSON formatting matters:
 
 ```sh
-python scripts/replay_p1.py --archive kaggle.zip --manifest reports/intake.json --pilot reports/p1-pilot.json --checkpoint p1.pt --labels labeled_anomalies.csv --scores p1-scores.csv --report p1-replay.json
+python scripts/replay_p1.py --archive kaggle.zip --manifest intake-replay.json --pilot reports/p1-pilot.json --checkpoint p1.pt --labels labeled_anomalies.csv --scores p1-scores.csv --report p1-replay.json
 ```
 
 ### Research log
