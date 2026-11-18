@@ -1,0 +1,626 @@
+{
+  "channel": "SMAP/P-1",
+  "test_target_range_half_open": [
+    250,
+    8505
+  ],
+  "exposure_readings": 8255,
+  "input_provenance": {
+    "intake_manifest_sha256": "4aa489f270b397e48dfca2410816e86120ff1047819b592f2aacc2732c68ea78",
+    "pilot_freeze_sha256": "e50fd7bf5a5a0305ca7042a77ef444d36293718eeab60e6e41176adffacf5f0b",
+    "archive_sha256": "6084d3ee3906381f2c98aa3773b6b2d77c82413503faa78f962196582e873733",
+    "training_member_sha256": "78b6eec2b3cb1e6711d07ce994c7375de94b036d839c0f06fe258f446dff667a",
+    "test_member_sha256": "5dbed44bbd0a643e5e3131578c233e73428c70cc678ea9727dde4f3a2da53ce1",
+    "label_csv_sha256": "057ce2d6c8875982bf4e5404aefea14efdcbce413d80826d2b737c95b59b7539",
+    "checkpoint_sha256": "501d9d767faa19b26afcb5bbcb814f964554b3c2283317d68c523299f0f36f94",
+    "replay_code_sha256": "5a4ab867608d89ace4ea8cb92f014ed90da8dc66d9341edfe089bab8de568b6c"
+  },
+  "scores": {
+    "filename": "p1-scores.csv",
+    "sha256": "ab58fe40e4159cc301c72eca73e715e5b4a1acf1a32ba370e897e061b1cd17ba",
+    "rows": 8255
+  },
+  "baseline_level_fit_mean": -0.4262180129901866,
+  "baseline_level_fit_std_floored": 0.3960867935988613,
+  "verification": {
+    "scores_closed_and_hashed_before_label_csv_read": true,
+    "prefix_readings": 4127,
+    "prefix_max_absolute_score_difference": {
+      "level": 0.0,
+      "persistence": 0.0,
+      "lstm": 1.9807525342141474e-09
+    },
+    "prefix_flags_identical": true,
+    "delay_percentile_method": "linear"
+  },
+  "detectors": {
+    "level": {
+      "threshold": 1.704109141762738,
+      "exposure_readings": 8255,
+      "eligible_truths": 3,
+      "excluded_truths": 0,
+      "clipped_truths": 0,
+      "alarm_episodes": 5,
+      "matches": 0,
+      "false_alarms": 5,
+      "misses": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "false_alarms_per_1000_readings": 0.6056935190793459,
+      "flagged_readings": 15,
+      "fraction_flagged": 0.0018170805572380376,
+      "median_delay_readings": null,
+      "p90_delay_readings": null,
+      "alarms": [
+        {
+          "alarm_id": 0,
+          "bounds_inclusive": [
+            467,
+            468
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 1,
+          "bounds_inclusive": [
+            2610,
+            2614
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 2,
+          "bounds_inclusive": [
+            3394,
+            3396
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 3,
+          "bounds_inclusive": [
+            4063,
+            4065
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 4,
+          "bounds_inclusive": [
+            5460,
+            5461
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        }
+      ],
+      "truths": [
+        {
+          "start": 2149,
+          "end": 2349,
+          "class": "contextual",
+          "source_event_order": 0,
+          "truth_id": 0,
+          "observable_bounds_inclusive": [
+            2149,
+            2349
+          ],
+          "status": "miss",
+          "matched_alarm_id": null,
+          "delay_readings": null
+        },
+        {
+          "start": 4536,
+          "end": 4844,
+          "class": "contextual",
+          "source_event_order": 1,
+          "truth_id": 1,
+          "observable_bounds_inclusive": [
+            4536,
+            4844
+          ],
+          "status": "miss",
+          "matched_alarm_id": null,
+          "delay_readings": null
+        },
+        {
+          "start": 3539,
+          "end": 3779,
+          "class": "contextual",
+          "source_event_order": 2,
+          "truth_id": 2,
+          "observable_bounds_inclusive": [
+            3539,
+            3779
+          ],
+          "status": "miss",
+          "matched_alarm_id": null,
+          "delay_readings": null
+        }
+      ]
+    },
+    "persistence": {
+      "threshold": 0.18935725556688987,
+      "exposure_readings": 8255,
+      "eligible_truths": 3,
+      "excluded_truths": 0,
+      "clipped_truths": 0,
+      "alarm_episodes": 18,
+      "matches": 1,
+      "false_alarms": 17,
+      "misses": 2,
+      "precision": 0.05555555555555555,
+      "recall": 0.3333333333333333,
+      "false_alarms_per_1000_readings": 2.059357964869776,
+      "flagged_readings": 23,
+      "fraction_flagged": 0.002786190187764991,
+      "median_delay_readings": 15.0,
+      "p90_delay_readings": 15.0,
+      "alarms": [
+        {
+          "alarm_id": 0,
+          "bounds_inclusive": [
+            519,
+            520
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 1,
+          "bounds_inclusive": [
+            1007,
+            1007
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 2,
+          "bounds_inclusive": [
+            1636,
+            1636
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 3,
+          "bounds_inclusive": [
+            1829,
+            1829
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 4,
+          "bounds_inclusive": [
+            1831,
+            1833
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 5,
+          "bounds_inclusive": [
+            2809,
+            2809
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 6,
+          "bounds_inclusive": [
+            3000,
+            3000
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 7,
+          "bounds_inclusive": [
+            3554,
+            3555
+          ],
+          "status": "matched",
+          "matched_truth_id": 2
+        },
+        {
+          "alarm_id": 8,
+          "bounds_inclusive": [
+            4258,
+            4258
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 9,
+          "bounds_inclusive": [
+            5004,
+            5005
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 10,
+          "bounds_inclusive": [
+            5266,
+            5266
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 11,
+          "bounds_inclusive": [
+            5268,
+            5268
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 12,
+          "bounds_inclusive": [
+            6346,
+            6346
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 13,
+          "bounds_inclusive": [
+            6348,
+            6348
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 14,
+          "bounds_inclusive": [
+            6445,
+            6445
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 15,
+          "bounds_inclusive": [
+            6480,
+            6480
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 16,
+          "bounds_inclusive": [
+            6941,
+            6941
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 17,
+          "bounds_inclusive": [
+            7035,
+            7035
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        }
+      ],
+      "truths": [
+        {
+          "start": 2149,
+          "end": 2349,
+          "class": "contextual",
+          "source_event_order": 0,
+          "truth_id": 0,
+          "observable_bounds_inclusive": [
+            2149,
+            2349
+          ],
+          "status": "miss",
+          "matched_alarm_id": null,
+          "delay_readings": null
+        },
+        {
+          "start": 4536,
+          "end": 4844,
+          "class": "contextual",
+          "source_event_order": 1,
+          "truth_id": 1,
+          "observable_bounds_inclusive": [
+            4536,
+            4844
+          ],
+          "status": "miss",
+          "matched_alarm_id": null,
+          "delay_readings": null
+        },
+        {
+          "start": 3539,
+          "end": 3779,
+          "class": "contextual",
+          "source_event_order": 2,
+          "truth_id": 2,
+          "observable_bounds_inclusive": [
+            3539,
+            3779
+          ],
+          "status": "matched",
+          "matched_alarm_id": 7,
+          "delay_readings": 15
+        }
+      ]
+    },
+    "lstm": {
+      "threshold": 0.17252720667012675,
+      "exposure_readings": 8255,
+      "eligible_truths": 3,
+      "excluded_truths": 0,
+      "clipped_truths": 0,
+      "alarm_episodes": 21,
+      "matches": 1,
+      "false_alarms": 20,
+      "misses": 2,
+      "precision": 0.047619047619047616,
+      "recall": 0.3333333333333333,
+      "false_alarms_per_1000_readings": 2.4227740763173835,
+      "flagged_readings": 47,
+      "fraction_flagged": 0.005693519079345851,
+      "median_delay_readings": 41.0,
+      "p90_delay_readings": 41.0,
+      "alarms": [
+        {
+          "alarm_id": 0,
+          "bounds_inclusive": [
+            915,
+            917
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 1,
+          "bounds_inclusive": [
+            1007,
+            1008
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 2,
+          "bounds_inclusive": [
+            1059,
+            1059
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 3,
+          "bounds_inclusive": [
+            1160,
+            1161
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 4,
+          "bounds_inclusive": [
+            2190,
+            2198
+          ],
+          "status": "matched",
+          "matched_truth_id": 0
+        },
+        {
+          "alarm_id": 5,
+          "bounds_inclusive": [
+            2402,
+            2406
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 6,
+          "bounds_inclusive": [
+            2505,
+            2505
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 7,
+          "bounds_inclusive": [
+            2517,
+            2518
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 8,
+          "bounds_inclusive": [
+            2621,
+            2621
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 9,
+          "bounds_inclusive": [
+            2625,
+            2625
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 10,
+          "bounds_inclusive": [
+            2910,
+            2912
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 11,
+          "bounds_inclusive": [
+            5002,
+            5002
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 12,
+          "bounds_inclusive": [
+            5004,
+            5007
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 13,
+          "bounds_inclusive": [
+            5475,
+            5475
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 14,
+          "bounds_inclusive": [
+            5558,
+            5558
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 15,
+          "bounds_inclusive": [
+            5560,
+            5560
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 16,
+          "bounds_inclusive": [
+            6254,
+            6254
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 17,
+          "bounds_inclusive": [
+            6941,
+            6941
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 18,
+          "bounds_inclusive": [
+            7081,
+            7081
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 19,
+          "bounds_inclusive": [
+            7343,
+            7345
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        },
+        {
+          "alarm_id": 20,
+          "bounds_inclusive": [
+            7348,
+            7350
+          ],
+          "status": "false_alarm",
+          "matched_truth_id": null
+        }
+      ],
+      "truths": [
+        {
+          "start": 2149,
+          "end": 2349,
+          "class": "contextual",
+          "source_event_order": 0,
+          "truth_id": 0,
+          "observable_bounds_inclusive": [
+            2149,
+            2349
+          ],
+          "status": "matched",
+          "matched_alarm_id": 4,
+          "delay_readings": 41
+        },
+        {
+          "start": 4536,
+          "end": 4844,
+          "class": "contextual",
+          "source_event_order": 1,
+          "truth_id": 1,
+          "observable_bounds_inclusive": [
+            4536,
+            4844
+          ],
+          "status": "miss",
+          "matched_alarm_id": null,
+          "delay_readings": null
+        },
+        {
+          "start": 3539,
+          "end": 3779,
+          "class": "contextual",
+          "source_event_order": 2,
+          "truth_id": 2,
+          "observable_bounds_inclusive": [
+            3539,
+            3779
+          ],
+          "status": "miss",
+          "matched_alarm_id": null,
+          "delay_readings": null
+        }
+      ]
+    }
+  }
+}
