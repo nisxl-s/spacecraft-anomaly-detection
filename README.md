@@ -8,6 +8,18 @@ A replay study using telemetry from NASA’s **SMAP satellite** and the **Curios
 | :--- | :--- | :--- |
 | SMAP · Mars Science Laboratory | 82 channels · 105 labelled events | SMAP P-1 · 8,505 test readings · 3 contextual events |
 
+## Current results
+
+The frozen NASA benchmark is complete across **78 channels and 100 labelled events**. The direct LSTM detected **90 events** and raised **2,148 unmatched alarm episodes**. The persistence baseline detected **78 events** with **1,401 unmatched alarms**, so the LSTM missed the overall criterion of improving detection without increasing alarms.
+
+- [NASA benchmark and follow-up results](reports/nasa-results.md)
+- [Reproduce the NASA experiments and resume the residual screen](docs/nasa-follow-up-experiments.md)
+- [Residual screen checkpoint](reports/residual-screen-checkpoint.json), audited through **30 of 78 channels**
+- [Independent ESA Mission1 pilot](experiments/esa_mission1/README.md), with synthetic checks complete and real-data evaluation pending
+
+The sections below document the original P‑1 pilot and data intake.
+
+
 ### What makes a reading unusual?
 
 | Detector | The question it asks |
@@ -86,7 +98,10 @@ python scripts/replay_p1.py --archive kaggle.zip --manifest intake-replay.json -
 - [x] Reconcile the data release and record file hashes.
 - [x] Verify and freeze the P-1 training-side pilot.
 - [x] Replay all three frozen detectors on P-1 and verify the event ledger.
-- [ ] Evaluate both missions and publish the event ledger.
+- [x] Evaluate both missions and report the frozen benchmark results.
+- [x] Replay calibration-matched thresholds, threshold sweeps, capped alarms and two-reading confirmation.
+- [ ] Finish and audit the residual forecast screen across all 78 channels.
+- [ ] Complete independent evaluation on ESA Mission1.
 
 [Read the research protocol](docs/research-protocol.md) · [Explore the source dataset](https://github.com/khundman/telemanom) · [Read the original paper](https://doi.org/10.1145/3219819.3219845)
 

@@ -1,0 +1,97 @@
+{
+  "type": "partial checkpoint",
+  "completed_channels": [
+    "MSL/C-1",
+    "MSL/C-2",
+    "MSL/D-15",
+    "MSL/D-16",
+    "MSL/F-4",
+    "MSL/F-7",
+    "MSL/M-1",
+    "MSL/M-2",
+    "MSL/M-3",
+    "MSL/M-4",
+    "MSL/M-5",
+    "MSL/M-6",
+    "MSL/M-7",
+    "MSL/S-2",
+    "MSL/T-12",
+    "MSL/T-13",
+    "MSL/T-4",
+    "MSL/T-8",
+    "SMAP/A-5",
+    "SMAP/A-6",
+    "SMAP/A-8",
+    "SMAP/A-9",
+    "SMAP/B-1",
+    "SMAP/D-13",
+    "SMAP/D-5",
+    "SMAP/D-9",
+    "SMAP/G-2",
+    "SMAP/G-4",
+    "SMAP/G-7",
+    "SMAP/P-1"
+  ],
+  "planned_channels": 78,
+  "cohort_decision": null,
+  "metrics_on_completed_channels": {
+    "overall": {
+      "channels": 30,
+      "readings": 4026,
+      "direct": {
+        "macro_mae": 0.06523071891642243,
+        "nominal_episodes": 30,
+        "flagged_readings": 517
+      },
+      "residual": {
+        "macro_mae": 0.03583478235691893,
+        "nominal_episodes": 19,
+        "flagged_readings": 351
+      },
+      "persistence": {
+        "macro_mae": 0.03665455558623679,
+        "nominal_episodes": 11,
+        "flagged_readings": 198
+      }
+    },
+    "MSL": {
+      "channels": 18,
+      "readings": 2345,
+      "direct": {
+        "macro_mae": 0.0720224086405366,
+        "nominal_episodes": 13,
+        "flagged_readings": 339
+      },
+      "residual": {
+        "macro_mae": 0.04733995169498254,
+        "nominal_episodes": 12,
+        "flagged_readings": 267
+      },
+      "persistence": {
+        "macro_mae": 0.048707033802700354,
+        "nominal_episodes": 9,
+        "flagged_readings": 173
+      }
+    },
+    "SMAP": {
+      "channels": 12,
+      "readings": 1681,
+      "direct": {
+        "macro_mae": 0.055043184330251134,
+        "nominal_episodes": 17,
+        "flagged_readings": 178
+      },
+      "residual": {
+        "macro_mae": 0.018577028349823495,
+        "nominal_episodes": 7,
+        "flagged_readings": 84
+      },
+      "persistence": {
+        "macro_mae": 0.018575838261541435,
+        "nominal_episodes": 2,
+        "flagged_readings": 25
+      }
+    }
+  },
+  "audit_at_snapshot": "Independently checked 30 channels and 90 detector outputs"
+}
