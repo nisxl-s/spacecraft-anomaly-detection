@@ -1,0 +1,12 @@
+{
+  "calibration": "Original 2006 pilot calibration window, with no use of labels",
+  "test_start_exclusive": "2008-01-01T00:00:00Z",
+  "test_end_inclusive": "2009-01-01T00:00:00Z",
+  "boundary_note": "The preceding replay included the 2008-01-01 00:00 UTC target. The new replay starts with the following hourly target.",
+  "detectors": ["residual", "direct", "persistence", "level"],
+  "calibration_emitted_episodes_per_1000_max": 2,
+  "calibration_flagged_fraction_max": 0.05,
+  "multipliers": "10**(k/40) for k=-40 through 40",
+  "selection": "Among feasible positive workloads maximize episode count, then minimize flagged hours, then maximize multiplier. Use no-alarm fallback if none qualifies.",
+  "scoring": "Use prior hourly eligibility, smoothing, episode emission, annotation censoring and one-to-one event matching unchanged."
+}
