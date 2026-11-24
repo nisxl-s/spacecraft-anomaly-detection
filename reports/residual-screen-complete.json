@@ -1,0 +1,250 @@
+{
+  "checkpoint": {
+    "type": "complete checkpoint",
+    "completed_channels": [
+      "MSL/C-1",
+      "MSL/C-2",
+      "MSL/D-14",
+      "MSL/D-15",
+      "MSL/D-16",
+      "MSL/F-4",
+      "MSL/F-5",
+      "MSL/F-7",
+      "MSL/F-8",
+      "MSL/M-1",
+      "MSL/M-2",
+      "MSL/M-3",
+      "MSL/M-4",
+      "MSL/M-5",
+      "MSL/M-6",
+      "MSL/M-7",
+      "MSL/P-10",
+      "MSL/P-11",
+      "MSL/P-14",
+      "MSL/P-15",
+      "MSL/S-2",
+      "MSL/T-12",
+      "MSL/T-13",
+      "MSL/T-4",
+      "MSL/T-5",
+      "MSL/T-8",
+      "SMAP/A-1",
+      "SMAP/A-2",
+      "SMAP/A-3",
+      "SMAP/A-4",
+      "SMAP/A-5",
+      "SMAP/A-6",
+      "SMAP/A-7",
+      "SMAP/A-8",
+      "SMAP/A-9",
+      "SMAP/B-1",
+      "SMAP/D-1",
+      "SMAP/D-11",
+      "SMAP/D-13",
+      "SMAP/D-2",
+      "SMAP/D-3",
+      "SMAP/D-4",
+      "SMAP/D-5",
+      "SMAP/D-6",
+      "SMAP/D-7",
+      "SMAP/D-8",
+      "SMAP/D-9",
+      "SMAP/E-1",
+      "SMAP/E-10",
+      "SMAP/E-11",
+      "SMAP/E-12",
+      "SMAP/E-13",
+      "SMAP/E-2",
+      "SMAP/E-3",
+      "SMAP/E-4",
+      "SMAP/E-5",
+      "SMAP/E-6",
+      "SMAP/E-7",
+      "SMAP/E-8",
+      "SMAP/E-9",
+      "SMAP/F-1",
+      "SMAP/F-2",
+      "SMAP/F-3",
+      "SMAP/G-1",
+      "SMAP/G-2",
+      "SMAP/G-3",
+      "SMAP/G-4",
+      "SMAP/G-6",
+      "SMAP/G-7",
+      "SMAP/P-1",
+      "SMAP/P-3",
+      "SMAP/P-4",
+      "SMAP/P-7",
+      "SMAP/R-1",
+      "SMAP/S-1",
+      "SMAP/T-1",
+      "SMAP/T-2",
+      "SMAP/T-3"
+    ],
+    "planned_channels": 78,
+    "cohort_decision": true,
+    "metrics_on_completed_channels": {
+      "overall": {
+        "channels": 78,
+        "readings": 14486,
+        "direct": {
+          "macro_mae": 0.059769301615007396,
+          "nominal_episodes": 90,
+          "flagged_readings": 1122
+        },
+        "residual": {
+          "macro_mae": 0.03509949873250988,
+          "nominal_episodes": 80,
+          "flagged_readings": 760
+        },
+        "persistence": {
+          "macro_mae": 0.04344817400756293,
+          "nominal_episodes": 57,
+          "flagged_readings": 341
+        }
+      },
+      "SMAP": {
+        "channels": 52,
+        "readings": 10133,
+        "direct": {
+          "macro_mae": 0.059736374124748144,
+          "nominal_episodes": 74,
+          "flagged_readings": 732
+        },
+        "residual": {
+          "macro_mae": 0.03239271558407633,
+          "nominal_episodes": 64,
+          "flagged_readings": 483
+        },
+        "persistence": {
+          "macro_mae": 0.044914623605655415,
+          "nominal_episodes": 47,
+          "flagged_readings": 167
+        }
+      },
+      "MSL": {
+        "channels": 26,
+        "readings": 4353,
+        "direct": {
+          "macro_mae": 0.0598351565955259,
+          "nominal_episodes": 16,
+          "flagged_readings": 390
+        },
+        "residual": {
+          "macro_mae": 0.040513065029376974,
+          "nominal_episodes": 16,
+          "flagged_readings": 277
+        },
+        "persistence": {
+          "macro_mae": 0.04051527481137796,
+          "nominal_episodes": 10,
+          "flagged_readings": 174
+        }
+      }
+    },
+    "audit_at_snapshot": "Independently checked 78 channels and 234 detector outputs"
+  },
+  "run_status": {
+    "checked_at_utc": "2026-11-24T05:00:14.695848+00:00",
+    "phase": "complete",
+    "completed": 78,
+    "planned": 78,
+    "summary_exists": true
+  },
+  "summary": {
+    "overall": {
+      "channels": 78,
+      "evaluation_readings": 14486,
+      "models": {
+        "direct": {
+          "macro_mae": 0.05976930161500741,
+          "episodes": 90,
+          "episodes_per_1000": 6.212895209167472,
+          "flagged_readings": 1122,
+          "flagged_share": 0.07745409360762115
+        },
+        "residual": {
+          "macro_mae": 0.03509949873250988,
+          "episodes": 80,
+          "episodes_per_1000": 5.522573519259975,
+          "flagged_readings": 760,
+          "flagged_share": 0.05246444843296976
+        },
+        "persistence": {
+          "macro_mae": 0.04344817400756292,
+          "episodes": 57,
+          "episodes_per_1000": 3.934833632472732,
+          "flagged_readings": 341,
+          "flagged_share": 0.023539969625845644
+        }
+      },
+      "residual_mae_wins": {
+        "direct": 71,
+        "persistence": 25
+      }
+    },
+    "SMAP": {
+      "channels": 52,
+      "evaluation_readings": 10133,
+      "models": {
+        "direct": {
+          "macro_mae": 0.059736374124748144,
+          "episodes": 74,
+          "episodes_per_1000": 7.302871804993585,
+          "flagged_readings": 732,
+          "flagged_share": 0.07223921839534195
+        },
+        "residual": {
+          "macro_mae": 0.03239271558407633,
+          "episodes": 64,
+          "episodes_per_1000": 6.315997236751209,
+          "flagged_readings": 483,
+          "flagged_share": 0.04766604164610678
+        },
+        "persistence": {
+          "macro_mae": 0.044914623605655415,
+          "episodes": 47,
+          "episodes_per_1000": 4.638310470739169,
+          "flagged_readings": 167,
+          "flagged_share": 0.016480805289647685
+        }
+      },
+      "residual_mae_wins": {
+        "direct": 47,
+        "persistence": 21
+      }
+    },
+    "MSL": {
+      "channels": 26,
+      "evaluation_readings": 4353,
+      "models": {
+        "direct": {
+          "macro_mae": 0.05983515659552589,
+          "episodes": 16,
+          "episodes_per_1000": 3.675626005053986,
+          "flagged_readings": 390,
+          "flagged_share": 0.08959338387319091
+        },
+        "residual": {
+          "macro_mae": 0.04051306502937698,
+          "episodes": 16,
+          "episodes_per_1000": 3.675626005053986,
+          "flagged_readings": 277,
+          "flagged_share": 0.06363427521249714
+        },
+        "persistence": {
+          "macro_mae": 0.040515274811377955,
+          "episodes": 10,
+          "episodes_per_1000": 2.297266253158741,
+          "flagged_readings": 174,
+          "flagged_share": 0.03997243280496209
+        }
+      },
+      "residual_mae_wins": {
+        "direct": 24,
+        "persistence": 4
+      }
+    },
+    "advance": true
+  }
+}
