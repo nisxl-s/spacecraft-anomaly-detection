@@ -1,0 +1,275 @@
+{
+  "baseline": {
+    "pooled_pages": 181,
+    "annual": {
+      "2009": {
+        "pages": 35,
+        "updates": 508,
+        "rate": 0.6659816569623626,
+        "pages_per_mission_day": 0.09590135860258021
+      },
+      "2010": {
+        "pages": 29,
+        "updates": 1175,
+        "rate": 0.5517503805175038,
+        "pages_per_mission_day": 0.07945205479452055
+      },
+      "2011": {
+        "pages": 35,
+        "updates": 1010,
+        "rate": 0.6659056316590564,
+        "pages_per_mission_day": 0.0958904109589041
+      },
+      "2012": {
+        "pages": 30,
+        "updates": 860,
+        "rate": 0.569216757741348,
+        "pages_per_mission_day": 0.08196721311475409
+      },
+      "2013": {
+        "pages": 52,
+        "updates": 307,
+        "rate": 0.989345509893455,
+        "pages_per_mission_day": 0.14246575342465753
+      }
+    },
+    "passed": false,
+    "lost_incidents": [
+      "id_138",
+      "id_145"
+    ]
+  },
+  "k2w1": {
+    "pooled_pages": 230,
+    "annual": {
+      "2009": {
+        "pages": 42,
+        "updates": 501,
+        "rate": 0.799177988354835,
+        "pages_per_mission_day": 0.11508163032309625
+      },
+      "2010": {
+        "pages": 47,
+        "updates": 1157,
+        "rate": 0.8942161339421614,
+        "pages_per_mission_day": 0.12876712328767123
+      },
+      "2011": {
+        "pages": 48,
+        "updates": 997,
+        "rate": 0.91324200913242,
+        "pages_per_mission_day": 0.13150684931506848
+      },
+      "2012": {
+        "pages": 38,
+        "updates": 852,
+        "rate": 0.7210078931390407,
+        "pages_per_mission_day": 0.10382513661202186
+      },
+      "2013": {
+        "pages": 55,
+        "updates": 304,
+        "rate": 1.0464231354642313,
+        "pages_per_mission_day": 0.1506849315068493
+      }
+    },
+    "passed": false,
+    "lost_incidents": [
+      "id_138"
+    ]
+  },
+  "k2w24": {
+    "pooled_pages": 277,
+    "annual": {
+      "2009": {
+        "pages": 52,
+        "updates": 491,
+        "rate": 0.9894584617726528,
+        "pages_per_mission_day": 0.14248201849526201
+      },
+      "2010": {
+        "pages": 55,
+        "updates": 1149,
+        "rate": 1.0464231354642313,
+        "pages_per_mission_day": 0.1506849315068493
+      },
+      "2011": {
+        "pages": 64,
+        "updates": 981,
+        "rate": 1.21765601217656,
+        "pages_per_mission_day": 0.17534246575342466
+      },
+      "2012": {
+        "pages": 48,
+        "updates": 842,
+        "rate": 0.9107468123861566,
+        "pages_per_mission_day": 0.13114754098360656
+      },
+      "2013": {
+        "pages": 58,
+        "updates": 301,
+        "rate": 1.1035007610350076,
+        "pages_per_mission_day": 0.1589041095890411
+      }
+    },
+    "passed": false,
+    "lost_incidents": [
+      "id_138",
+      "id_145"
+    ]
+  },
+  "k2w6": {
+    "pooled_pages": 264,
+    "annual": {
+      "2009": {
+        "pages": 50,
+        "updates": 493,
+        "rate": 0.9514023670890893,
+        "pages_per_mission_day": 0.13700194086082887
+      },
+      "2010": {
+        "pages": 53,
+        "updates": 1151,
+        "rate": 1.008371385083714,
+        "pages_per_mission_day": 0.14520547945205478
+      },
+      "2011": {
+        "pages": 58,
+        "updates": 987,
+        "rate": 1.1035007610350076,
+        "pages_per_mission_day": 0.1589041095890411
+      },
+      "2012": {
+        "pages": 46,
+        "updates": 844,
+        "rate": 0.8727990285367334,
+        "pages_per_mission_day": 0.12568306010928962
+      },
+      "2013": {
+        "pages": 57,
+        "updates": 302,
+        "rate": 1.0844748858447488,
+        "pages_per_mission_day": 0.15616438356164383
+      }
+    },
+    "passed": false,
+    "lost_incidents": [
+      "id_138"
+    ]
+  },
+  "k3w1": {
+    "pooled_pages": 186,
+    "annual": {
+      "2009": {
+        "pages": 36,
+        "updates": 507,
+        "rate": 0.6850097043041443,
+        "pages_per_mission_day": 0.09864139741979679
+      },
+      "2010": {
+        "pages": 31,
+        "updates": 1173,
+        "rate": 0.5898021308980214,
+        "pages_per_mission_day": 0.08493150684931507
+      },
+      "2011": {
+        "pages": 35,
+        "updates": 1010,
+        "rate": 0.6659056316590564,
+        "pages_per_mission_day": 0.0958904109589041
+      },
+      "2012": {
+        "pages": 30,
+        "updates": 860,
+        "rate": 0.569216757741348,
+        "pages_per_mission_day": 0.08196721311475409
+      },
+      "2013": {
+        "pages": 54,
+        "updates": 305,
+        "rate": 1.0273972602739727,
+        "pages_per_mission_day": 0.14794520547945206
+      }
+    },
+    "passed": false,
+    "lost_incidents": [
+      "id_138"
+    ]
+  },
+  "k3w24": {
+    "pooled_pages": 239,
+    "annual": {
+      "2009": {
+        "pages": 42,
+        "updates": 501,
+        "rate": 0.799177988354835,
+        "pages_per_mission_day": 0.11508163032309625
+      },
+      "2010": {
+        "pages": 49,
+        "updates": 1155,
+        "rate": 0.9322678843226788,
+        "pages_per_mission_day": 0.13424657534246576
+      },
+      "2011": {
+        "pages": 50,
+        "updates": 995,
+        "rate": 0.9512937595129376,
+        "pages_per_mission_day": 0.136986301369863
+      },
+      "2012": {
+        "pages": 42,
+        "updates": 848,
+        "rate": 0.7969034608378871,
+        "pages_per_mission_day": 0.11475409836065574
+      },
+      "2013": {
+        "pages": 56,
+        "updates": 303,
+        "rate": 1.06544901065449,
+        "pages_per_mission_day": 0.15342465753424658
+      }
+    },
+    "passed": false,
+    "lost_incidents": [
+      "id_138"
+    ]
+  },
+  "k3w6": {
+    "pooled_pages": 226,
+    "annual": {
+      "2009": {
+        "pages": 40,
+        "updates": 503,
+        "rate": 0.7611218936712715,
+        "pages_per_mission_day": 0.10960155268866309
+      },
+      "2010": {
+        "pages": 46,
+        "updates": 1158,
+        "rate": 0.8751902587519026,
+        "pages_per_mission_day": 0.12602739726027398
+      },
+      "2011": {
+        "pages": 46,
+        "updates": 999,
+        "rate": 0.8751902587519026,
+        "pages_per_mission_day": 0.12602739726027398
+      },
+      "2012": {
+        "pages": 39,
+        "updates": 851,
+        "rate": 0.7399817850637522,
+        "pages_per_mission_day": 0.10655737704918032
+      },
+      "2013": {
+        "pages": 55,
+        "updates": 304,
+        "rate": 1.0464231354642313,
+        "pages_per_mission_day": 0.1506849315068493
+      }
+    },
+    "passed": true,
+    "lost_incidents": []
+  }
+}
