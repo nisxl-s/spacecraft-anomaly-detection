@@ -1,0 +1,10 @@
+{
+  "freeze_sha256": "dcc6bc87a46f92a092a2f774c8d2da423b65f0b2c14227b1ca843e1920281550",
+  "residual_seal_sha256": "d4a28176e169adae7e103d5d2b9c365032378658ca24977f4ccab4a683fbc00d",
+  "policy_seals": {
+    "opening": "bb3a96aee2f4d1345d1dc556be8458a1b6eb9cf250cf440d28f42dba8826f3ab",
+    "escalation": "394999db200a0913f27bc369af91a3221e777680ebe6565b1623bd40dd976054"
+  },
+  "runner_sha256": "b4d8a973bbb67c046ab4a1b236282c92a6ea515990bcd39103b051e0706a2e97",
+  "ticket_runner_sha256": "ebb52c9330baa2d683c0b9472ab95986eebd0b159192f865aee81e3bff611c29"
+}

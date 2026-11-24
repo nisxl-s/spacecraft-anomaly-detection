@@ -1,0 +1,80 @@
+{
+  "range": {
+    "pooled": {
+      "events": 4,
+      "detected": 0,
+      "incidents": 1,
+      "incidents_detected": 0,
+      "matched_alarms": 0,
+      "false_alarms": 333,
+      "emitted_episodes": 333,
+      "eligible_hours": 91866,
+      "observable_hours": 91866,
+      "flagged_hours": 651,
+      "recall": 0.0,
+      "precision": 0.0,
+      "false_per_1000": 3.624844882764026,
+      "workload_per_1000": 3.624844882764026,
+      "flagged_fraction": 0.007086408464502645,
+      "median_delay_hours": null
+    },
+    "annual": {
+      "2001": {
+        "events": 4,
+        "detected": 0,
+        "incidents": 1,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 81,
+        "emitted_episodes": 81,
+        "eligible_hours": 13242,
+        "observable_hours": 13242,
+        "flagged_hours": 89,
+        "recall": 0.0,
+        "precision": 0.0,
+        "false_per_1000": 6.116900770276393,
+        "workload_per_1000": 6.116900770276393,
+        "flagged_fraction": 0.006721039117958012,
+        "median_delay_hours": null
+      },
+      "2002": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 186,
+        "emitted_episodes": 186,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 401,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 3.538812785388128,
+        "workload_per_1000": 3.538812785388128,
+        "flagged_fraction": 0.00762937595129376,
+        "median_delay_hours": null
+      },
+      "2003": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 66,
+        "emitted_episodes": 66,
+        "eligible_hours": 26064,
+        "observable_hours": 26064,
+        "flagged_hours": 161,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 2.532228360957643,
+        "workload_per_1000": 2.532228360957643,
+        "flagged_fraction": 0.006177102516881522,
+        "median_delay_hours": null
+      }
+    },
+    "detected_incident_ids": [],
+    "detected_channel_events": []
+  }
+}

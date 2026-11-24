@@ -1,0 +1,7 @@
+# ESA Mission 2 cross-mission transfer
+
+Use ESA Anomaly Dataset v2, Zenodo record 15237121. Select the six lowest numeric noncategorical targets in channels.csv with adequate training-only eligibility and nonzero fit scale. The initial panel is channels 9–14. Abort on training eligibility failure before scoring and correct the panel from training metadata and coverage only.
+
+The official test begins strictly after 2001-10-01 00:00 UTC. Mirror the source study with 9 months for fitting, 3 for checkpoint selection, and 3 for threshold calibration through the split. Fit a new residual predictor with the unchanged architecture and training recipe. Match the source validation-score reference thresholds, common multiplier grid, and unlabeled alarm-workload selection. This tests transfer of the training and paging procedure with mission-specific weights.
+
+Freeze opening-only and selected escalation (three distinct channel starts within six hourly bins and at most one escalation per ticket). Preserve the 24-hour quiet closure and gap semantics. Seal both page ledgers before extracting or reading test labels. Report all eligible incidents and the subset reached by the residual detector, along with channel-event coverage and annual page workload. The annual workload target is two pages per 1,000 eligible channel-hours. Compare the two fixed policies with no grid search on Mission 2. Report the number of paired incidents and any short final year.
