@@ -1,0 +1,114 @@
+[
+  {
+    "channel": "channel_9",
+    "hour_end": "2001-12-14T20:00:00+00:00",
+    "count": 240,
+    "metrics": {
+      "span": {
+        "value": 0.0016551017761230469,
+        "calibration_p99": 0.003793992400169352,
+        "calibration_count": 2208,
+        "percentile": 0.9859601449275363,
+        "above_or_equal_count": 31
+      },
+      "max_step": {
+        "value": 0.001316845417022705,
+        "calibration_p99": 0.0030999255180357687,
+        "calibration_count": 2208,
+        "percentile": 0.9859601449275363,
+        "above_or_equal_count": 31
+      },
+      "last_step": {
+        "value": 0.0003558993339538574,
+        "calibration_p99": 0.0006063669919967607,
+        "calibration_count": 2208,
+        "percentile": 0.8967391304347826,
+        "above_or_equal_count": 228
+      }
+    }
+  },
+  {
+    "channel": "channel_12",
+    "hour_end": "2001-12-14T20:00:00+00:00",
+    "count": 240,
+    "metrics": {
+      "span": {
+        "value": 0.000156402587890625,
+        "calibration_p99": 0.007802185416221533,
+        "calibration_count": 2208,
+        "percentile": 0.1838768115942029,
+        "above_or_equal_count": 1802
+      },
+      "max_step": {
+        "value": 0.000156402587890625,
+        "calibration_p99": 0.006228604912757817,
+        "calibration_count": 2208,
+        "percentile": 0.28306159420289856,
+        "above_or_equal_count": 1583
+      },
+      "last_step": {
+        "value": 2.7835369110107422e-05,
+        "calibration_p99": 0.0006781446933746234,
+        "calibration_count": 2208,
+        "percentile": 0.29528985507246375,
+        "above_or_equal_count": 1557
+      }
+    }
+  },
+  {
+    "channel": "channel_13",
+    "hour_end": "2001-12-14T20:00:00+00:00",
+    "count": 240,
+    "metrics": {
+      "span": {
+        "value": 0.0003808736801147461,
+        "calibration_p99": 0.004474526643752982,
+        "calibration_count": 2208,
+        "percentile": 0.9827898550724637,
+        "above_or_equal_count": 38
+      },
+      "max_step": {
+        "value": 0.0003808736801147461,
+        "calibration_p99": 0.0026378914713859336,
+        "calibration_count": 2208,
+        "percentile": 0.9836956521739131,
+        "above_or_equal_count": 36
+      },
+      "last_step": {
+        "value": 7.802248001098633e-05,
+        "calibration_p99": 0.0001518726348876953,
+        "calibration_count": 2208,
+        "percentile": 0.9479166666666666,
+        "above_or_equal_count": 115
+      }
+    }
+  },
+  {
+    "channel": "channel_14",
+    "hour_end": "2001-12-14T20:00:00+00:00",
+    "count": 240,
+    "metrics": {
+      "span": {
+        "value": 0.00012159347534179688,
+        "calibration_p99": 0.0028544783592223794,
+        "calibration_count": 2208,
+        "percentile": 0.27853260869565216,
+        "above_or_equal_count": 1595
+      },
+      "max_step": {
+        "value": 0.0001150369644165039,
+        "calibration_p99": 0.0022171407938003486,
+        "calibration_count": 2208,
+        "percentile": 0.35144927536231885,
+        "above_or_equal_count": 1432
+      },
+      "last_step": {
+        "value": 2.5153160095214844e-05,
+        "calibration_p99": 0.0003226166963577263,
+        "calibration_count": 2208,
+        "percentile": 0.3944746376811594,
+        "above_or_equal_count": 1338
+      }
+    }
+  }
+]
