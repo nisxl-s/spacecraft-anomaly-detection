@@ -1,0 +1,17 @@
+{
+  "freeze_sha256": "aed8491c850bf2c81ff713ce65d6a5769faebad1b889a1e14a95f3e20ae5b585",
+  "replay_sha256": {
+    "channel_41": "c9cb8a0ba947cb01e23989e490645a09152fd63244ed71f826899dd70c4ce081",
+    "channel_42": "1c01a30bec3ff64601cb8c87662a11f6e0564f68af00983b164f398e3fc476c3",
+    "channel_43": "2ecb01835b1e2f4a0ed0f3319676653a49a04316f3ae8938d5eb34d2952b8af9",
+    "channel_44": "6a67521736ce4a27a26eea5605df5ee2e07e0055f9660a8d03bc457c9c912adb",
+    "channel_45": "da8fc126cdee584c38dabd75564d620e40247ddd77d9d0166b7328248aafbb3e",
+    "channel_46": "4d0cda7605b3c451fd90d5c4069fce8cc84ef312a4d047bbaf0ead00639fc24d"
+  },
+  "tickets_sha256": "4195bff4709423cc6d41886b2eefb0829cae06ad688bfa758bdbeb76945afd8f",
+  "source_seal_sha256": "d8ce4ce706fb20402662702f5d583892a966ebec1cfc0d090425b1999ef1b6d0",
+  "quiet_hours": 24,
+  "escalation": 3,
+  "window": 6,
+  "cooldown": null
+}

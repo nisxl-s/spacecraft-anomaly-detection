@@ -1,0 +1,29 @@
+{
+  "quiet_hours": 24,
+  "distinct_channels": 3,
+  "lookback_hours": 6,
+  "max_escalations_per_ticket": 1,
+  "status": "selected on development data; independent validation pending",
+  "files_sha256": {
+    "run.py": "ebb52c9330baa2d683c0b9472ab95986eebd0b159192f865aee81e3bff611c29",
+    "audit.py": "48aec728b432d96a02731600f0b57508ccc5af5d5593ef3ca16139f718930c70",
+    "k3w6/tickets.json": "4195bff4709423cc6d41886b2eefb0829cae06ad688bfa758bdbeb76945afd8f",
+    "k3w6/replay-seal.json": "9aecd15b3cfdf199682843269fa707fefb64955e32238a9cb1b8fc8ff18e2488",
+    "frozen-detector/channel_41.json": "37a718513cbb8e17a39015e74182f51e57de816b5a702bc7f0774bf07e7a8a27",
+    "frozen-detector/channel_41.pt": "4d69c943f16132892c9a71d6690aa92b5bafa987af058da96310ed6322f9d987",
+    "frozen-detector/channel_42.json": "d14945c297681bc6be8e5cbbe16d296edcc7fd0aa9f9ab5299164703e7de9d79",
+    "frozen-detector/channel_42.pt": "7bdd1f1242bb6ed37bef01a4e99e9cf7501fe40d543cdcc7eb9c75cbdbaca0e0",
+    "frozen-detector/channel_43.json": "93e260cec0be67d14819ddc9ae8d6a1771194628c67a7fddc083436297cbf363",
+    "frozen-detector/channel_43.pt": "ddf662a868910c652eaf86a50fe64a1776ef81cd015fe81192103e66ee61f8c4",
+    "frozen-detector/channel_44.json": "52ed32461211d0131d688ea12581b158f13893191ed116d92a5adabc1c09df4a",
+    "frozen-detector/channel_44.pt": "b3b43fd8c0c3a0db1b57a5f184eee5e155bd0409cbb969cd53a3a6ffbb5136ef",
+    "frozen-detector/channel_45.json": "a07578cf91867b7e7617705f8eb78065c1d8277d451d21de29f0b0711c2fbb5c",
+    "frozen-detector/channel_45.pt": "f73af013e673782d92168e08f74bcb05fe61b611604beffa7ad2e0ed97f077d1",
+    "frozen-detector/channel_46.json": "ae616bec4e4f7d1ddf9d3b4bffd03f32a8b20f914aae9e1560ebc378e28e617c",
+    "frozen-detector/channel_46.pt": "5ee1252714ac157792c03097a3130d0a5d3cfbf01897aafd3fad6b9a6a99dccd",
+    "frozen-detector/replay.py": "0efc4f65fb2f5affb1ef2789115b6393f42c3fb21414cb8db7607bc3f7f41107",
+    "frozen-detector/thresholds.json": "aed8491c850bf2c81ff713ce65d6a5769faebad1b889a1e14a95f3e20ae5b585",
+    "frozen-detector/train.py": "c686160866aa8063d9035042e125d8508e850ace0078d81ccc077e462a0a286e",
+    "frozen-detector/transforms.json": "19520fe78d7fdfc6a7b54d1d831c8d3be277e88889e856e3a2aaacbb6a2a7261"
+  }
+}
