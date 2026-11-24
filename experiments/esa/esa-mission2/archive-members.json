@@ -1,0 +1,60 @@
+{
+  "source": "https://zenodo.org/records/15237121",
+  "archive_bytes": 4098539932,
+  "members": {
+    "anomaly_types.csv": {
+      "archive_path": "ESA-Mission2/anomaly_types.csv",
+      "header_offset": 0,
+      "compressed_size": 2512,
+      "crc32": "4a4e6bad"
+    },
+    "channels.csv": {
+      "archive_path": "ESA-Mission2/channels.csv",
+      "header_offset": 2572,
+      "compressed_size": 506,
+      "crc32": "cffddf65"
+    },
+    "channel_10.zip": {
+      "archive_path": "ESA-Mission2/channels/channel_10.zip",
+      "header_offset": 37415089,
+      "compressed_size": 40508342,
+      "crc32": "0dd19af2"
+    },
+    "channel_11.zip": {
+      "archive_path": "ESA-Mission2/channels/channel_11.zip",
+      "header_offset": 77940406,
+      "compressed_size": 40441655,
+      "crc32": "65867cf6"
+    },
+    "channel_12.zip": {
+      "archive_path": "ESA-Mission2/channels/channel_12.zip",
+      "header_offset": 118382127,
+      "compressed_size": 40094717,
+      "crc32": "01767fe5"
+    },
+    "channel_13.zip": {
+      "archive_path": "ESA-Mission2/channels/channel_13.zip",
+      "header_offset": 158476910,
+      "compressed_size": 39972263,
+      "crc32": "64a3c6da"
+    },
+    "channel_14.zip": {
+      "archive_path": "ESA-Mission2/channels/channel_14.zip",
+      "header_offset": 198449239,
+      "compressed_size": 40008799,
+      "crc32": "7f27981f"
+    },
+    "channel_9.zip": {
+      "archive_path": "ESA-Mission2/channels/channel_9.zip",
+      "header_offset": 3676834599,
+      "compressed_size": 40421954,
+      "crc32": "00f1ff71"
+    },
+    "labels.csv": {
+      "archive_path": "ESA-Mission2/labels.csv",
+      "header_offset": 4086246548,
+      "compressed_size": 103575,
+      "crc32": "2b7cc2d5"
+    }
+  }
+}
