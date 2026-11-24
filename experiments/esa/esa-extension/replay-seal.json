@@ -1,0 +1,14 @@
+{
+  "freeze_sha256": "aed8491c850bf2c81ff713ce65d6a5769faebad1b889a1e14a95f3e20ae5b585",
+  "prior_seal_sha256": "626869d7dea639ebfb0c574836214220183530168a58e47bdb3b463eaf46a3ef",
+  "replay_sha256": {
+    "channel_41": "233cd456addba91cc47d9cbf2104b7a92073371d1cf0276cbda3722b34ffa98a",
+    "channel_42": "c4df6d554bc5cb8d52d58f7da615cdf7f98923d0fcfff85390d9ef7f20aeab68",
+    "channel_43": "d81f5b1c8397f4fc9434dc339d84a639ffbcbe47425d97732b139584e7e9bdc0",
+    "channel_44": "847c9611c80de13b5a15d1c60d937ba595b89f47fee1375c74e75358edc78721",
+    "channel_45": "e76f25c10b508c3aaaa04e9d033ee01eef29cf5d592ade59ad9773ddd3516488",
+    "channel_46": "c2d3a064235c2d91786c7205349712ed714a1e4435a4438da28d9a39ead4d359"
+  },
+  "new_start_exclusive": "2009-01-01T00:00:00+00:00",
+  "end_inclusive": "2013-12-31T23:00:00+00:00"
+}

@@ -1,0 +1,611 @@
+{
+  "residual": {
+    "pooled": {
+      "events": 18,
+      "detected": 14,
+      "incidents": 3,
+      "incidents_detected": 3,
+      "matched_alarms": 14,
+      "false_alarms": 4194,
+      "emitted_episodes": 4208,
+      "eligible_hours": 262938,
+      "observable_hours": 262938,
+      "flagged_hours": 25627,
+      "recall": 0.7777777777777778,
+      "precision": 0.003326996197718631,
+      "false_per_1000": 15.950528261415238,
+      "workload_per_1000": 16.003772752512,
+      "flagged_fraction": 0.09746404095262001,
+      "median_delay_hours": 0.0
+    },
+    "annual": {
+      "2009": {
+        "events": 12,
+        "detected": 10,
+        "incidents": 2,
+        "incidents_detected": 2,
+        "matched_alarms": 10,
+        "false_alarms": 568,
+        "emitted_episodes": 578,
+        "eligible_hours": 52554,
+        "observable_hours": 52554,
+        "flagged_hours": 3570,
+        "recall": 0.8333333333333334,
+        "precision": 0.01730103806228374,
+        "false_per_1000": 10.807930890132054,
+        "workload_per_1000": 10.998211363549872,
+        "flagged_fraction": 0.06793012901016098,
+        "median_delay_hours": 0.0
+      },
+      "2010": {
+        "events": 6,
+        "detected": 4,
+        "incidents": 1,
+        "incidents_detected": 1,
+        "matched_alarms": 4,
+        "false_alarms": 1267,
+        "emitted_episodes": 1271,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 7291,
+        "recall": 0.6666666666666666,
+        "precision": 0.003147128245476003,
+        "false_per_1000": 24.105783866057838,
+        "workload_per_1000": 24.181887366818874,
+        "flagged_fraction": 0.13871765601217656,
+        "median_delay_hours": 0.0
+      },
+      "2011": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 1078,
+        "emitted_episodes": 1078,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 6670,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 20.509893455098936,
+        "workload_per_1000": 20.509893455098936,
+        "flagged_fraction": 0.1269025875190259,
+        "median_delay_hours": null
+      },
+      "2012": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 913,
+        "emitted_episodes": 913,
+        "eligible_hours": 52704,
+        "observable_hours": 52704,
+        "flagged_hours": 5481,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 17.32316332726169,
+        "workload_per_1000": 17.32316332726169,
+        "flagged_fraction": 0.10399590163934426,
+        "median_delay_hours": null
+      },
+      "2013": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 368,
+        "emitted_episodes": 368,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 2615,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 7.001522070015221,
+        "workload_per_1000": 7.001522070015221,
+        "flagged_fraction": 0.04975266362252664,
+        "median_delay_hours": null
+      }
+    },
+    "detected_incident_ids": [
+      "id_134",
+      "id_138",
+      "id_145"
+    ],
+    "detected_channel_events": [
+      [
+        "channel_41",
+        "id_134"
+      ],
+      [
+        "channel_41",
+        "id_138"
+      ],
+      [
+        "channel_42",
+        "id_134"
+      ],
+      [
+        "channel_42",
+        "id_138"
+      ],
+      [
+        "channel_42",
+        "id_145"
+      ],
+      [
+        "channel_43",
+        "id_134"
+      ],
+      [
+        "channel_44",
+        "id_134"
+      ],
+      [
+        "channel_44",
+        "id_138"
+      ],
+      [
+        "channel_44",
+        "id_145"
+      ],
+      [
+        "channel_45",
+        "id_134"
+      ],
+      [
+        "channel_45",
+        "id_145"
+      ],
+      [
+        "channel_46",
+        "id_134"
+      ],
+      [
+        "channel_46",
+        "id_138"
+      ],
+      [
+        "channel_46",
+        "id_145"
+      ]
+    ]
+  },
+  "direct": {
+    "pooled": {
+      "events": 18,
+      "detected": 15,
+      "incidents": 3,
+      "incidents_detected": 3,
+      "matched_alarms": 15,
+      "false_alarms": 5275,
+      "emitted_episodes": 5290,
+      "eligible_hours": 262938,
+      "observable_hours": 262938,
+      "flagged_hours": 31659,
+      "recall": 0.8333333333333334,
+      "precision": 0.002835538752362949,
+      "false_per_1000": 20.06176360967224,
+      "workload_per_1000": 20.118811278704484,
+      "flagged_fraction": 0.1204048102594528,
+      "median_delay_hours": 0
+    },
+    "annual": {
+      "2009": {
+        "events": 12,
+        "detected": 10,
+        "incidents": 2,
+        "incidents_detected": 2,
+        "matched_alarms": 10,
+        "false_alarms": 671,
+        "emitted_episodes": 681,
+        "eligible_hours": 52554,
+        "observable_hours": 52554,
+        "flagged_hours": 4412,
+        "recall": 0.8333333333333334,
+        "precision": 0.014684287812041116,
+        "false_per_1000": 12.76781976633558,
+        "workload_per_1000": 12.958100239753396,
+        "flagged_fraction": 0.08395174487194124,
+        "median_delay_hours": 0.0
+      },
+      "2010": {
+        "events": 6,
+        "detected": 5,
+        "incidents": 1,
+        "incidents_detected": 1,
+        "matched_alarms": 5,
+        "false_alarms": 1585,
+        "emitted_episodes": 1590,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 8845,
+        "recall": 0.8333333333333334,
+        "precision": 0.0031446540880503146,
+        "false_per_1000": 30.15601217656012,
+        "workload_per_1000": 30.251141552511417,
+        "flagged_fraction": 0.16828386605783865,
+        "median_delay_hours": 0
+      },
+      "2011": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 1375,
+        "emitted_episodes": 1375,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 8259,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 26.160578386605785,
+        "workload_per_1000": 26.160578386605785,
+        "flagged_fraction": 0.15713470319634704,
+        "median_delay_hours": null
+      },
+      "2012": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 1243,
+        "emitted_episodes": 1243,
+        "eligible_hours": 52704,
+        "observable_hours": 52704,
+        "flagged_hours": 7371,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 23.584547662416515,
+        "workload_per_1000": 23.584547662416515,
+        "flagged_fraction": 0.1398565573770492,
+        "median_delay_hours": null
+      },
+      "2013": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 401,
+        "emitted_episodes": 401,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 2772,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 7.62937595129376,
+        "workload_per_1000": 7.62937595129376,
+        "flagged_fraction": 0.05273972602739726,
+        "median_delay_hours": null
+      }
+    },
+    "detected_incident_ids": [
+      "id_134",
+      "id_138",
+      "id_145"
+    ],
+    "detected_channel_events": [
+      [
+        "channel_41",
+        "id_134"
+      ],
+      [
+        "channel_41",
+        "id_138"
+      ],
+      [
+        "channel_41",
+        "id_145"
+      ],
+      [
+        "channel_42",
+        "id_134"
+      ],
+      [
+        "channel_42",
+        "id_138"
+      ],
+      [
+        "channel_42",
+        "id_145"
+      ],
+      [
+        "channel_43",
+        "id_134"
+      ],
+      [
+        "channel_44",
+        "id_134"
+      ],
+      [
+        "channel_44",
+        "id_138"
+      ],
+      [
+        "channel_44",
+        "id_145"
+      ],
+      [
+        "channel_45",
+        "id_134"
+      ],
+      [
+        "channel_45",
+        "id_145"
+      ],
+      [
+        "channel_46",
+        "id_134"
+      ],
+      [
+        "channel_46",
+        "id_138"
+      ],
+      [
+        "channel_46",
+        "id_145"
+      ]
+    ]
+  },
+  "persistence": {
+    "pooled": {
+      "events": 18,
+      "detected": 6,
+      "incidents": 3,
+      "incidents_detected": 1,
+      "matched_alarms": 6,
+      "false_alarms": 1133,
+      "emitted_episodes": 1139,
+      "eligible_hours": 262938,
+      "observable_hours": 262938,
+      "flagged_hours": 8156,
+      "recall": 0.3333333333333333,
+      "precision": 0.0052677787532923615,
+      "false_per_1000": 4.309000600902114,
+      "workload_per_1000": 4.331819668515011,
+      "flagged_fraction": 0.031018719241798446,
+      "median_delay_hours": 113.0
+    },
+    "annual": {
+      "2009": {
+        "events": 12,
+        "detected": 6,
+        "incidents": 2,
+        "incidents_detected": 1,
+        "matched_alarms": 6,
+        "false_alarms": 276,
+        "emitted_episodes": 282,
+        "eligible_hours": 52554,
+        "observable_hours": 52554,
+        "flagged_hours": 2106,
+        "recall": 0.5,
+        "precision": 0.02127659574468085,
+        "false_per_1000": 5.251741066331773,
+        "workload_per_1000": 5.365909350382464,
+        "flagged_fraction": 0.04007306770179244,
+        "median_delay_hours": 113.0
+      },
+      "2010": {
+        "events": 6,
+        "detected": 0,
+        "incidents": 1,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 142,
+        "emitted_episodes": 142,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 1164,
+        "recall": 0.0,
+        "precision": 0.0,
+        "false_per_1000": 2.7016742770167426,
+        "workload_per_1000": 2.7016742770167426,
+        "flagged_fraction": 0.02214611872146119,
+        "median_delay_hours": null
+      },
+      "2011": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 232,
+        "emitted_episodes": 232,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 1778,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 4.41400304414003,
+        "workload_per_1000": 4.41400304414003,
+        "flagged_fraction": 0.03382800608828006,
+        "median_delay_hours": null
+      },
+      "2012": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 311,
+        "emitted_episodes": 311,
+        "eligible_hours": 52704,
+        "observable_hours": 52704,
+        "flagged_hours": 1905,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 5.900880388585307,
+        "workload_per_1000": 5.900880388585307,
+        "flagged_fraction": 0.03614526411657559,
+        "median_delay_hours": null
+      },
+      "2013": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 172,
+        "emitted_episodes": 172,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 1203,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 3.2724505327245055,
+        "workload_per_1000": 3.2724505327245055,
+        "flagged_fraction": 0.02288812785388128,
+        "median_delay_hours": null
+      }
+    },
+    "detected_incident_ids": [
+      "id_134"
+    ],
+    "detected_channel_events": [
+      [
+        "channel_41",
+        "id_134"
+      ],
+      [
+        "channel_42",
+        "id_134"
+      ],
+      [
+        "channel_43",
+        "id_134"
+      ],
+      [
+        "channel_44",
+        "id_134"
+      ],
+      [
+        "channel_45",
+        "id_134"
+      ],
+      [
+        "channel_46",
+        "id_134"
+      ]
+    ]
+  },
+  "level": {
+    "pooled": {
+      "events": 18,
+      "detected": 0,
+      "incidents": 3,
+      "incidents_detected": 0,
+      "matched_alarms": 0,
+      "false_alarms": 818,
+      "emitted_episodes": 818,
+      "eligible_hours": 262938,
+      "observable_hours": 262938,
+      "flagged_hours": 5813,
+      "recall": 0.0,
+      "precision": 0.0,
+      "false_per_1000": 3.1109995512250035,
+      "workload_per_1000": 3.1109995512250035,
+      "flagged_fraction": 0.022107873338962036,
+      "median_delay_hours": null
+    },
+    "annual": {
+      "2009": {
+        "events": 12,
+        "detected": 0,
+        "incidents": 2,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 225,
+        "emitted_episodes": 225,
+        "eligible_hours": 52554,
+        "observable_hours": 52554,
+        "flagged_hours": 1504,
+        "recall": 0.0,
+        "precision": 0.0,
+        "false_per_1000": 4.281310651900902,
+        "workload_per_1000": 4.281310651900902,
+        "flagged_fraction": 0.028618183202039807,
+        "median_delay_hours": null
+      },
+      "2010": {
+        "events": 6,
+        "detected": 0,
+        "incidents": 1,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 46,
+        "emitted_episodes": 46,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 372,
+        "recall": 0.0,
+        "precision": 0.0,
+        "false_per_1000": 0.8751902587519026,
+        "workload_per_1000": 0.8751902587519026,
+        "flagged_fraction": 0.007077625570776256,
+        "median_delay_hours": null
+      },
+      "2011": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 58,
+        "emitted_episodes": 58,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 608,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 1.1035007610350076,
+        "workload_per_1000": 1.1035007610350076,
+        "flagged_fraction": 0.01156773211567732,
+        "median_delay_hours": null
+      },
+      "2012": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 264,
+        "emitted_episodes": 264,
+        "eligible_hours": 52704,
+        "observable_hours": 52704,
+        "flagged_hours": 1868,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 5.009107468123862,
+        "workload_per_1000": 5.009107468123862,
+        "flagged_fraction": 0.03544323011536126,
+        "median_delay_hours": null
+      },
+      "2013": {
+        "events": 0,
+        "detected": 0,
+        "incidents": 0,
+        "incidents_detected": 0,
+        "matched_alarms": 0,
+        "false_alarms": 225,
+        "emitted_episodes": 225,
+        "eligible_hours": 52560,
+        "observable_hours": 52560,
+        "flagged_hours": 1461,
+        "recall": null,
+        "precision": 0.0,
+        "false_per_1000": 4.280821917808219,
+        "workload_per_1000": 4.280821917808219,
+        "flagged_fraction": 0.027796803652968036,
+        "median_delay_hours": null
+      }
+    },
+    "detected_incident_ids": [],
+    "detected_channel_events": []
+  }
+}
