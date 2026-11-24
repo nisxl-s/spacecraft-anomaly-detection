@@ -1,0 +1,4717 @@
+{
+  "calibration_exposure": 13254,
+  "methods": {
+    "residual": {
+      "selected": {
+        "multiplier": 1.1885022274370185,
+        "thresholds": {
+          "channel_41": 0.2813907270187057,
+          "channel_42": 0.4694291750416734,
+          "channel_43": 0.2528830877239258,
+          "channel_44": 0.3982054343214291,
+          "channel_45": 0.3047133448938673,
+          "channel_46": 0.4217513341318067
+        },
+        "episodes": 25,
+        "flagged": 192,
+        "feasible": true
+      },
+      "candidates": [
+        {
+          "multiplier": 0.1,
+          "thresholds": {
+            "channel_41": 0.023676079061754833,
+            "channel_42": 0.03949754272265759,
+            "channel_43": 0.021277460141514687,
+            "channel_44": 0.033504811781476525,
+            "channel_45": 0.025638432798815666,
+            "channel_46": 0.03548595235208815
+          },
+          "episodes": 7,
+          "flagged": 181,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.10592537251772889,
+          "thresholds": {
+            "channel_41": 0.025078974943755817,
+            "channel_42": 0.04183791926432417,
+            "channel_43": 0.022538228917210718,
+            "channel_44": 0.035490096690892925,
+            "channel_45": 0.027157605449853076,
+            "channel_46": 0.03758862722041315
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.11220184543019636,
+          "thresholds": {
+            "channel_41": 0.026564997632801242,
+            "channel_42": 0.04431697183440204,
+            "channel_43": 0.02387370293945395,
+            "channel_44": 0.03759301712673051,
+            "channel_45": 0.028766794739651918,
+            "channel_46": 0.039815893407523076
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.11885022274370183,
+          "thresholds": {
+            "channel_41": 0.028139072701870566,
+            "channel_42": 0.046942917504167334,
+            "channel_43": 0.02528830877239258,
+            "channel_44": 0.0398205434321429,
+            "channel_45": 0.03047133448938672,
+            "channel_46": 0.04217513341318067
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.12589254117941673,
+          "thresholds": {
+            "channel_41": 0.029806417582490963,
+            "channel_42": 0.04972446023697941,
+            "channel_43": 0.026786735270590358,
+            "channel_44": 0.0421800589690814,
+            "channel_45": 0.032276874569006096,
+            "channel_46": 0.04467416717776077
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.1333521432163324,
+          "thresholds": {
+            "channel_41": 0.03157255885844339,
+            "channel_42": 0.05267081973845042,
+            "channel_43": 0.028373949120710708,
+            "channel_44": 0.044679384591197184,
+            "channel_45": 0.0341893996242998,
+            "channel_46": 0.04732127800223607
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.14125375446227545,
+          "thresholds": {
+            "channel_41": 0.03344335058418538,
+            "channel_42": 0.05579176201609509,
+            "channel_43": 0.03005521130410368,
+            "channel_44": 0.04732680456685438,
+            "channel_45": 0.03621524891361457,
+            "channel_46": 0.050125240004018655
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.14962356560944334,
+          "thresholds": {
+            "channel_41": 0.03542499368870842,
+            "channel_42": 0.059097631749753486,
+            "channel_43": 0.031836094534862386,
+            "channel_44": 0.05013109403817803,
+            "channel_45": 0.03836113731996899,
+            "channel_46": 0.05309534719966242
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.15848931924611134,
+          "thresholds": {
+            "channel_41": 0.03752405652914634,
+            "channel_42": 0.062599386580082,
+            "channel_43": 0.03372250173114931,
+            "channel_44": 0.053101548107153056,
+            "channel_45": 0.040634177608214674,
+            "channel_46": 0.056241444310823945
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.16788040181225602,
+          "thresholds": {
+            "channel_41": 0.039747496662261426,
+            "channel_42": 0.06630863342876504,
+            "channel_43": 0.03572068558101748,
+            "channel_44": 0.056248012645182886,
+            "channel_45": 0.04304190400101698,
+            "channel_46": 0.059573959395591305
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.1778279410038923,
+          "thresholds": {
+            "channel_41": 0.04210268390597228,
+            "channel_42": 0.07023766697083468,
+            "channel_43": 0.03783726926757944,
+            "channel_44": 0.05958091692822923,
+            "channel_45": 0.04559229715180049,
+            "channel_46": 0.06310393841334065
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.18836490894898006,
+          "thresholds": {
+            "channel_41": 0.044597424767363024,
+            "channel_42": 0.07439951038661846,
+            "channel_43": 0.04007926842221966,
+            "channel_44": 0.0631113082057054,
+            "channel_45": 0.04829381059743457,
+            "channel_46": 0.06684308183768929
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.19952623149688797,
+          "thresholds": {
+            "channel_41": 0.04723998831814317,
+            "channel_42": 0.07880795852839201,
+            "channel_43": 0.04245411437861666,
+            "channel_44": 0.06685088831770544,
+            "channel_45": 0.051155398778338995,
+            "channel_46": 0.07080378343890277
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.21134890398366465,
+          "thresholds": {
+            "channel_41": 0.05003913360332475,
+            "channel_42": 0.0834776236448165,
+            "channel_43": 0.04496967880465239,
+            "channel_44": 0.07081205248194038,
+            "channel_45": 0.0541865467188853,
+            "channel_46": 0.07499917136430377
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.22387211385683395,
+          "thresholds": {
+            "channel_41": 0.0530041386739658,
+            "channel_42": 0.08842398381471962,
+            "channel_43": 0.04763429979385422,
+            "channel_44": 0.07500793037894504,
+            "channel_45": 0.05739730146647246,
+            "channel_46": 0.07944315165284863
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.23713737056616552,
+          "thresholds": {
+            "channel_41": 0.05614483134021188,
+            "channel_42": 0.09366343425075806,
+            "channel_43": 0.05045680950285185,
+            "channel_44": 0.07945242967173627,
+            "channel_45": 0.06079830539348482,
+            "channel_46": 0.08415045432810421
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.251188643150958,
+          "thresholds": {
+            "channel_41": 0.05947162174657003,
+            "channel_42": 0.09921334164301356,
+            "channel_43": 0.05344656342645665,
+            "channel_44": 0.0841602821041732,
+            "channel_45": 0.06440083147251525,
+            "channel_46": 0.0891366822224057
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.26607250597988097,
+          "thresholds": {
+            "channel_41": 0.06299553687738897,
+            "channel_42": 0.10509210172264914,
+            "channel_43": 0.056613471407398454,
+            "channel_44": 0.08914709233081698,
+            "channel_45": 0.06821682064177657,
+            "channel_46": 0.09441836269402745
+          },
+          "episodes": 7,
+          "flagged": 200,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.28183829312644537,
+          "thresholds": {
+            "channel_41": 0.06672825710691754,
+            "channel_42": 0.11131920023642668,
+            "channel_43": 0.05996803048350474,
+            "channel_44": 0.09442938964014161,
+            "channel_45": 0.0722589213845528,
+            "channel_46": 0.10001300240878894
+          },
+          "episodes": 7,
+          "flagged": 199,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.29853826189179594,
+          "thresholds": {
+            "channel_41": 0.0706821549150903,
+            "channel_42": 0.1179152775341915,
+            "channel_43": 0.06352135968119761,
+            "channel_44": 0.10002468274253769,
+            "channel_45": 0.07654053165388042,
+            "channel_46": 0.10593914536767485
+          },
+          "episodes": 9,
+          "flagged": 193,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.31622776601683794,
+          "thresholds": {
+            "channel_41": 0.07487033589736763,
+            "channel_42": 0.12490219698340624,
+            "channel_43": 0.06728523687063502,
+            "channel_44": 0.10595151780470953,
+            "channel_45": 0.08107584328142303,
+            "channel_46": 0.11221643437280791
+          },
+          "episodes": 8,
+          "flagged": 184,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.33496543915782767,
+          "thresholds": {
+            "channel_41": 0.07930668220456155,
+            "channel_42": 0.1323031174375006,
+            "channel_43": 0.07127213780465641,
+            "channel_44": 0.11222953992282642,
+            "channel_45": 0.08587988901773741,
+            "channel_46": 0.11886567613550955
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.35481338923357547,
+          "thresholds": {
+            "channel_41": 0.08400589855663324,
+            "channel_42": 0.14014256999824082,
+            "channel_43": 0.07549527747093139,
+            "channel_44": 0.11887955823818715,
+            "channel_45": 0.0909685923598505,
+            "channel_46": 0.12590891024225567
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.3758374042884442,
+          "thresholds": {
+            "channel_41": 0.08898356098297919,
+            "channel_42": 0.14844653932655555,
+            "channel_43": 0.07996865389437713,
+            "channel_44": 0.1259236149112302,
+            "channel_45": 0.09635882033130591,
+            "channel_46": 0.13336948220712222
+          },
+          "episodes": 8,
+          "flagged": 187,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.3981071705534972,
+          "thresholds": {
+            "channel_41": 0.09425616845076115,
+            "channel_42": 0.15724254977133087,
+            "channel_43": 0.08470709453503227,
+            "channel_44": 0.13338505818251098,
+            "channel_45": 0.10206843938962484,
+            "channel_46": 0.14127212085286034
+          },
+          "episodes": 13,
+          "flagged": 261,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.4216965034285822,
+          "thresholds": {
+            "channel_41": 0.09984119755240681,
+            "channel_42": 0.16655975660165748,
+            "channel_43": 0.08972630543517769,
+            "channel_44": 0.14128861976281418,
+            "channel_45": 0.10811637464649244,
+            "channel_46": 0.14964302027708848
+          },
+          "episodes": 18,
+          "flagged": 333,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.44668359215096315,
+          "thresholds": {
+            "channel_41": 0.10575716043354853,
+            "channel_42": 0.17642904264492823,
+            "channel_43": 0.09504292327860721,
+            "channel_44": 0.14966049680891844,
+            "channel_45": 0.11452267259696053,
+            "channel_46": 0.15850992667528654
+          },
+          "episodes": 21,
+          "flagged": 482,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.47315125896148047,
+          "thresholds": {
+            "channel_41": 0.11202366615340846,
+            "channel_42": 0.186883120651103,
+            "channel_43": 0.10067457053460395,
+            "channel_44": 0.15852843875673062,
+            "channel_45": 0.12130856756558944,
+            "channel_46": 0.16790223030837617
+          },
+          "episodes": 34,
+          "flagged": 601,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.5011872336272722,
+          "thresholds": {
+            "channel_41": 0.11866148568101488,
+            "channel_42": 0.19795664172243754,
+            "channel_43": 0.10663991386940294,
+            "channel_44": 0.16792183929960658,
+            "channel_45": 0.12849655208977145,
+            "channel_46": 0.17785106291972255
+          },
+          "episodes": 51,
+          "flagged": 862,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.5308844442309884,
+          "thresholds": {
+            "channel_41": 0.12569262074268653,
+            "channel_42": 0.2096863101680779,
+            "channel_43": 0.11295872601875032,
+            "channel_44": 0.17787183381673036,
+            "channel_45": 0.13611045147352796,
+            "channel_46": 0.18838940092445652
+          },
+          "episodes": 99,
+          "flagged": 1517,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.5623413251903491,
+          "thresholds": {
+            "channel_41": 0.13314037674898688,
+            "channel_42": 0.22211100516421695,
+            "channel_43": 0.11965195132664201,
+            "channel_44": 0.1884114025744873,
+            "channel_45": 0.1441755027588971,
+            "channel_46": 0.19955217471314834
+          },
+          "episodes": 197,
+          "flagged": 2403,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.5956621435290105,
+          "thresholds": {
+            "channel_41": 0.14102944004287207,
+            "channel_42": 0.23527190962306888,
+            "channel_43": 0.1267417751674772,
+            "channel_44": 0.1995754800429035,
+            "channel_45": 0.15271843837667026,
+            "channel_46": 0.21137638443213158
+          },
+          "episodes": 318,
+          "flagged": 3309,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.6309573444801932,
+          "thresholds": {
+            "channel_41": 0.14938595972507934,
+            "channel_42": 0.24921264669781013,
+            "channel_43": 0.13425169748173263,
+            "channel_44": 0.2114010706894912,
+            "channel_45": 0.1617675747537462,
+            "channel_46": 0.22390122262424209
+          },
+          "episodes": 404,
+          "flagged": 3711,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.6683439175686147,
+          "thresholds": {
+            "channel_41": 0.15823763432797475,
+            "channel_42": 0.26397942437594696,
+            "channel_43": 0.14220661066889975,
+            "channel_44": 0.22392737163431095,
+            "channel_45": 0.17135290617080123,
+            "channel_46": 0.2371682041364779
+          },
+          "episodes": 433,
+          "flagged": 3788,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.7079457843841379,
+          "thresholds": {
+            "channel_41": 0.16761380362514888,
+            "channel_42": 0.2796211886403782,
+            "channel_43": 0.15063288209586845,
+            "channel_44": 0.237195902572803,
+            "channel_45": 0.18150620418137564,
+            "channel_46": 0.2512213037251719
+          },
+          "episodes": 445,
+          "flagged": 3386,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.7498942093324559,
+          "thresholds": {
+            "channel_41": 0.17754554588107352,
+            "channel_42": 0.29618978570582205,
+            "channel_43": 0.15955844149424,
+            "channel_44": 0.2512506433970309,
+            "channel_45": 0.19226112292191175,
+            "channel_46": 0.2661071018147835
+          },
+          "episodes": 410,
+          "flagged": 3047,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.7943282347242815,
+          "thresholds": {
+            "channel_41": 0.1880657808631624,
+            "channel_42": 0.3137401338683549,
+            "channel_43": 0.16901287353625621,
+            "channel_44": 0.2661381799714956,
+            "channel_45": 0.20365331066180364,
+            "channel_46": 0.28187493889344145
+          },
+          "episodes": 349,
+          "flagged": 2373,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.8413951416451951,
+          "thresholds": {
+            "channel_41": 0.19920937895768046,
+            "channel_42": 0.33233040553767623,
+            "channel_43": 0.17902751589619745,
+            "channel_44": 0.2819078585467104,
+            "channel_45": 0.2157205279632032,
+            "channel_46": 0.29857707905699854
+          },
+          "episodes": 328,
+          "flagged": 2095,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.8912509381337456,
+          "thresholds": {
+            "channel_41": 0.21101327675117723,
+            "channel_42": 0.3520222200554627,
+            "channel_43": 0.18963556312228344,
+            "channel_44": 0.29861194932235524,
+            "channel_45": 0.22850277284223453,
+            "channel_46": 0.3162688832436796
+          },
+          "episodes": 259,
+          "flagged": 1554,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.9440608762859234,
+          "thresholds": {
+            "channel_41": 0.2235165994605507,
+            "channel_42": 0.3728808479389282,
+            "channel_43": 0.20087217666337162,
+            "channel_44": 0.31630581970215654,
+            "channel_45": 0.24204241334647675,
+            "channel_46": 0.33500899273352863
+          },
+          "episodes": 208,
+          "flagged": 1126,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.0,
+          "thresholds": {
+            "channel_41": 0.23676079061754832,
+            "channel_42": 0.39497542722657586,
+            "channel_43": 0.21277460141514687,
+            "channel_44": 0.33504811781476523,
+            "channel_45": 0.25638432798815664,
+            "channel_46": 0.3548595235208815
+          },
+          "episodes": 140,
+          "flagged": 674,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.0592537251772889,
+          "thresholds": {
+            "channel_41": 0.25078974943755816,
+            "channel_42": 0.41837919264324164,
+            "channel_43": 0.22538228917210718,
+            "channel_44": 0.35490096690892925,
+            "channel_45": 0.2715760544985308,
+            "channel_46": 0.3758862722041315
+          },
+          "episodes": 75,
+          "flagged": 403,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.1220184543019633,
+          "thresholds": {
+            "channel_41": 0.26564997632801235,
+            "channel_42": 0.44316971834402025,
+            "channel_43": 0.23873702939453942,
+            "channel_44": 0.375930171267305,
+            "channel_45": 0.28766794739651913,
+            "channel_46": 0.3981589340752307
+          },
+          "episodes": 41,
+          "flagged": 273,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.1885022274370185,
+          "thresholds": {
+            "channel_41": 0.2813907270187057,
+            "channel_42": 0.4694291750416734,
+            "channel_43": 0.2528830877239258,
+            "channel_44": 0.3982054343214291,
+            "channel_45": 0.3047133448938673,
+            "channel_46": 0.4217513341318067
+          },
+          "episodes": 25,
+          "flagged": 192,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.2589254117941673,
+          "thresholds": {
+            "channel_41": 0.2980641758249096,
+            "channel_42": 0.4972446023697942,
+            "channel_43": 0.26786735270590356,
+            "channel_44": 0.421800589690814,
+            "channel_45": 0.3227687456900609,
+            "channel_46": 0.44674167177760776
+          },
+          "episodes": 18,
+          "flagged": 142,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.333521432163324,
+          "thresholds": {
+            "channel_41": 0.3157255885844339,
+            "channel_42": 0.5267081973845041,
+            "channel_43": 0.28373949120710706,
+            "channel_44": 0.44679384591197185,
+            "channel_45": 0.34189399624299804,
+            "channel_46": 0.47321278002236067
+          },
+          "episodes": 12,
+          "flagged": 111,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.4125375446227544,
+          "thresholds": {
+            "channel_41": 0.3344335058418538,
+            "channel_42": 0.5579176201609509,
+            "channel_43": 0.3005521130410368,
+            "channel_44": 0.4732680456685438,
+            "channel_45": 0.36215248913614567,
+            "channel_46": 0.5012524000401866
+          },
+          "episodes": 10,
+          "flagged": 88,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.4962356560944334,
+          "thresholds": {
+            "channel_41": 0.35424993688708417,
+            "channel_42": 0.5909763174975349,
+            "channel_43": 0.31836094534862386,
+            "channel_44": 0.5013109403817803,
+            "channel_45": 0.38361137319968996,
+            "channel_46": 0.5309534719966242
+          },
+          "episodes": 8,
+          "flagged": 63,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.5848931924611136,
+          "thresholds": {
+            "channel_41": 0.37524056529146343,
+            "channel_42": 0.6259938658008201,
+            "channel_43": 0.3372250173114931,
+            "channel_44": 0.5310154810715306,
+            "channel_45": 0.40634177608214683,
+            "channel_46": 0.5624144431082395
+          },
+          "episodes": 6,
+          "flagged": 49,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.6788040181225603,
+          "thresholds": {
+            "channel_41": 0.3974749666226143,
+            "channel_42": 0.6630863342876504,
+            "channel_43": 0.35720685581017475,
+            "channel_44": 0.5624801264518289,
+            "channel_45": 0.43041904001016973,
+            "channel_46": 0.5957395939559131
+          },
+          "episodes": 5,
+          "flagged": 37,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.7782794100389228,
+          "thresholds": {
+            "channel_41": 0.4210268390597227,
+            "channel_42": 0.7023766697083468,
+            "channel_43": 0.3783726926757943,
+            "channel_44": 0.5958091692822922,
+            "channel_45": 0.45592297151800487,
+            "channel_46": 0.6310393841334064
+          },
+          "episodes": 5,
+          "flagged": 23,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.8836490894898006,
+          "thresholds": {
+            "channel_41": 0.4459742476736302,
+            "channel_42": 0.7439951038661846,
+            "channel_43": 0.40079268422219666,
+            "channel_44": 0.631113082057054,
+            "channel_45": 0.48293810597434567,
+            "channel_46": 0.6684308183768929
+          },
+          "episodes": 2,
+          "flagged": 16,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.9952623149688795,
+          "thresholds": {
+            "channel_41": 0.4723998831814316,
+            "channel_42": 0.78807958528392,
+            "channel_43": 0.4245411437861666,
+            "channel_44": 0.6685088831770544,
+            "channel_45": 0.5115539877833899,
+            "channel_46": 0.7080378343890276
+          },
+          "episodes": 3,
+          "flagged": 12,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.113489039836647,
+          "thresholds": {
+            "channel_41": 0.5003913360332476,
+            "channel_42": 0.8347762364481652,
+            "channel_43": 0.44969678804652397,
+            "channel_44": 0.7081205248194039,
+            "channel_45": 0.5418654671888531,
+            "channel_46": 0.7499917136430378
+          },
+          "episodes": 2,
+          "flagged": 7,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.2387211385683394,
+          "thresholds": {
+            "channel_41": 0.530041386739658,
+            "channel_42": 0.8842398381471962,
+            "channel_43": 0.4763429979385422,
+            "channel_44": 0.7500793037894503,
+            "channel_45": 0.5739730146647246,
+            "channel_46": 0.7944315165284863
+          },
+          "episodes": 1,
+          "flagged": 4,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.371373705661655,
+          "thresholds": {
+            "channel_41": 0.5614483134021188,
+            "channel_42": 0.9366343425075806,
+            "channel_43": 0.5045680950285185,
+            "channel_44": 0.7945242967173626,
+            "channel_45": 0.6079830539348482,
+            "channel_46": 0.8415045432810421
+          },
+          "episodes": 1,
+          "flagged": 1,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.51188643150958,
+          "thresholds": {
+            "channel_41": 0.5947162174657004,
+            "channel_42": 0.9921334164301355,
+            "channel_43": 0.5344656342645665,
+            "channel_44": 0.841602821041732,
+            "channel_45": 0.6440083147251525,
+            "channel_46": 0.8913668222240569
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.6607250597988097,
+          "thresholds": {
+            "channel_41": 0.6299553687738897,
+            "channel_42": 1.0509210172264916,
+            "channel_43": 0.5661347140739845,
+            "channel_44": 0.8914709233081699,
+            "channel_45": 0.6821682064177657,
+            "channel_46": 0.9441836269402746
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.8183829312644537,
+          "thresholds": {
+            "channel_41": 0.6672825710691754,
+            "channel_42": 1.1131920023642667,
+            "channel_43": 0.5996803048350474,
+            "channel_44": 0.944293896401416,
+            "channel_45": 0.722589213845528,
+            "channel_46": 1.0001300240878894
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.9853826189179595,
+          "thresholds": {
+            "channel_41": 0.706821549150903,
+            "channel_42": 1.1791527753419149,
+            "channel_43": 0.6352135968119761,
+            "channel_44": 1.0002468274253768,
+            "channel_45": 0.7654053165388042,
+            "channel_46": 1.0593914536767486
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.1622776601683795,
+          "thresholds": {
+            "channel_41": 0.7487033589736763,
+            "channel_42": 1.2490219698340623,
+            "channel_43": 0.6728523687063502,
+            "channel_44": 1.0595151780470953,
+            "channel_45": 0.8107584328142303,
+            "channel_46": 1.1221643437280793
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.3496543915782766,
+          "thresholds": {
+            "channel_41": 0.7930668220456155,
+            "channel_42": 1.3230311743750058,
+            "channel_43": 0.7127213780465641,
+            "channel_44": 1.1222953992282643,
+            "channel_45": 0.8587988901773741,
+            "channel_46": 1.1886567613550956
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.548133892335755,
+          "thresholds": {
+            "channel_41": 0.8400589855663324,
+            "channel_42": 1.4014256999824084,
+            "channel_43": 0.7549527747093139,
+            "channel_44": 1.1887955823818717,
+            "channel_45": 0.9096859235985051,
+            "channel_46": 1.2590891024225568
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.758374042884441,
+          "thresholds": {
+            "channel_41": 0.8898356098297917,
+            "channel_42": 1.4844653932655554,
+            "channel_43": 0.7996865389437711,
+            "channel_44": 1.2592361491123019,
+            "channel_45": 0.9635882033130588,
+            "channel_46": 1.333694822071222
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.9810717055349722,
+          "thresholds": {
+            "channel_41": 0.9425616845076116,
+            "channel_42": 1.5724254977133088,
+            "channel_43": 0.8470709453503227,
+            "channel_44": 1.3338505818251098,
+            "channel_45": 1.0206843938962484,
+            "channel_46": 1.4127212085286034
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.216965034285822,
+          "thresholds": {
+            "channel_41": 0.998411975524068,
+            "channel_42": 1.6655975660165747,
+            "channel_43": 0.897263054351777,
+            "channel_44": 1.4128861976281417,
+            "channel_45": 1.0811637464649244,
+            "channel_46": 1.4964302027708847
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.466835921509632,
+          "thresholds": {
+            "channel_41": 1.0575716043354855,
+            "channel_42": 1.7642904264492825,
+            "channel_43": 0.9504292327860722,
+            "channel_44": 1.4966049680891846,
+            "channel_45": 1.1452267259696054,
+            "channel_46": 1.5850992667528656
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.731512589614805,
+          "thresholds": {
+            "channel_41": 1.1202366615340849,
+            "channel_42": 1.86883120651103,
+            "channel_43": 1.0067457053460396,
+            "channel_44": 1.5852843875673062,
+            "channel_45": 1.2130856756558945,
+            "channel_46": 1.679022303083762
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.011872336272722,
+          "thresholds": {
+            "channel_41": 1.1866148568101487,
+            "channel_42": 1.9795664172243752,
+            "channel_43": 1.0663991386940292,
+            "channel_44": 1.6792183929960656,
+            "channel_45": 1.2849655208977144,
+            "channel_46": 1.7785106291972255
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.3088444423098835,
+          "thresholds": {
+            "channel_41": 1.2569262074268654,
+            "channel_42": 2.0968631016807793,
+            "channel_43": 1.1295872601875032,
+            "channel_44": 1.7787183381673035,
+            "channel_45": 1.3611045147352796,
+            "channel_46": 1.8838940092445653
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.623413251903491,
+          "thresholds": {
+            "channel_41": 1.3314037674898689,
+            "channel_42": 2.2211100516421696,
+            "channel_43": 1.1965195132664201,
+            "channel_44": 1.884114025744873,
+            "channel_45": 1.4417550275889712,
+            "channel_46": 1.9955217471314837
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.956621435290105,
+          "thresholds": {
+            "channel_41": 1.4102944004287206,
+            "channel_42": 2.3527190962306888,
+            "channel_43": 1.267417751674772,
+            "channel_44": 1.9957548004290349,
+            "channel_45": 1.5271843837667025,
+            "channel_46": 2.113763844321316
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 6.309573444801933,
+          "thresholds": {
+            "channel_41": 1.4938595972507935,
+            "channel_42": 2.492126466978102,
+            "channel_43": 1.3425169748173265,
+            "channel_44": 2.1140107068949123,
+            "channel_45": 1.6176757475374621,
+            "channel_46": 2.239012226242421
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 6.6834391756861455,
+          "thresholds": {
+            "channel_41": 1.5823763432797473,
+            "channel_42": 2.6397942437594692,
+            "channel_43": 1.4220661066889975,
+            "channel_44": 2.239273716343109,
+            "channel_45": 1.713529061708012,
+            "channel_46": 2.3716820413647786
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.079457843841379,
+          "thresholds": {
+            "channel_41": 1.6761380362514888,
+            "channel_42": 2.796211886403782,
+            "channel_43": 1.5063288209586845,
+            "channel_44": 2.3719590257280303,
+            "channel_45": 1.8150620418137562,
+            "channel_46": 2.5122130372517186
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.498942093324558,
+          "thresholds": {
+            "channel_41": 1.7754554588107352,
+            "channel_42": 2.9618978570582204,
+            "channel_43": 1.5955844149423999,
+            "channel_44": 2.5125064339703087,
+            "channel_45": 1.9226112292191175,
+            "channel_46": 2.6610710181478345
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.943282347242816,
+          "thresholds": {
+            "channel_41": 1.8806578086316241,
+            "channel_42": 3.1374013386835493,
+            "channel_43": 1.6901287353625625,
+            "channel_44": 2.661381799714956,
+            "channel_45": 2.036533106618037,
+            "channel_46": 2.818749388934415
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 8.413951416451951,
+          "thresholds": {
+            "channel_41": 1.9920937895768045,
+            "channel_42": 3.3233040553767625,
+            "channel_43": 1.7902751589619743,
+            "channel_44": 2.8190785854671043,
+            "channel_45": 2.157205279632032,
+            "channel_46": 2.9857707905699855
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 8.912509381337454,
+          "thresholds": {
+            "channel_41": 2.110132767511772,
+            "channel_42": 3.520222200554626,
+            "channel_43": 1.896355631222834,
+            "channel_44": 2.9861194932235517,
+            "channel_45": 2.2850277284223446,
+            "channel_46": 3.1626888324367957
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 9.440608762859233,
+          "thresholds": {
+            "channel_41": 2.2351659946055067,
+            "channel_42": 3.728808479389281,
+            "channel_43": 2.008721766633716,
+            "channel_44": 3.163058197021565,
+            "channel_45": 2.4204241334647674,
+            "channel_46": 3.350089927335286
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 10.0,
+          "thresholds": {
+            "channel_41": 2.367607906175483,
+            "channel_42": 3.949754272265759,
+            "channel_43": 2.1277460141514686,
+            "channel_44": 3.3504811781476525,
+            "channel_45": 2.5638432798815662,
+            "channel_46": 3.5485952352088153
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": null,
+          "thresholds": {
+            "channel_41": null,
+            "channel_42": null,
+            "channel_43": null,
+            "channel_44": null,
+            "channel_45": null,
+            "channel_46": null
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        }
+      ]
+    },
+    "direct": {
+      "selected": {
+        "multiplier": 1.1885022274370185,
+        "thresholds": {
+          "channel_41": 0.2758960117479049,
+          "channel_42": 0.4766790957520035,
+          "channel_43": 0.25449094070200645,
+          "channel_44": 0.3956179109406992,
+          "channel_45": 0.31529619590057295,
+          "channel_46": 0.40889965575917697
+        },
+        "episodes": 23,
+        "flagged": 181,
+        "feasible": true
+      },
+      "candidates": [
+        {
+          "multiplier": 0.1,
+          "thresholds": {
+            "channel_41": 0.02321375638839729,
+            "channel_42": 0.04010754752895605,
+            "channel_43": 0.021412744109938365,
+            "channel_44": 0.03328709882133258,
+            "channel_45": 0.026528868740995377,
+            "channel_46": 0.03440461837761642
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.10592537251772889,
+          "thresholds": {
+            "channel_41": 0.024589257929767912,
+            "channel_42": 0.04248406912777186,
+            "channel_43": 0.022681528964720265,
+            "channel_44": 0.03525948342684108,
+            "channel_45": 0.028100803038638687,
+            "channel_46": 0.036443220179793206
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.11220184543019636,
+          "thresholds": {
+            "channel_41": 0.026046263061451854,
+            "channel_42": 0.04500140848428181,
+            "channel_43": 0.024025494048596517,
+            "channel_44": 0.03734873916770829,
+            "channel_45": 0.02976588029915131,
+            "channel_46": 0.038602616732902106
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.11885022274370183,
+          "thresholds": {
+            "channel_41": 0.027589601174790486,
+            "channel_42": 0.04766790957520035,
+            "channel_43": 0.02544909407020064,
+            "channel_44": 0.03956179109406992,
+            "channel_45": 0.03152961959005729,
+            "channel_46": 0.04088996557591769
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.12589254117941673,
+          "thresholds": {
+            "channel_41": 0.029224387820552533,
+            "channel_42": 0.05049241078894513,
+            "channel_43": 0.026957047696247283,
+            "channel_44": 0.041905974591079254,
+            "channel_45": 0.03339786700419101,
+            "channel_46": 0.04331284835866193
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.1333521432163324,
+          "thresholds": {
+            "channel_41": 0.03095604166494606,
+            "channel_42": 0.05348427422137206,
+            "channel_43": 0.028554353192031787,
+            "channel_44": 0.04438905969278552,
+            "channel_45": 0.03537681503716499,
+            "channel_46": 0.045879295971951665
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.14125375446227545,
+          "thresholds": {
+            "channel_41": 0.03279030245033748,
+            "channel_42": 0.056653416707392004,
+            "channel_43": 0.030246304988687685,
+            "channel_44": 0.047019276836700104,
+            "channel_45": 0.03747302311302495,
+            "channel_46": 0.04859781516680119
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.14962356560944334,
+          "thresholds": {
+            "channel_41": 0.03473325002020996,
+            "channel_42": 0.06001034269132623,
+            "channel_43": 0.032038511232115846,
+            "channel_44": 0.04980534414441679,
+            "channel_45": 0.039693439326126324,
+            "channel_46": 0.051477416750911505
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.15848931924611134,
+          "thresholds": {
+            "channel_41": 0.03679132447142154,
+            "channel_42": 0.063566179044953,
+            "channel_43": 0.033936912371753114,
+            "channel_44": 0.05275649631871036,
+            "channel_45": 0.042045423471298,
+            "channel_46": 0.05452764545590678
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.16788040181225602,
+          "thresholds": {
+            "channel_41": 0.03897134750055962,
+            "channel_42": 0.06733271194865298,
+            "channel_43": 0.03594780085079471,
+            "channel_44": 0.05588251525289587,
+            "channel_45": 0.044536771438629025,
+            "channel_46": 0.05775861157431572
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.1778279410038923,
+          "thresholds": {
+            "channel_41": 0.04128054501514641,
+            "channel_42": 0.07132242595790003,
+            "channel_43": 0.038077841963135614,
+            "channel_44": 0.059193762453906625,
+            "channel_45": 0.04717574105373728,
+            "channel_46": 0.06118102447116201
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.18836490894898006,
+          "thresholds": {
+            "channel_41": 0.04372657108464259,
+            "channel_42": 0.07554854538458697,
+            "channel_43": 0.04033409594616349,
+            "channel_44": 0.06270121338656012,
+            "channel_45": 0.04997107944917037,
+            "channel_46": 0.06480622808124123
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.19952623149688797,
+          "thresholds": {
+            "channel_41": 0.04631753331063719,
+            "channel_42": 0.08002507813034922,
+            "channel_43": 0.04272404138263187,
+            "channel_44": 0.06641649385284991,
+            "channel_45": 0.052932052057663985,
+            "channel_46": 0.0686462385097438
+          },
+          "episodes": 7,
+          "flagged": 181,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.21134890398366465,
+          "thresholds": {
+            "channel_41": 0.0490620197003156,
+            "channel_42": 0.08476686211717599,
+            "channel_43": 0.04525559998918144,
+            "channel_44": 0.07035191852684576,
+            "channel_45": 0.05606847332335874,
+            "channel_46": 0.07271378386085477
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.22387211385683395,
+          "thresholds": {
+            "channel_41": 0.051969127132280836,
+            "channel_42": 0.08978961446920827,
+            "channel_43": 0.04793716287367372,
+            "channel_44": 0.0745205317729305,
+            "channel_45": 0.059390739232771196,
+            "channel_46": 0.07702234642634664
+          },
+          "episodes": 7,
+          "flagged": 182,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.23713737056616552,
+          "thresholds": {
+            "channel_41": 0.055048491509080595,
+            "channel_42": 0.09510998360874147,
+            "channel_43": 0.050777618348369316,
+            "channel_44": 0.07893615088266916,
+            "channel_45": 0.06290986177334586,
+            "channel_46": 0.08158620737400334
+          },
+          "episodes": 8,
+          "flagged": 182,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.251188643150958,
+          "thresholds": {
+            "channel_41": 0.05831031969638398,
+            "channel_42": 0.10074560443911029,
+            "channel_43": 0.05378638139114086,
+            "channel_44": 0.08361341187362384,
+            "channel_45": 0.06663750543380492,
+            "channel_46": 0.08642049408399982
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.26607250597988097,
+          "thresholds": {
+            "channel_41": 0.06176542335467337,
+            "channel_42": 0.1067151567973652,
+            "channel_43": 0.05697342485237236,
+            "channel_44": 0.08856781800191901,
+            "channel_45": 0.07058602586727969,
+            "channel_46": 0.09154123029013868
+          },
+          "episodes": 8,
+          "flagged": 190,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.28183829312644537,
+          "thresholds": {
+            "channel_41": 0.06542525477559008,
+            "channel_42": 0.11303842737048755,
+            "channel_43": 0.06034931251098375,
+            "channel_44": 0.09381579114935686,
+            "channel_45": 0.07476851084537649,
+            "channel_46": 0.09696538919214145
+          },
+          "episodes": 8,
+          "flagged": 185,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.29853826189179594,
+          "thresholds": {
+            "channel_41": 0.069301944841717,
+            "channel_42": 0.11973637528037134,
+            "channel_43": 0.06392523408914791,
+            "channel_44": 0.09937472625541077,
+            "channel_45": 0.07919882363892357,
+            "channel_46": 0.10271094971504147
+          },
+          "episodes": 7,
+          "flagged": 181,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.31622776601683794,
+          "thresholds": {
+            "channel_41": 0.07340834323561973,
+            "channel_42": 0.1268312015549592,
+            "channel_43": 0.06771304234176014,
+            "channel_44": 0.1052630489745172,
+            "channel_45": 0.08389164896918892,
+            "channel_46": 0.10879695610215488
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.33496543915782767,
+          "thresholds": {
+            "channel_41": 0.07775806103142324,
+            "channel_42": 0.1343464227158021,
+            "channel_43": 0.07172529234359692,
+            "channel_44": 0.11150027674977675,
+            "channel_45": 0.08886254168187883,
+            "channel_46": 0.11524358103915752
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.35481338923357547,
+          "thresholds": {
+            "channel_41": 0.08236551581009806,
+            "channel_42": 0.14230694872595612,
+            "channel_43": 0.07597528310438512,
+            "channel_44": 0.11810708350549967,
+            "channel_45": 0.09412797830525226,
+            "channel_46": 0.12207219251849838
+          },
+          "episodes": 9,
+          "flagged": 227,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.3758374042884442,
+          "thresholds": {
+            "channel_41": 0.08724597944799525,
+            "channel_42": 0.15073916555658246,
+            "channel_43": 0.08047710164971907,
+            "channel_44": 0.12510536817302567,
+            "channel_45": 0.0997054116632455,
+            "channel_46": 0.1293054246657786
+          },
+          "episodes": 14,
+          "flagged": 228,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.3981071705534972,
+          "thresholds": {
+            "channel_41": 0.09241562873703013,
+            "channel_42": 0.159671022645926,
+            "channel_43": 0.08524566971393625,
+            "channel_44": 0.13251832727695365,
+            "channel_45": 0.10561332872462786,
+            "channel_46": 0.13696725276285723
+          },
+          "episodes": 14,
+          "flagged": 325,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.4216965034285822,
+          "thresholds": {
+            "channel_41": 0.09789159900430049,
+            "channel_42": 0.1691321255405644,
+            "channel_43": 0.09029679319971977,
+            "channel_44": 0.1403705318223763,
+            "channel_45": 0.11187131187993564,
+            "channel_46": 0.14508307271635584
+          },
+          "episodes": 28,
+          "flagged": 484,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.44668359215096315,
+          "thresholds": {
+            "channel_41": 0.10369204090886669,
+            "channel_42": 0.17915383402599575,
+            "channel_43": 0.09564721456836647,
+            "channel_44": 0.14868800873796928,
+            "channel_45": 0.11850010384929213,
+            "channel_46": 0.15367978523496745
+          },
+          "episodes": 39,
+          "flagged": 671,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.47315125896148047,
+          "thresholds": {
+            "channel_41": 0.10983618060395285,
+            "channel_42": 0.1897693660718297,
+            "channel_43": 0.10131466833437362,
+            "channel_44": 0.1574983271448872,
+            "channel_45": 0.12552167643625828,
+            "channel_46": 0.16278588499458496
+          },
+          "episodes": 64,
+          "flagged": 923,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.5011872336272722,
+          "thresholds": {
+            "channel_41": 0.11634438346398254,
+            "channel_42": 0.2010139079361182,
+            "channel_43": 0.10731793984828676,
+            "channel_44": 0.1668306897374131,
+            "channel_45": 0.13295930335560488,
+            "channel_46": 0.17243155508679583
+          },
+          "episodes": 92,
+          "flagged": 1339,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.5308844442309884,
+          "thresholds": {
+            "channel_41": 0.12323822158767848,
+            "channel_42": 0.21292473079377783,
+            "channel_43": 0.11367692756264998,
+            "channel_44": 0.17671602957825133,
+            "channel_45": 0.1408376373764017,
+            "channel_46": 0.1826487670638014
+          },
+          "episodes": 149,
+          "flagged": 1941,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.5623413251903491,
+          "thresholds": {
+            "channel_41": 0.13054054530097262,
+            "channel_42": 0.22554131427568055,
+            "channel_43": 0.12041270898744581,
+            "channel_44": 0.18718711262930268,
+            "channel_45": 0.14918279203612167,
+            "channel_46": 0.19347138691137056
+          },
+          "episodes": 241,
+          "flagged": 2577,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.5956621435290105,
+          "thresholds": {
+            "channel_41": 0.13827555889672988,
+            "channel_42": 0.23890547732789627,
+            "channel_43": 0.1275476105536408,
+            "channel_44": 0.19827864635776962,
+            "channel_45": 0.15802242819661066,
+            "channel_46": 0.20493528730108584
+          },
+          "episodes": 352,
+          "flagged": 3183,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.6309573444801932,
+          "thresholds": {
+            "channel_41": 0.14646890086233272,
+            "channel_42": 0.25306151682483247,
+            "channel_43": 0.1351052816164061,
+            "channel_44": 0.21002739477757773,
+            "channel_45": 0.1673858457288205,
+            "channel_46": 0.2170784664939531
+          },
+          "episodes": 398,
+          "flagged": 3559,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.6683439175686147,
+          "thresholds": {
+            "channel_41": 0.15514772886104897,
+            "channel_42": 0.26805635439571895,
+            "channel_43": 0.14311077284330484,
+            "channel_44": 0.22247230030743032,
+            "channel_45": 0.17730408063020411,
+            "channel_46": 0.22994117428949312
+          },
+          "episodes": 388,
+          "flagged": 3273,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.7079457843841379,
+          "thresholds": {
+            "channel_41": 0.1643408097488621,
+            "channel_42": 0.28393969195110885,
+            "channel_43": 0.15159061924727144,
+            "channel_44": 0.23565461284940603,
+            "channel_45": 0.1878100078966781,
+            "channel_46": 0.24356604543778582
+          },
+          "episodes": 401,
+          "flagged": 3107,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.7498942093324559,
+          "thresholds": {
+            "channel_41": 0.1740786149251343,
+            "channel_42": 0.30076417642490394,
+            "channel_43": 0.1605729281396043,
+            "channel_44": 0.24961802651594517,
+            "channel_45": 0.1989384504901323,
+            "channel_46": 0.25799824095667545
+          },
+          "episodes": 404,
+          "flagged": 2807,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.7943282347242815,
+          "thresholds": {
+            "channel_41": 0.1843934213331513,
+            "channel_42": 0.31858557427795875,
+            "channel_43": 0.17008747229450097,
+            "channel_44": 0.2644088244584182,
+            "channel_45": 0.2107262947626703,
+            "channel_46": 0.27328559782254624
+          },
+          "episodes": 365,
+          "flagged": 2382,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.8413951416451951,
+          "thresholds": {
+            "channel_41": 0.19531941844532588,
+            "channel_42": 0.3374629563416737,
+            "channel_43": 0.1801657886339391,
+            "channel_44": 0.2800760322773273,
+            "channel_45": 0.22321261272016593,
+            "channel_46": 0.2894787875308345
+          },
+          "episodes": 291,
+          "flagged": 1890,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.8912509381337456,
+          "thresholds": {
+            "channel_41": 0.2068928215876731,
+            "channel_42": 0.3574588936142587,
+            "channel_43": 0.190841282760004,
+            "channel_44": 0.29667158052263354,
+            "channel_45": 0.23643879153039127,
+            "channel_46": 0.3066314840518414
+          },
+          "episodes": 234,
+          "flagged": 1464,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.9440608762859234,
+          "thresholds": {
+            "channel_41": 0.21915199197918295,
+            "channel_42": 0.3786396646586557,
+            "channel_43": 0.20214933968114657,
+            "channel_44": 0.31425047682283364,
+            "channel_45": 0.25044867070498333,
+            "channel_46": 0.3248005417385534
+          },
+          "episodes": 189,
+          "flagged": 945,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.0,
+          "thresholds": {
+            "channel_41": 0.23213756388397286,
+            "channel_42": 0.4010754752895605,
+            "channel_43": 0.21412744109938364,
+            "channel_44": 0.3328709882133258,
+            "channel_45": 0.26528868740995376,
+            "channel_46": 0.3440461837761642
+          },
+          "episodes": 110,
+          "flagged": 586,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.0592537251772889,
+          "thresholds": {
+            "channel_41": 0.24589257929767913,
+            "channel_42": 0.4248406912777186,
+            "channel_43": 0.22681528964720263,
+            "channel_44": 0.35259483426841076,
+            "channel_45": 0.28100803038638683,
+            "channel_46": 0.36443220179793206
+          },
+          "episodes": 72,
+          "flagged": 358,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.1220184543019633,
+          "thresholds": {
+            "channel_41": 0.2604626306145185,
+            "channel_42": 0.45001408484281796,
+            "channel_43": 0.24025494048596513,
+            "channel_44": 0.37348739167708284,
+            "channel_45": 0.29765880299151304,
+            "channel_46": 0.38602616732902095
+          },
+          "episodes": 32,
+          "flagged": 246,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.1885022274370185,
+          "thresholds": {
+            "channel_41": 0.2758960117479049,
+            "channel_42": 0.4766790957520035,
+            "channel_43": 0.25449094070200645,
+            "channel_44": 0.3956179109406992,
+            "channel_45": 0.31529619590057295,
+            "channel_46": 0.40889965575917697
+          },
+          "episodes": 23,
+          "flagged": 181,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.2589254117941673,
+          "thresholds": {
+            "channel_41": 0.29224387820552533,
+            "channel_42": 0.5049241078894513,
+            "channel_43": 0.2695704769624728,
+            "channel_44": 0.41905974591079254,
+            "channel_45": 0.3339786700419102,
+            "channel_46": 0.43312848358661926
+          },
+          "episodes": 9,
+          "flagged": 143,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.333521432163324,
+          "thresholds": {
+            "channel_41": 0.3095604166494606,
+            "channel_42": 0.5348427422137205,
+            "channel_43": 0.2855435319203179,
+            "channel_44": 0.44389059692785515,
+            "channel_45": 0.35376815037164994,
+            "channel_46": 0.4587929597195166
+          },
+          "episodes": 10,
+          "flagged": 126,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.4125375446227544,
+          "thresholds": {
+            "channel_41": 0.32790302450337483,
+            "channel_42": 0.56653416707392,
+            "channel_43": 0.30246304988687683,
+            "channel_44": 0.470192768367001,
+            "channel_45": 0.3747302311302495,
+            "channel_46": 0.4859781516680119
+          },
+          "episodes": 10,
+          "flagged": 112,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.4962356560944334,
+          "thresholds": {
+            "channel_41": 0.3473325002020996,
+            "channel_42": 0.6001034269132622,
+            "channel_43": 0.32038511232115846,
+            "channel_44": 0.4980534414441679,
+            "channel_45": 0.39693439326126323,
+            "channel_46": 0.5147741675091151
+          },
+          "episodes": 10,
+          "flagged": 88,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.5848931924611136,
+          "thresholds": {
+            "channel_41": 0.36791324471421544,
+            "channel_42": 0.63566179044953,
+            "channel_43": 0.3393691237175312,
+            "channel_44": 0.5275649631871037,
+            "channel_45": 0.42045423471298005,
+            "channel_46": 0.5452764545590678
+          },
+          "episodes": 7,
+          "flagged": 72,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.6788040181225603,
+          "thresholds": {
+            "channel_41": 0.38971347500559617,
+            "channel_42": 0.6733271194865298,
+            "channel_43": 0.35947800850794714,
+            "channel_44": 0.5588251525289587,
+            "channel_45": 0.44536771438629025,
+            "channel_46": 0.5775861157431572
+          },
+          "episodes": 6,
+          "flagged": 54,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.7782794100389228,
+          "thresholds": {
+            "channel_41": 0.41280545015146397,
+            "channel_42": 0.7132242595790002,
+            "channel_43": 0.3807784196313561,
+            "channel_44": 0.5919376245390662,
+            "channel_45": 0.47175741053737275,
+            "channel_46": 0.61181024471162
+          },
+          "episodes": 4,
+          "flagged": 40,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.8836490894898006,
+          "thresholds": {
+            "channel_41": 0.4372657108464259,
+            "channel_42": 0.7554854538458696,
+            "channel_43": 0.4033409594616349,
+            "channel_44": 0.6270121338656013,
+            "channel_45": 0.49971079449170375,
+            "channel_46": 0.6480622808124122
+          },
+          "episodes": 4,
+          "flagged": 28,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.9952623149688795,
+          "thresholds": {
+            "channel_41": 0.4631753331063718,
+            "channel_42": 0.8002507813034921,
+            "channel_43": 0.4272404138263186,
+            "channel_44": 0.664164938528499,
+            "channel_45": 0.5293205205766398,
+            "channel_46": 0.686462385097438
+          },
+          "episodes": 2,
+          "flagged": 19,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.113489039836647,
+          "thresholds": {
+            "channel_41": 0.49062019700315607,
+            "channel_42": 0.84766862117176,
+            "channel_43": 0.4525559998918145,
+            "channel_44": 0.7035191852684577,
+            "channel_45": 0.5606847332335875,
+            "channel_46": 0.7271378386085477
+          },
+          "episodes": 3,
+          "flagged": 15,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.2387211385683394,
+          "thresholds": {
+            "channel_41": 0.5196912713228083,
+            "channel_42": 0.8978961446920828,
+            "channel_43": 0.47937162873673717,
+            "channel_44": 0.745205317729305,
+            "channel_45": 0.593907392327712,
+            "channel_46": 0.7702234642634664
+          },
+          "episodes": 2,
+          "flagged": 6,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.371373705661655,
+          "thresholds": {
+            "channel_41": 0.5504849150908059,
+            "channel_42": 0.9510998360874147,
+            "channel_43": 0.5077761834836931,
+            "channel_44": 0.7893615088266914,
+            "channel_45": 0.6290986177334585,
+            "channel_46": 0.8158620737400333
+          },
+          "episodes": 1,
+          "flagged": 4,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.51188643150958,
+          "thresholds": {
+            "channel_41": 0.5831031969638397,
+            "channel_42": 1.007456044391103,
+            "channel_43": 0.5378638139114086,
+            "channel_44": 0.8361341187362384,
+            "channel_45": 0.6663750543380492,
+            "channel_46": 0.8642049408399983
+          },
+          "episodes": 1,
+          "flagged": 1,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.6607250597988097,
+          "thresholds": {
+            "channel_41": 0.6176542335467337,
+            "channel_42": 1.0671515679736518,
+            "channel_43": 0.5697342485237237,
+            "channel_44": 0.8856781800191901,
+            "channel_45": 0.705860258672797,
+            "channel_46": 0.9154123029013868
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.8183829312644537,
+          "thresholds": {
+            "channel_41": 0.6542525477559008,
+            "channel_42": 1.1303842737048755,
+            "channel_43": 0.6034931251098375,
+            "channel_44": 0.9381579114935685,
+            "channel_45": 0.7476851084537649,
+            "channel_46": 0.9696538919214146
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.9853826189179595,
+          "thresholds": {
+            "channel_41": 0.69301944841717,
+            "channel_42": 1.1973637528037135,
+            "channel_43": 0.6392523408914791,
+            "channel_44": 0.9937472625541077,
+            "channel_45": 0.7919882363892357,
+            "channel_46": 1.0271094971504147
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.1622776601683795,
+          "thresholds": {
+            "channel_41": 0.7340834323561974,
+            "channel_42": 1.2683120155495922,
+            "channel_43": 0.6771304234176014,
+            "channel_44": 1.0526304897451721,
+            "channel_45": 0.8389164896918893,
+            "channel_46": 1.0879695610215487
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.3496543915782766,
+          "thresholds": {
+            "channel_41": 0.7775806103142324,
+            "channel_42": 1.3434642271580208,
+            "channel_43": 0.7172529234359691,
+            "channel_44": 1.1150027674977674,
+            "channel_45": 0.8886254168187883,
+            "channel_46": 1.1524358103915753
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.548133892335755,
+          "thresholds": {
+            "channel_41": 0.8236551581009807,
+            "channel_42": 1.4230694872595613,
+            "channel_43": 0.7597528310438512,
+            "channel_44": 1.1810708350549968,
+            "channel_45": 0.9412797830525227,
+            "channel_46": 1.220721925184984
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.758374042884441,
+          "thresholds": {
+            "channel_41": 0.8724597944799524,
+            "channel_42": 1.5073916555658242,
+            "channel_43": 0.8047710164971905,
+            "channel_44": 1.2510536817302564,
+            "channel_45": 0.9970541166324547,
+            "channel_46": 1.2930542466577857
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.9810717055349722,
+          "thresholds": {
+            "channel_41": 0.9241562873703014,
+            "channel_42": 1.5967102264592603,
+            "channel_43": 0.8524566971393626,
+            "channel_44": 1.3251832727695365,
+            "channel_45": 1.0561332872462788,
+            "channel_46": 1.3696725276285724
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.216965034285822,
+          "thresholds": {
+            "channel_41": 0.9789159900430049,
+            "channel_42": 1.691321255405644,
+            "channel_43": 0.9029679319971977,
+            "channel_44": 1.4037053182237629,
+            "channel_45": 1.1187131187993564,
+            "channel_46": 1.4508307271635585
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.466835921509632,
+          "thresholds": {
+            "channel_41": 1.036920409088667,
+            "channel_42": 1.7915383402599576,
+            "channel_43": 0.9564721456836648,
+            "channel_44": 1.4868800873796928,
+            "channel_45": 1.1850010384929215,
+            "channel_46": 1.5367978523496746
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.731512589614805,
+          "thresholds": {
+            "channel_41": 1.0983618060395288,
+            "channel_42": 1.8976936607182973,
+            "channel_43": 1.0131466833437364,
+            "channel_44": 1.5749832714488725,
+            "channel_45": 1.255216764362583,
+            "channel_46": 1.62785884994585
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.011872336272722,
+          "thresholds": {
+            "channel_41": 1.1634438346398253,
+            "channel_42": 2.010139079361182,
+            "channel_43": 1.0731793984828675,
+            "channel_44": 1.6683068973741308,
+            "channel_45": 1.3295930335560489,
+            "channel_46": 1.7243155508679584
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.3088444423098835,
+          "thresholds": {
+            "channel_41": 1.2323822158767848,
+            "channel_42": 2.1292473079377783,
+            "channel_43": 1.1367692756264998,
+            "channel_44": 1.7671602957825132,
+            "channel_45": 1.408376373764017,
+            "channel_46": 1.826487670638014
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.623413251903491,
+          "thresholds": {
+            "channel_41": 1.3054054530097263,
+            "channel_42": 2.255413142756806,
+            "channel_43": 1.2041270898744583,
+            "channel_44": 1.871871126293027,
+            "channel_45": 1.4918279203612168,
+            "channel_46": 1.9347138691137056
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.956621435290105,
+          "thresholds": {
+            "channel_41": 1.3827555889672987,
+            "channel_42": 2.389054773278963,
+            "channel_43": 1.275476105536408,
+            "channel_44": 1.9827864635776962,
+            "channel_45": 1.5802242819661068,
+            "channel_46": 2.049352873010858
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 6.309573444801933,
+          "thresholds": {
+            "channel_41": 1.4646890086233275,
+            "channel_42": 2.530615168248325,
+            "channel_43": 1.3510528161640611,
+            "channel_44": 2.100273947775778,
+            "channel_45": 1.6738584572882051,
+            "channel_46": 2.1707846649395313
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 6.6834391756861455,
+          "thresholds": {
+            "channel_41": 1.5514772886104895,
+            "channel_42": 2.6805635439571893,
+            "channel_43": 1.4311077284330482,
+            "channel_44": 2.2247230030743026,
+            "channel_45": 1.7730408063020409,
+            "channel_46": 2.299411742894931
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.079457843841379,
+          "thresholds": {
+            "channel_41": 1.6434080974886207,
+            "channel_42": 2.839396919511088,
+            "channel_43": 1.5159061924727144,
+            "channel_44": 2.35654612849406,
+            "channel_45": 1.8781000789667808,
+            "channel_46": 2.435660454377858
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.498942093324558,
+          "thresholds": {
+            "channel_41": 1.7407861492513428,
+            "channel_42": 3.007641764249039,
+            "channel_43": 1.605729281396043,
+            "channel_44": 2.4961802651594516,
+            "channel_45": 1.989384504901323,
+            "channel_46": 2.5799824095667545
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.943282347242816,
+          "thresholds": {
+            "channel_41": 1.843934213331513,
+            "channel_42": 3.185855742779588,
+            "channel_43": 1.7008747229450099,
+            "channel_44": 2.6440882445841822,
+            "channel_45": 2.1072629476267033,
+            "channel_46": 2.7328559782254627
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 8.413951416451951,
+          "thresholds": {
+            "channel_41": 1.9531941844532588,
+            "channel_42": 3.374629563416737,
+            "channel_43": 1.8016578863393906,
+            "channel_44": 2.8007603227732734,
+            "channel_45": 2.2321261272016595,
+            "channel_46": 2.894787875308345
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 8.912509381337454,
+          "thresholds": {
+            "channel_41": 2.068928215876731,
+            "channel_42": 3.574588936142586,
+            "channel_43": 1.9084128276000398,
+            "channel_44": 2.966715805226335,
+            "channel_45": 2.364387915303912,
+            "channel_46": 3.0663148405184133
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 9.440608762859233,
+          "thresholds": {
+            "channel_41": 2.191519919791829,
+            "channel_42": 3.7863966465865566,
+            "channel_43": 2.0214933968114654,
+            "channel_44": 3.142504768228336,
+            "channel_45": 2.5044867070498333,
+            "channel_46": 3.2480054173855337
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 10.0,
+          "thresholds": {
+            "channel_41": 2.3213756388397284,
+            "channel_42": 4.010754752895605,
+            "channel_43": 2.1412744109938364,
+            "channel_44": 3.328709882133258,
+            "channel_45": 2.6528868740995377,
+            "channel_46": 3.440461837761642
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": null,
+          "thresholds": {
+            "channel_41": null,
+            "channel_42": null,
+            "channel_43": null,
+            "channel_44": null,
+            "channel_45": null,
+            "channel_46": null
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        }
+      ]
+    },
+    "persistence": {
+      "selected": {
+        "multiplier": 0.6683439175686147,
+        "thresholds": {
+          "channel_41": 0.5196420469535938,
+          "channel_42": 0.6344469728025611,
+          "channel_43": 0.47259099326350157,
+          "channel_44": 0.5837113140858007,
+          "channel_45": 0.5187595411263165,
+          "channel_46": 0.6076939418840855
+        },
+        "episodes": 22,
+        "flagged": 350,
+        "feasible": true
+      },
+      "candidates": [
+        {
+          "multiplier": 0.1,
+          "thresholds": {
+            "channel_41": 0.07775069590578648,
+            "channel_42": 0.09492821826083672,
+            "channel_43": 0.07071074948699352,
+            "channel_44": 0.08733696810009119,
+            "channel_45": 0.07761865223723813,
+            "channel_46": 0.09092533438395473
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.10592537251772889,
+          "thresholds": {
+            "channel_41": 0.08235771427333091,
+            "channel_42": 0.10055306881723404,
+            "channel_43": 0.07490062480417596,
+            "channel_44": 0.09251200880571163,
+            "channel_45": 0.082217846525535,
+            "channel_46": 0.09631299915919467
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.11220184543019636,
+          "thresholds": {
+            "channel_41": 0.08723771564111256,
+            "channel_42": 0.10651121272266345,
+            "channel_43": 0.07933876584192984,
+            "channel_44": 0.0979936899510842,
+            "channel_45": 0.08708956020822757,
+            "channel_46": 0.10201990314237405
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.11885022274370183,
+          "thresholds": {
+            "channel_41": 0.09240687526880549,
+            "channel_42": 0.11282239884963187,
+            "channel_43": 0.08403988326903279,
+            "channel_44": 0.10380018112455418,
+            "channel_45": 0.09224994107461681,
+            "channel_46": 0.10806496244578588
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.12589254117941673,
+          "thresholds": {
+            "channel_41": 0.09788232686047532,
+            "channel_42": 0.11950754626491045,
+            "channel_43": 0.08901955941618751,
+            "channel_44": 0.10995072853026135,
+            "channel_45": 0.09771609373067328,
+            "channel_46": 0.11446821403184254
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.1333521432163324,
+          "thresholds": {
+            "channel_41": 0.10368221935597949,
+            "channel_42": 0.12658881356790358,
+            "channel_43": 0.09429429992523762,
+            "channel_44": 0.11646571878163614,
+            "channel_45": 0.10350613629398879,
+            "channel_46": 0.12125088212762042
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.14125375446227545,
+          "thresholds": {
+            "channel_41": 0.10982577708747009,
+            "channel_42": 0.1340896723375752,
+            "channel_43": 0.09988158845879253,
+            "channel_44": 0.12336674647489863,
+            "channel_45": 0.10963926044811581,
+            "channel_46": 0.1284354485747143
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.14962356560944334,
+          "thresholds": {
+            "channel_41": 0.11633336350039322,
+            "channel_42": 0.1420349849313786,
+            "channel_43": 0.10579994465160086,
+            "channel_44": 0.13067668576653854,
+            "channel_45": 0.11613579505534966,
+            "channel_46": 0.13604572734758222
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.15848931924611134,
+          "thresholds": {
+            "channel_41": 0.12322654865019515,
+            "channel_42": 0.15045108689406286,
+            "channel_43": 0.1120689854957592,
+            "channel_44": 0.13841976619202795,
+            "channel_45": 0.12301727353880527,
+            "channel_46": 0.14410694348738023
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.16788040181225602,
+          "thresholds": {
+            "channel_41": 0.13052818069845964,
+            "channel_42": 0.15936587424950807,
+            "channel_43": 0.11870949036322248,
+            "channel_44": 0.14662165297707494,
+            "channel_45": 0.13030650525713303,
+            "channel_46": 0.15264581671292057
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.1778279410038923,
+          "thresholds": {
+            "channel_41": 0.1382624616454577,
+            "channel_42": 0.16880889596492682,
+            "channel_43": 0.1257434698811409,
+            "channel_44": 0.1553095321076184,
+            "channel_45": 0.13802765110845214,
+            "channel_46": 0.16169064998589078
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.18836490894898006,
+          "thresholds": {
+            "channel_41": 0.14645502755013307,
+            "channel_42": 0.17881145189391415,
+            "channel_43": 0.13319423888831672,
+            "channel_44": 0.16451220044053652,
+            "channel_45": 0.1462063036140991,
+            "channel_46": 0.17127142332389195
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.19952623149688797,
+          "thresholds": {
+            "channel_41": 0.15513303350342095,
+            "channel_42": 0.18940669652298814,
+            "channel_43": 0.14108649371460322,
+            "channel_44": 0.17426016115375115,
+            "channel_45": 0.15486957174763616,
+            "channel_46": 0.18141989317224896
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.21134890398366465,
+          "thresholds": {
+            "channel_41": 0.16432524363655177,
+            "channel_42": 0.20062974886549942,
+            "channel_43": 0.14944639403939558,
+            "channel_44": 0.18458572485210553,
+            "channel_45": 0.164046170790295,
+            "channel_46": 0.19216969766397046
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.22387211385683395,
+          "thresholds": {
+            "channel_41": 0.17406212646268304,
+            "channel_42": 0.2125178088671642,
+            "channel_43": 0.15830164960054274,
+            "channel_44": 0.19552311666414288,
+            "channel_45": 0.17376651751068972,
+            "channel_46": 0.2035564681167541
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.23713737056616552,
+          "thresholds": {
+            "channel_41": 0.18437595586787736,
+            "channel_42": 0.22511028070905878,
+            "channel_43": 0.1676816120410848,
+            "channel_44": 0.207108589684767,
+            "channel_45": 0.1840628309842827,
+            "channel_46": 0.2156179471366038
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.251188643150958,
+          "thresholds": {
+            "channel_41": 0.19530091808617253,
+            "channel_42": 0.2384489034167757,
+            "channel_43": 0.17761737219825202,
+            "channel_44": 0.21938054513980407,
+            "channel_45": 0.19496923938677918,
+            "channel_46": 0.22839411371952734
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.26607250597988097,
+          "thresholds": {
+            "channel_41": 0.2068732250133228,
+            "channel_42": 0.25257788920865926,
+            "channel_43": 0.18814186315719947,
+            "channel_44": 0.23237965967076185,
+            "channel_45": 0.20652189311542843,
+            "channel_46": 0.24192731576597468
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.28183829312644537,
+          "thresholds": {
+            "channel_41": 0.21913123423480166,
+            "channel_42": 0.26754407004168884,
+            "channel_43": 0.19928996941105925,
+            "channel_44": 0.24614902016168508,
+            "channel_45": 0.21875908461318344,
+            "channel_46": 0.2562624104472509
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.29853826189179594,
+          "thresholds": {
+            "channel_41": 0.23211557616591072,
+            "channel_42": 0.2833970528407524,
+            "channel_43": 0.21109864248913246,
+            "channel_44": 0.2607342665550045,
+            "channel_45": 0.2317213752928883,
+            "channel_46": 0.2714469128891619
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.31622776601683794,
+          "thresholds": {
+            "channel_41": 0.24586928872541366,
+            "channel_42": 0.30018938392583194,
+            "channel_43": 0.2236070234364823,
+            "channel_44": 0.27618374312975674,
+            "channel_45": 0.24545172998219653,
+            "channel_46": 0.2875311536657198
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.33496543915782767,
+          "thresholds": {
+            "channel_41": 0.2604379599890848,
+            "channel_42": 0.31797672318211284,
+            "channel_43": 0.2368565725508992,
+            "channel_44": 0.2925486587436023,
+            "channel_45": 0.25999565933485175,
+            "channel_46": 0.3045684456249372
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.35481338923357547,
+          "thresholds": {
+            "channel_41": 0.2758698792960118,
+            "channel_42": 0.33681802855032067,
+            "channel_43": 0.2508912068072648,
+            "channel_44": 0.30988325656978016,
+            "channel_45": 0.2754013706803671,
+            "channel_46": 0.32261526059967127
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.3758374042884442,
+          "thresholds": {
+            "channel_41": 0.29221619730850956,
+            "channel_42": 0.3567757514487976,
+            "channel_43": 0.2657574454248208,
+            "channel_44": 0.32824499389160927,
+            "channel_45": 0.2917199278121102,
+            "channel_46": 0.34173141658924366
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.3981071705534972,
+          "thresholds": {
+            "channel_41": 0.30953109555618036,
+            "channel_42": 0.3779160437750653,
+            "channel_43": 0.2815045640598414,
+            "channel_44": 0.34769473255048344,
+            "channel_45": 0.3090054202434275,
+            "channel_46": 0.36198027603226823
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.4216965034285822,
+          "thresholds": {
+            "channel_41": 0.3278719660260914,
+            "channel_42": 0.40030897717300135,
+            "channel_43": 0.29818475813479584,
+            "channel_44": 0.3682969406786208,
+            "channel_45": 0.3273151424928242,
+            "channel_46": 0.38342895582788344
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.44668359215096315,
+          "thresholds": {
+            "channel_41": 0.3472996013943389,
+            "channel_42": 0.424028775292412,
+            "channel_43": 0.3158533158453714,
+            "channel_44": 0.3901199063852281,
+            "channel_45": 0.3467097839924592,
+            "channel_46": 0.40614854980152376
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.47315125896148047,
+          "thresholds": {
+            "channel_41": 0.367878396529541,
+            "channel_42": 0.44915405981085094,
+            "channel_43": 0.3345688014188084,
+            "channel_44": 0.413235964104368,
+            "channel_45": 0.36725363024942553,
+            "channel_46": 0.4302143643526176
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.5011872336272722,
+          "thresholds": {
+            "channel_41": 0.38967656193616407,
+            "channel_42": 0.47576811103314665,
+            "channel_43": 0.35439324923097343,
+            "channel_44": 0.43772173435478023,
+            "channel_45": 0.3890147759265866,
+            "channel_46": 0.45570616806528963
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.5308844442309884,
+          "thresholds": {
+            "channel_41": 0.41276634984516036,
+            "channel_42": 0.5039591439324226,
+            "channel_43": 0.375392369425592,
+            "channel_44": 0.46365837770636464,
+            "channel_45": 0.41206535054924526,
+            "channel_46": 0.48270845610942575
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.5623413251903491,
+          "thresholds": {
+            "channel_41": 0.4372242937013182,
+            "channel_42": 0.5338206005475762,
+            "channel_43": 0.3976357657171873,
+            "channel_44": 0.4911318637951252,
+            "channel_45": 0.4364817575857734,
+            "channel_46": 0.5113107303084871
+          },
+          "episodes": 7,
+          "flagged": 181,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.5956621435290105,
+          "thresholds": {
+            "channel_41": 0.46313146184113035,
+            "channel_42": 0.5654514597063975,
+            "channel_43": 0.42119716609965435,
+            "channel_44": 0.5202332562782512,
+            "channel_45": 0.4623449276946609,
+            "channel_46": 0.541607795802385
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.6309573444801932,
+          "thresholds": {
+            "channel_41": 0.4905737262020207,
+            "channel_42": 0.5989565651009372,
+            "channel_43": 0.44615466722517616,
+            "channel_44": 0.5510590146738488,
+            "channel_45": 0.4897405869773938,
+            "channel_46": 0.5737000752887368
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.6683439175686147,
+          "thresholds": {
+            "channel_41": 0.5196420469535938,
+            "channel_42": 0.6344469728025611,
+            "channel_43": 0.47259099326350157,
+            "channel_44": 0.5837113140858007,
+            "channel_45": 0.5187595411263165,
+            "channel_46": 0.6076939418840855
+          },
+          "episodes": 22,
+          "flagged": 350,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.7079457843841379,
+          "thresholds": {
+            "channel_41": 0.5504327739943459,
+            "channel_42": 0.6720403193685669,
+            "channel_43": 0.500593770099599,
+            "channel_44": 0.6182983838735149,
+            "channel_45": 0.5494979764093116,
+            "channel_46": 0.6437020717083884
+          },
+          "episodes": 65,
+          "flagged": 667,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.7498942093324559,
+          "thresholds": {
+            "channel_41": 0.5830479663131797,
+            "channel_42": 0.7118612117604894,
+            "channel_43": 0.5302558157785436,
+            "channel_44": 0.654934866389118,
+            "channel_45": 0.5820577784889455,
+            "channel_46": 0.6818438173614488
+          },
+          "episodes": 134,
+          "flagged": 1289,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.7943282347242815,
+          "thresholds": {
+            "channel_41": 0.6175957302742779,
+            "channel_42": 0.7540416403665173,
+            "channel_43": 0.5616754481603445,
+            "channel_44": 0.6937421969711631,
+            "channel_45": 0.6165468701328326,
+            "channel_46": 0.7222456035292176
+          },
+          "episodes": 405,
+          "flagged": 2663,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.8413951416451951,
+          "thresholds": {
+            "channel_41": 0.6541905779466171,
+            "channel_42": 0.7987214164970271,
+            "channel_43": 0.5949568108044682,
+            "channel_44": 0.7348490064543811,
+            "channel_45": 0.6530795689346012,
+            "channel_46": 0.7650413460312431
+          },
+          "episodes": 749,
+          "flagged": 3922,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.8912509381337456,
+          "thresholds": {
+            "channel_41": 0.6929538066658377,
+            "channel_42": 0.8460486358033568,
+            "channel_43": 0.6302102181642324,
+            "channel_44": 0.7783915475296328,
+            "channel_45": 0.6917769662311543,
+            "channel_46": 0.8103728956982416
+          },
+          "episodes": 792,
+          "flagged": 3194,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.9440608762859234,
+          "thresholds": {
+            "channel_41": 0.7340139010865714,
+            "channel_42": 0.8961801691558691,
+            "channel_43": 0.6675525212352551,
+            "channel_44": 0.8245141463672782,
+            "channel_45": 0.7327673284721937,
+            "channel_46": 0.8583905085510689
+          },
+          "episodes": 651,
+          "flagged": 1928,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.0,
+          "thresholds": {
+            "channel_41": 0.7775069590578648,
+            "channel_42": 0.9492821826083672,
+            "channel_43": 0.7071074948699352,
+            "channel_44": 0.8733696810009118,
+            "channel_45": 0.7761865223723813,
+            "channel_46": 0.9092533438395471
+          },
+          "episodes": 194,
+          "flagged": 403,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.0592537251772889,
+          "thresholds": {
+            "channel_41": 0.8235771427333092,
+            "channel_42": 1.0055306881723403,
+            "channel_43": 0.7490062480417595,
+            "channel_44": 0.9251200880571163,
+            "channel_45": 0.82217846525535,
+            "channel_46": 0.9631299915919467
+          },
+          "episodes": 17,
+          "flagged": 70,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.1220184543019633,
+          "thresholds": {
+            "channel_41": 0.8723771564111253,
+            "channel_42": 1.0651121272266342,
+            "channel_43": 0.7933876584192981,
+            "channel_44": 0.979936899510842,
+            "channel_45": 0.8708956020822756,
+            "channel_46": 1.0201990314237404
+          },
+          "episodes": 6,
+          "flagged": 45,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.1885022274370185,
+          "thresholds": {
+            "channel_41": 0.9240687526880551,
+            "channel_42": 1.128223988496319,
+            "channel_43": 0.8403988326903281,
+            "channel_44": 1.038001811245542,
+            "channel_45": 0.9224994107461684,
+            "channel_46": 1.080649624457859
+          },
+          "episodes": 2,
+          "flagged": 32,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.2589254117941673,
+          "thresholds": {
+            "channel_41": 0.9788232686047532,
+            "channel_42": 1.1950754626491045,
+            "channel_43": 0.8901955941618752,
+            "channel_44": 1.0995072853026135,
+            "channel_45": 0.9771609373067327,
+            "channel_46": 1.1446821403184255
+          },
+          "episodes": 3,
+          "flagged": 27,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.333521432163324,
+          "thresholds": {
+            "channel_41": 1.0368221935597948,
+            "channel_42": 1.265888135679036,
+            "channel_43": 0.9429429992523762,
+            "channel_44": 1.1646571878163614,
+            "channel_45": 1.0350613629398877,
+            "channel_46": 1.212508821276204
+          },
+          "episodes": 2,
+          "flagged": 20,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.4125375446227544,
+          "thresholds": {
+            "channel_41": 1.0982577708747008,
+            "channel_42": 1.340896723375752,
+            "channel_43": 0.9988158845879251,
+            "channel_44": 1.2336674647489863,
+            "channel_45": 1.096392604481158,
+            "channel_46": 1.284354485747143
+          },
+          "episodes": 2,
+          "flagged": 16,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.4962356560944334,
+          "thresholds": {
+            "channel_41": 1.163333635003932,
+            "channel_42": 1.420349849313786,
+            "channel_43": 1.0579994465160087,
+            "channel_44": 1.3067668576653853,
+            "channel_45": 1.1613579505534966,
+            "channel_46": 1.3604572734758222
+          },
+          "episodes": 1,
+          "flagged": 13,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.5848931924611136,
+          "thresholds": {
+            "channel_41": 1.2322654865019518,
+            "channel_42": 1.5045108689406288,
+            "channel_43": 1.120689854957592,
+            "channel_44": 1.3841976619202796,
+            "channel_45": 1.230172735388053,
+            "channel_46": 1.4410694348738025
+          },
+          "episodes": 1,
+          "flagged": 11,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.6788040181225603,
+          "thresholds": {
+            "channel_41": 1.3052818069845964,
+            "channel_42": 1.5936587424950808,
+            "channel_43": 1.187094903632225,
+            "channel_44": 1.4662165297707495,
+            "channel_45": 1.3030650525713303,
+            "channel_46": 1.5264581671292057
+          },
+          "episodes": 1,
+          "flagged": 10,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.7782794100389228,
+          "thresholds": {
+            "channel_41": 1.3826246164545768,
+            "channel_42": 1.688088959649268,
+            "channel_43": 1.257434698811409,
+            "channel_44": 1.5530953210761838,
+            "channel_45": 1.3802765110845212,
+            "channel_46": 1.6169064998589078
+          },
+          "episodes": 1,
+          "flagged": 8,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.8836490894898006,
+          "thresholds": {
+            "channel_41": 1.4645502755013307,
+            "channel_42": 1.7881145189391414,
+            "channel_43": 1.3319423888831672,
+            "channel_44": 1.6451220044053652,
+            "channel_45": 1.4620630361409908,
+            "channel_46": 1.7127142332389196
+          },
+          "episodes": 1,
+          "flagged": 6,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.9952623149688795,
+          "thresholds": {
+            "channel_41": 1.5513303350342091,
+            "channel_42": 1.8940669652298814,
+            "channel_43": 1.410864937146032,
+            "channel_44": 1.7426016115375111,
+            "channel_45": 1.5486957174763614,
+            "channel_46": 1.8141989317224894
+          },
+          "episodes": 1,
+          "flagged": 5,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.113489039836647,
+          "thresholds": {
+            "channel_41": 1.6432524363655179,
+            "channel_42": 2.0062974886549942,
+            "channel_43": 1.494463940393956,
+            "channel_44": 1.8458572485210556,
+            "channel_45": 1.6404617079029502,
+            "channel_46": 1.921696976639705
+          },
+          "episodes": 1,
+          "flagged": 4,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.2387211385683394,
+          "thresholds": {
+            "channel_41": 1.7406212646268304,
+            "channel_42": 2.125178088671642,
+            "channel_43": 1.5830164960054276,
+            "channel_44": 1.9552311666414288,
+            "channel_45": 1.7376651751068972,
+            "channel_46": 2.035564681167541
+          },
+          "episodes": 1,
+          "flagged": 2,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.371373705661655,
+          "thresholds": {
+            "channel_41": 1.8437595586787736,
+            "channel_42": 2.2511028070905876,
+            "channel_43": 1.676816120410848,
+            "channel_44": 2.07108589684767,
+            "channel_45": 1.8406283098428269,
+            "channel_46": 2.156179471366038
+          },
+          "episodes": 1,
+          "flagged": 1,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.51188643150958,
+          "thresholds": {
+            "channel_41": 1.9530091808617254,
+            "channel_42": 2.384489034167757,
+            "channel_43": 1.7761737219825202,
+            "channel_44": 2.193805451398041,
+            "channel_45": 1.9496923938677917,
+            "channel_46": 2.2839411371952734
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.6607250597988097,
+          "thresholds": {
+            "channel_41": 2.068732250133228,
+            "channel_42": 2.5257788920865925,
+            "channel_43": 1.8814186315719947,
+            "channel_44": 2.3237965967076186,
+            "channel_45": 2.065218931154284,
+            "channel_46": 2.4192731576597466
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.8183829312644537,
+          "thresholds": {
+            "channel_41": 2.1913123423480165,
+            "channel_42": 2.675440700416888,
+            "channel_43": 1.9928996941105925,
+            "channel_44": 2.4614902016168507,
+            "channel_45": 2.1875908461318345,
+            "channel_46": 2.5626241044725093
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.9853826189179595,
+          "thresholds": {
+            "channel_41": 2.3211557616591074,
+            "channel_42": 2.833970528407524,
+            "channel_43": 2.110986424891325,
+            "channel_44": 2.607342665550045,
+            "channel_45": 2.317213752928883,
+            "channel_46": 2.7144691288916194
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.1622776601683795,
+          "thresholds": {
+            "channel_41": 2.458692887254137,
+            "channel_42": 3.0018938392583197,
+            "channel_43": 2.236070234364823,
+            "channel_44": 2.7618374312975673,
+            "channel_45": 2.4545172998219655,
+            "channel_46": 2.875311536657198
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.3496543915782766,
+          "thresholds": {
+            "channel_41": 2.6043795998908483,
+            "channel_42": 3.1797672318211285,
+            "channel_43": 2.3685657255089922,
+            "channel_44": 2.9254865874360227,
+            "channel_45": 2.599956593348517,
+            "channel_46": 3.0456844562493717
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.548133892335755,
+          "thresholds": {
+            "channel_41": 2.7586987929601183,
+            "channel_42": 3.3681802855032066,
+            "channel_43": 2.508912068072648,
+            "channel_44": 3.098832565697802,
+            "channel_45": 2.7540137068036707,
+            "channel_46": 3.226152605996713
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.758374042884441,
+          "thresholds": {
+            "channel_41": 2.922161973085095,
+            "channel_42": 3.567757514487975,
+            "channel_43": 2.6575744542482074,
+            "channel_44": 3.2824499389160917,
+            "channel_45": 2.9171992781211014,
+            "channel_46": 3.4173141658924355
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.9810717055349722,
+          "thresholds": {
+            "channel_41": 3.095310955561804,
+            "channel_42": 3.779160437750653,
+            "channel_43": 2.8150456405984143,
+            "channel_44": 3.4769473255048347,
+            "channel_45": 3.090054202434275,
+            "channel_46": 3.6198027603226826
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.216965034285822,
+          "thresholds": {
+            "channel_41": 3.2787196602609145,
+            "channel_42": 4.003089771730013,
+            "channel_43": 2.981847581347958,
+            "channel_44": 3.6829694067862078,
+            "channel_45": 3.273151424928242,
+            "channel_46": 3.8342895582788343
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.466835921509632,
+          "thresholds": {
+            "channel_41": 3.4729960139433893,
+            "channel_42": 4.240287752924121,
+            "channel_43": 3.158533158453714,
+            "channel_44": 3.9011990638522813,
+            "channel_45": 3.4670978399245924,
+            "channel_46": 4.061485498015237
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.731512589614805,
+          "thresholds": {
+            "channel_41": 3.6787839652954104,
+            "channel_42": 4.49154059810851,
+            "channel_43": 3.345688014188085,
+            "channel_44": 4.1323596410436805,
+            "channel_45": 3.672536302494256,
+            "channel_46": 4.302143643526176
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.011872336272722,
+          "thresholds": {
+            "channel_41": 3.8967656193616405,
+            "channel_42": 4.757681110331466,
+            "channel_43": 3.5439324923097337,
+            "channel_44": 4.377217343547802,
+            "channel_45": 3.890147759265866,
+            "channel_46": 4.557061680652896
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.3088444423098835,
+          "thresholds": {
+            "channel_41": 4.127663498451604,
+            "channel_42": 5.039591439324226,
+            "channel_43": 3.7539236942559198,
+            "channel_44": 4.636583777063646,
+            "channel_45": 4.120653505492452,
+            "channel_46": 4.827084561094257
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.623413251903491,
+          "thresholds": {
+            "channel_41": 4.372242937013183,
+            "channel_42": 5.338206005475762,
+            "channel_43": 3.9763576571718735,
+            "channel_44": 4.911318637951252,
+            "channel_45": 4.364817575857734,
+            "channel_46": 5.113107303084871
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.956621435290105,
+          "thresholds": {
+            "channel_41": 4.631314618411303,
+            "channel_42": 5.654514597063975,
+            "channel_43": 4.211971660996544,
+            "channel_44": 5.202332562782512,
+            "channel_45": 4.623449276946609,
+            "channel_46": 5.41607795802385
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 6.309573444801933,
+          "thresholds": {
+            "channel_41": 4.9057372620202075,
+            "channel_42": 5.989565651009373,
+            "channel_43": 4.461546672251762,
+            "channel_44": 5.510590146738489,
+            "channel_45": 4.897405869773939,
+            "channel_46": 5.7370007528873685
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 6.6834391756861455,
+          "thresholds": {
+            "channel_41": 5.196420469535938,
+            "channel_42": 6.344469728025611,
+            "channel_43": 4.725909932635015,
+            "channel_44": 5.837113140858006,
+            "channel_45": 5.187595411263164,
+            "channel_46": 6.076939418840855
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.079457843841379,
+          "thresholds": {
+            "channel_41": 5.5043277399434585,
+            "channel_42": 6.7204031936856685,
+            "channel_43": 5.0059377009959904,
+            "channel_44": 6.182983838735148,
+            "channel_45": 5.494979764093117,
+            "channel_46": 6.437020717083884
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.498942093324558,
+          "thresholds": {
+            "channel_41": 5.830479663131796,
+            "channel_42": 7.118612117604894,
+            "channel_43": 5.302558157785436,
+            "channel_44": 6.5493486638911795,
+            "channel_45": 5.820577784889454,
+            "channel_46": 6.818438173614488
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.943282347242816,
+          "thresholds": {
+            "channel_41": 6.1759573027427805,
+            "channel_42": 7.540416403665174,
+            "channel_43": 5.616754481603446,
+            "channel_44": 6.937421969711632,
+            "channel_45": 6.165468701328328,
+            "channel_46": 7.222456035292177
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 8.413951416451951,
+          "thresholds": {
+            "channel_41": 6.541905779466171,
+            "channel_42": 7.987214164970271,
+            "channel_43": 5.949568108044682,
+            "channel_44": 7.348490064543811,
+            "channel_45": 6.530795689346012,
+            "channel_46": 7.65041346031243
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 8.912509381337454,
+          "thresholds": {
+            "channel_41": 6.929538066658376,
+            "channel_42": 8.460486358033567,
+            "channel_43": 6.302102181642323,
+            "channel_44": 7.783915475296326,
+            "channel_45": 6.9177696623115414,
+            "channel_46": 8.103728956982414
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 9.440608762859233,
+          "thresholds": {
+            "channel_41": 7.340139010865713,
+            "channel_42": 8.961801691558689,
+            "channel_43": 6.67552521235255,
+            "channel_44": 8.24514146367278,
+            "channel_45": 7.327673284721937,
+            "channel_46": 8.583905085510688
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 10.0,
+          "thresholds": {
+            "channel_41": 7.775069590578648,
+            "channel_42": 9.492821826083672,
+            "channel_43": 7.071074948699351,
+            "channel_44": 8.733696810009118,
+            "channel_45": 7.761865223723813,
+            "channel_46": 9.09253343839547
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": null,
+          "thresholds": {
+            "channel_41": null,
+            "channel_42": null,
+            "channel_43": null,
+            "channel_44": null,
+            "channel_45": null,
+            "channel_46": null
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        }
+      ]
+    },
+    "level": {
+      "selected": {
+        "multiplier": 0.6683439175686147,
+        "thresholds": {
+          "channel_41": 0.4038092875899423,
+          "channel_42": 0.4821677143913695,
+          "channel_43": 0.4044806060771924,
+          "channel_44": 0.4508246641046273,
+          "channel_45": 0.4046955569575538,
+          "channel_46": 0.4843688824224259
+        },
+        "episodes": 14,
+        "flagged": 288,
+        "feasible": true
+      },
+      "candidates": [
+        {
+          "multiplier": 0.1,
+          "thresholds": {
+            "channel_41": 0.0604193854354163,
+            "channel_42": 0.0721436526489924,
+            "channel_43": 0.0605198305011382,
+            "channel_44": 0.06745399370801396,
+            "channel_45": 0.06055199221828877,
+            "channel_46": 0.07247299925830458
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.10592537251772889,
+          "thresholds": {
+            "channel_41": 0.06399945909538715,
+            "channel_42": 0.0764184328163416,
+            "channel_43": 0.06410585590542875,
+            "channel_44": 0.07145089411329918,
+            "channel_45": 0.06413992332412859,
+            "channel_46": 0.07676729443913002
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.11220184543019636,
+          "thresholds": {
+            "channel_41": 0.06779166545612036,
+            "channel_42": 0.08094650963292022,
+            "channel_43": 0.06790436667350391,
+            "channel_44": 0.07568462575676019,
+            "channel_45": 0.06794045271366889,
+            "channel_46": 0.08131604260643026
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.11885022274370183,
+          "thresholds": {
+            "channel_41": 0.07180857417036801,
+            "channel_42": 0.08574289186877002,
+            "channel_43": 0.07192795335471354,
+            "channel_44": 0.0801692217714972,
+            "channel_45": 0.0719661776271852,
+            "channel_46": 0.08613432104753636
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.12589254117941673,
+          "thresholds": {
+            "channel_41": 0.07606349968963197,
+            "channel_42": 0.09082347761946813,
+            "channel_43": 0.07618995253535861,
+            "channel_44": 0.08491954680602262,
+            "channel_45": 0.07623044173836639,
+            "channel_46": 0.09123810043521947
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.1333521432163324,
+          "thresholds": {
+            "channel_41": 0.08057054539626422,
+            "channel_42": 0.09620510700197774,
+            "channel_43": 0.08070449104415943,
+            "channel_44": 0.08995134629464661,
+            "channel_45": 0.08074737938327488,
+            "channel_46": 0.09664429776410585
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.14125375446227545,
+          "thresholds": {
+            "channel_41": 0.08534465035055874,
+            "channel_42": 0.1019056179729246,
+            "channel_43": 0.08548653277706303,
+            "channel_44": 0.09528129864731676,
+            "channel_45": 0.08553196241003774,
+            "channel_46": 0.10237083242377226
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.14962356560944334,
+          "thresholds": {
+            "channel_41": 0.09040163880778256,
+            "channel_42": 0.10794390545431407,
+            "channel_43": 0.0905519282965944,
+            "channel_44": 0.10092707053190003,
+            "channel_45": 0.09060004980455631,
+            "channel_46": 0.10843668559438074
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.15848931924611134,
+          "thresholds": {
+            "channel_41": 0.09575827266927543,
+            "channel_42": 0.11433998396266724,
+            "channel_43": 0.09591746737015439,
+            "channel_44": 0.10690737543214608,
+            "channel_45": 0.09596844025672417,
+            "channel_46": 0.11486196316172625
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.16788040181225602,
+          "thresholds": {
+            "channel_41": 0.10143230704147257,
+            "channel_42": 0.12111505394916675,
+            "channel_43": 0.10160093462140708,
+            "channel_44": 0.11324203567542772,
+            "channel_45": 0.10165492784138917,
+            "channel_46": 0.12166796236023505
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.1778279410038923,
+          "thresholds": {
+            "channel_41": 0.10744254908700639,
+            "channel_42": 0.12829157207070319,
+            "channel_43": 0.10762116847921964,
+            "channel_44": 0.11995204813585626,
+            "channel_45": 0.10767836099861999,
+            "channel_46": 0.12887724236480916
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.18836490894898006,
+          "thresholds": {
+            "channel_41": 0.11380892036295523,
+            "channel_42": 0.135893325624743,
+            "channel_43": 0.11399812361954602,
+            "channel_44": 0.1270596538305512,
+            "channel_45": 0.11405870500877312,
+            "channel_46": 0.13651369906550043
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.19952623149688797,
+          "thresholds": {
+            "channel_41": 0.12055252285286573,
+            "channel_42": 0.14394551139473935,
+            "channel_43": 0.1207529371072252,
+            "channel_44": 0.13458841163974816,
+            "channel_45": 0.12081710816944043,
+            "channel_46": 0.1446026442728627
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.21134890398366465,
+          "thresholds": {
+            "channel_41": 0.12769570891141827,
+            "channel_42": 0.1524748191674275,
+            "channel_43": 0.12790799845692716,
+            "channel_44": 0.1425632763950976,
+            "channel_45": 0.12797597189362722,
+            "channel_46": 0.15317088961651615
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.22387211385683395,
+          "thresholds": {
+            "channel_41": 0.13526215535357453,
+            "channel_42": 0.16150952019883108,
+            "channel_43": 0.135487023845471,
+            "channel_44": 0.1510106815949866,
+            "channel_45": 0.13555902496150865,
+            "channel_46": 0.16224683541501406
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.23713737056616552,
+          "thresholds": {
+            "channel_41": 0.143276941933783,
+            "channel_42": 0.1710795609222084,
+            "channel_43": 0.14351513472149935,
+            "channel_44": 0.15995862702105101,
+            "channel_45": 0.14359140217187913,
+            "channel_46": 0.17186056481158013
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.251188643150958,
+          "thresholds": {
+            "channel_41": 0.15176663447536973,
+            "channel_42": 0.1812166622085442,
+            "channel_43": 0.15201894107306865,
+            "channel_44": 0.16943677154629283,
+            "channel_45": 0.15209972765399324,
+            "channel_46": 0.18204394348773914
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.26607250597988097,
+          "thresholds": {
+            "channel_41": 0.16075937292565534,
+            "channel_42": 0.19195442450859487,
+            "channel_43": 0.16102662962915476,
+            "channel_44": 0.17947653144242395,
+            "channel_45": 0.16111220311594343,
+            "channel_46": 0.19283072528535156
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.28183829312644537,
+          "thresholds": {
+            "channel_41": 0.1702849646286654,
+            "channel_42": 0.2033284392249918,
+            "channel_43": 0.17056805728742575,
+            "channel_44": 0.19011118451228637,
+            "channel_45": 0.17065870132208308,
+            "channel_46": 0.20425666408714704
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.29853826189179594,
+          "thresholds": {
+            "channel_41": 0.1803749831245967,
+            "channel_42": 0.21537640668355654,
+            "channel_43": 0.18067485007795894,
+            "channel_44": 0.20137598039250623,
+            "channel_45": 0.18077086510933482,
+            "channel_46": 0.21635963232659666
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.31622776601683794,
+          "thresholds": {
+            "channel_41": 0.1910628728035197,
+            "channel_42": 0.22813826109485602,
+            "channel_43": 0.1913805079909262,
+            "channel_44": 0.21330825739199094,
+            "channel_45": 0.19148221227058412,
+            "channel_46": 0.2291797465199361
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.33496543915782767,
+          "thresholds": {
+            "channel_41": 0.20238405976020277,
+            "channel_42": 0.2416563029201952,
+            "channel_43": 0.20272051601571048,
+            "channel_44": 0.22594756625354237,
+            "channel_45": 0.2028282466528046,
+            "channel_46": 0.24275950023642914
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.35481338923357547,
+          "thresholds": {
+            "channel_41": 0.21437606921749783,
+            "channel_42": 0.2559753390807881,
+            "channel_43": 0.21473246175950358,
+            "channel_44": 0.23933580124880705,
+            "channel_45": 0.21484657583816125,
+            "channel_46": 0.2571439049476145
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.3758374042884442,
+          "thresholds": {
+            "channel_41": 0.2270786499074989,
+            "channel_42": 0.27114283147484447,
+            "channel_43": 0.2274561600352439,
+            "channel_44": 0.2535173390410901,
+            "channel_45": 0.22757703579815722,
+            "channel_46": 0.27238063922239536
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.3981071705534972,
+          "thresholds": {
+            "channel_41": 0.2405339058227476,
+            "channel_42": 0.2872090542948468,
+            "channel_43": 0.24093378483185365,
+            "channel_44": 0.26853918577630836,
+            "channel_45": 0.2410618229340032,
+            "channel_46": 0.2885202067624934
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.4216965034285822,
+          "thresholds": {
+            "channel_41": 0.2547864357741886,
+            "channel_42": 0.3042272606664627,
+            "channel_43": 0.2552100091042044,
+            "channel_44": 0.2844511328896307,
+            "channel_45": 0.2553456339408709,
+            "channel_46": 0.30561610380209275
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.44668359215096315,
+          "thresholds": {
+            "channel_41": 0.26988348121845335,
+            "channel_42": 0.3222538591614328,
+            "channel_43": 0.2703321528461583,
+            "channel_44": 0.30130592214424134,
+            "channel_45": 0.27047581395962395,
+            "channel_46": 0.3237249964265358
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.47315125896148047,
+          "thresholds": {
+            "channel_41": 0.28587508284446156,
+            "channel_42": 0.341348600769505,
+            "channel_43": 0.28635033993748943,
+            "channel_44": 0.3191594204492658,
+            "channel_45": 0.286502513507091,
+            "channel_46": 0.3429069083978125
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.5011872336272722,
+          "thresholds": {
+            "channel_41": 0.30281424643836197,
+            "channel_42": 0.36157477694915335,
+            "channel_43": 0.30331766428456863,
+            "channel_44": 0.3380708050363094,
+            "channel_45": 0.3034788547050426,
+            "channel_46": 0.3632254201094103
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.5308844442309884,
+          "thresholds": {
+            "channel_41": 0.3207571185765885,
+            "channel_42": 0.38299942941353804,
+            "channel_43": 0.3212903658055037,
+            "channel_44": 0.3581027596083957,
+            "channel_45": 0.32146110735885364,
+            "channel_46": 0.3847478793299786
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.5623413251903491,
+          "thresholds": {
+            "channel_41": 0.3397631727293848,
+            "channel_42": 0.40569357234706627,
+            "channel_43": 0.3403280168430536,
+            "channel_44": 0.37932168211146033,
+            "channel_45": 0.3405088754694821,
+            "channel_46": 0.40754562443434184
+          },
+          "episodes": 7,
+          "flagged": 181,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.5956621435290105,
+          "thresholds": {
+            "channel_41": 0.35989540639165546,
+            "channel_42": 0.4297324277891119,
+            "channel_43": 0.36049371962320365,
+            "channel_44": 0.4017979048170797,
+            "channel_45": 0.3606852947969785,
+            "channel_46": 0.43169422086178094
+          },
+          "episodes": 6,
+          "flagged": 180,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.6309573444801932,
+          "thresholds": {
+            "channel_41": 0.3812205498945553,
+            "channel_42": 0.4551956749650971,
+            "channel_43": 0.3818543154138956,
+            "channel_44": 0.42560592744592146,
+            "channel_45": 0.38205724213036807,
+            "channel_46": 0.45727371158534874
+          },
+          "episodes": 10,
+          "flagged": 214,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.6683439175686147,
+          "thresholds": {
+            "channel_41": 0.4038092875899423,
+            "channel_42": 0.4821677143913695,
+            "channel_43": 0.4044806060771924,
+            "channel_44": 0.4508246641046273,
+            "channel_45": 0.4046955569575538,
+            "channel_46": 0.4843688824224259
+          },
+          "episodes": 14,
+          "flagged": 288,
+          "feasible": true
+        },
+        {
+          "multiplier": 0.7079457843841379,
+          "thresholds": {
+            "channel_41": 0.4277364921408335,
+            "channel_42": 0.5107379476292772,
+            "channel_43": 0.42844758874923355,
+            "channel_44": 0.4775377048546264,
+            "channel_45": 0.4286752762699865,
+            "channel_46": 0.5130695430659148
+          },
+          "episodes": 34,
+          "flagged": 545,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.7498942093324559,
+          "thresholds": {
+            "channel_41": 0.45308147269444404,
+            "channel_42": 0.5410010736157149,
+            "channel_43": 0.4538347044258527,
+            "channel_44": 0.5058335927798757,
+            "channel_45": 0.4540758832803867,
+            "channel_46": 0.5434708247675798
+          },
+          "episodes": 181,
+          "flagged": 1596,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.7943282347242815,
+          "thresholds": {
+            "channel_41": 0.4799282377604019,
+            "channel_42": 0.5730574025523587,
+            "channel_43": 0.4807261012778183,
+            "channel_44": 0.5358061174718951,
+            "channel_45": 0.48098157087791743,
+            "channel_46": 0.5756734956602324
+          },
+          "episodes": 411,
+          "flagged": 2804,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.8413951416451951,
+          "thresholds": {
+            "channel_41": 0.5083657736654773,
+            "channel_42": 0.6070131883940072,
+            "channel_43": 0.5092109135684837,
+            "channel_44": 0.5675546259048849,
+            "channel_45": 0.5094815206940583,
+            "channel_46": 0.609784294763933
+          },
+          "episodes": 736,
+          "flagged": 3834,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.8912509381337456,
+          "thresholds": {
+            "channel_41": 0.5384883395077914,
+            "channel_42": 0.6429809810380956,
+            "channel_43": 0.5393835570983468,
+            "channel_44": 0.601184351731352,
+            "channel_45": 0.5396701987041712,
+            "channel_46": 0.6459162857833021
+          },
+          "episodes": 826,
+          "flagged": 3099,
+          "feasible": false
+        },
+        {
+          "multiplier": 0.9440608762859234,
+          "thresholds": {
+            "channel_41": 0.5703957795881607,
+            "channel_42": 0.6810799993827505,
+            "channel_43": 0.5713440421558008,
+            "channel_44": 0.6368067640897281,
+            "channel_45": 0.571647668344561,
+            "channel_46": 0.684189231868641
+          },
+          "episodes": 497,
+          "flagged": 1631,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.0,
+          "thresholds": {
+            "channel_41": 0.604193854354163,
+            "channel_42": 0.7214365264899241,
+            "channel_43": 0.6051983050113819,
+            "channel_44": 0.6745399370801395,
+            "channel_45": 0.6055199221828876,
+            "channel_46": 0.7247299925830458
+          },
+          "episodes": 168,
+          "flagged": 447,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.0592537251772889,
+          "thresholds": {
+            "channel_41": 0.6399945909538715,
+            "channel_42": 0.764184328163416,
+            "channel_43": 0.6410585590542874,
+            "channel_44": 0.7145089411329918,
+            "channel_45": 0.6413992332412858,
+            "channel_46": 0.7676729443913002
+          },
+          "episodes": 35,
+          "flagged": 130,
+          "feasible": false
+        },
+        {
+          "multiplier": 1.1220184543019633,
+          "thresholds": {
+            "channel_41": 0.6779166545612034,
+            "channel_42": 0.809465096329202,
+            "channel_43": 0.6790436667350389,
+            "channel_44": 0.7568462575676017,
+            "channel_45": 0.6794045271366888,
+            "channel_46": 0.8131604260643024
+          },
+          "episodes": 13,
+          "flagged": 71,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.1885022274370185,
+          "thresholds": {
+            "channel_41": 0.7180857417036802,
+            "channel_42": 0.8574289186877003,
+            "channel_43": 0.7192795335471356,
+            "channel_44": 0.8016922177149721,
+            "channel_45": 0.719661776271852,
+            "channel_46": 0.8613432104753639
+          },
+          "episodes": 9,
+          "flagged": 47,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.2589254117941673,
+          "thresholds": {
+            "channel_41": 0.7606349968963197,
+            "channel_42": 0.9082347761946813,
+            "channel_43": 0.7618995253535861,
+            "channel_44": 0.8491954680602263,
+            "channel_45": 0.762304417383664,
+            "channel_46": 0.9123810043521947
+          },
+          "episodes": 5,
+          "flagged": 23,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.333521432163324,
+          "thresholds": {
+            "channel_41": 0.8057054539626421,
+            "channel_42": 0.9620510700197774,
+            "channel_43": 0.8070449104415942,
+            "channel_44": 0.8995134629464661,
+            "channel_45": 0.8074737938327488,
+            "channel_46": 0.9664429776410585
+          },
+          "episodes": 4,
+          "flagged": 11,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.4125375446227544,
+          "thresholds": {
+            "channel_41": 0.8534465035055874,
+            "channel_42": 1.0190561797292461,
+            "channel_43": 0.8548653277706303,
+            "channel_44": 0.9528129864731675,
+            "channel_45": 0.8553196241003774,
+            "channel_46": 1.0237083242377225
+          },
+          "episodes": 1,
+          "flagged": 3,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.4962356560944334,
+          "thresholds": {
+            "channel_41": 0.9040163880778256,
+            "channel_42": 1.0794390545431407,
+            "channel_43": 0.9055192829659441,
+            "channel_44": 1.0092707053190004,
+            "channel_45": 0.9060004980455632,
+            "channel_46": 1.0843668559438076
+          },
+          "episodes": 1,
+          "flagged": 2,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.5848931924611136,
+          "thresholds": {
+            "channel_41": 0.9575827266927545,
+            "channel_42": 1.1433998396266725,
+            "channel_43": 0.9591746737015439,
+            "channel_44": 1.069073754321461,
+            "channel_45": 0.9596844025672419,
+            "channel_46": 1.1486196316172628
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.6788040181225603,
+          "thresholds": {
+            "channel_41": 1.0143230704147257,
+            "channel_42": 1.2111505394916675,
+            "channel_43": 1.016009346214071,
+            "channel_44": 1.1324203567542772,
+            "channel_45": 1.0165492784138919,
+            "channel_46": 1.2166796236023507
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.7782794100389228,
+          "thresholds": {
+            "channel_41": 1.0744254908700637,
+            "channel_42": 1.2829157207070319,
+            "channel_43": 1.0762116847921963,
+            "channel_44": 1.1995204813585625,
+            "channel_45": 1.0767836099861998,
+            "channel_46": 1.2887724236480915
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.8836490894898006,
+          "thresholds": {
+            "channel_41": 1.1380892036295522,
+            "channel_42": 1.3589332562474299,
+            "channel_43": 1.1399812361954602,
+            "channel_44": 1.2705965383055122,
+            "channel_45": 1.1405870500877313,
+            "channel_46": 1.3651369906550042
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 1.9952623149688795,
+          "thresholds": {
+            "channel_41": 1.2055252285286573,
+            "channel_42": 1.4394551139473932,
+            "channel_43": 1.207529371072252,
+            "channel_44": 1.3458841163974815,
+            "channel_45": 1.2081710816944042,
+            "channel_46": 1.446026442728627
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.113489039836647,
+          "thresholds": {
+            "channel_41": 1.2769570891141826,
+            "channel_42": 1.5247481916742753,
+            "channel_43": 1.2790799845692717,
+            "channel_44": 1.4256327639509763,
+            "channel_45": 1.2797597189362724,
+            "channel_46": 1.5317088961651617
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.2387211385683394,
+          "thresholds": {
+            "channel_41": 1.352621553535745,
+            "channel_42": 1.6150952019883107,
+            "channel_43": 1.3548702384547102,
+            "channel_44": 1.5101068159498658,
+            "channel_45": 1.3555902496150865,
+            "channel_46": 1.6224683541501406
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.371373705661655,
+          "thresholds": {
+            "channel_41": 1.4327694193378298,
+            "channel_42": 1.710795609222084,
+            "channel_43": 1.4351513472149935,
+            "channel_44": 1.59958627021051,
+            "channel_45": 1.4359140217187913,
+            "channel_46": 1.7186056481158012
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.51188643150958,
+          "thresholds": {
+            "channel_41": 1.5176663447536973,
+            "channel_42": 1.812166622085442,
+            "channel_43": 1.5201894107306866,
+            "channel_44": 1.6943677154629282,
+            "channel_45": 1.5209972765399322,
+            "channel_46": 1.8204394348773913
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.6607250597988097,
+          "thresholds": {
+            "channel_41": 1.6075937292565536,
+            "channel_42": 1.9195442450859488,
+            "channel_43": 1.6102662962915475,
+            "channel_44": 1.7947653144242395,
+            "channel_45": 1.6111220311594343,
+            "channel_46": 1.9283072528535155
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.8183829312644537,
+          "thresholds": {
+            "channel_41": 1.7028496462866543,
+            "channel_42": 2.033284392249918,
+            "channel_43": 1.7056805728742577,
+            "channel_44": 1.9011118451228637,
+            "channel_45": 1.7065870132208307,
+            "channel_46": 2.0425666408714704
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 2.9853826189179595,
+          "thresholds": {
+            "channel_41": 1.8037498312459672,
+            "channel_42": 2.1537640668355653,
+            "channel_43": 1.8067485007795896,
+            "channel_44": 2.0137598039250624,
+            "channel_45": 1.8077086510933482,
+            "channel_46": 2.1635963232659665
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.1622776601683795,
+          "thresholds": {
+            "channel_41": 1.910628728035197,
+            "channel_42": 2.2813826109485604,
+            "channel_43": 1.913805079909262,
+            "channel_44": 2.1330825739199093,
+            "channel_45": 1.914822122705841,
+            "channel_46": 2.291797465199361
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.3496543915782766,
+          "thresholds": {
+            "channel_41": 2.0238405976020277,
+            "channel_42": 2.416563029201952,
+            "channel_43": 2.027205160157105,
+            "channel_44": 2.2594756625354235,
+            "channel_45": 2.028282466528046,
+            "channel_46": 2.427595002364291
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.548133892335755,
+          "thresholds": {
+            "channel_41": 2.1437606921749786,
+            "channel_42": 2.5597533908078813,
+            "channel_43": 2.1473246175950362,
+            "channel_44": 2.3933580124880707,
+            "channel_45": 2.1484657583816125,
+            "channel_46": 2.571439049476145
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.758374042884441,
+          "thresholds": {
+            "channel_41": 2.2707864990749886,
+            "channel_42": 2.7114283147484444,
+            "channel_43": 2.2745616003524387,
+            "channel_44": 2.5351733904109004,
+            "channel_45": 2.2757703579815716,
+            "channel_46": 2.723806392223953
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 3.9810717055349722,
+          "thresholds": {
+            "channel_41": 2.4053390582274763,
+            "channel_42": 2.872090542948468,
+            "channel_43": 2.4093378483185366,
+            "channel_44": 2.6853918577630838,
+            "channel_45": 2.4106182293400322,
+            "channel_46": 2.885202067624934
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.216965034285822,
+          "thresholds": {
+            "channel_41": 2.547864357741886,
+            "channel_42": 3.042272606664627,
+            "channel_43": 2.552100091042044,
+            "channel_44": 2.844511328896307,
+            "channel_45": 2.5534563394087093,
+            "channel_46": 3.0561610380209276
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.466835921509632,
+          "thresholds": {
+            "channel_41": 2.6988348121845336,
+            "channel_42": 3.222538591614328,
+            "channel_43": 2.7033215284615837,
+            "channel_44": 3.013059221442414,
+            "channel_45": 2.7047581395962395,
+            "channel_46": 3.237249964265358
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 4.731512589614805,
+          "thresholds": {
+            "channel_41": 2.858750828444616,
+            "channel_42": 3.4134860076950506,
+            "channel_43": 2.8635033993748946,
+            "channel_44": 3.1915942044926586,
+            "channel_45": 2.86502513507091,
+            "channel_46": 3.429069083978126
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.011872336272722,
+          "thresholds": {
+            "channel_41": 3.0281424643836194,
+            "channel_42": 3.6157477694915334,
+            "channel_43": 3.033176642845686,
+            "channel_44": 3.3807080503630935,
+            "channel_45": 3.0347885470504257,
+            "channel_46": 3.6322542010941024
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.3088444423098835,
+          "thresholds": {
+            "channel_41": 3.207571185765885,
+            "channel_42": 3.8299942941353806,
+            "channel_43": 3.2129036580550365,
+            "channel_44": 3.581027596083957,
+            "channel_45": 3.2146110735885363,
+            "channel_46": 3.847478793299786
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.623413251903491,
+          "thresholds": {
+            "channel_41": 3.397631727293848,
+            "channel_42": 4.056935723470663,
+            "channel_43": 3.4032801684305363,
+            "channel_44": 3.7932168211146036,
+            "channel_45": 3.405088754694821,
+            "channel_46": 4.075456244343418
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 5.956621435290105,
+          "thresholds": {
+            "channel_41": 3.5989540639165547,
+            "channel_42": 4.297324277891119,
+            "channel_43": 3.6049371962320365,
+            "channel_44": 4.0179790481707975,
+            "channel_45": 3.6068529479697844,
+            "channel_46": 4.316942208617809
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 6.309573444801933,
+          "thresholds": {
+            "channel_41": 3.8122054989455534,
+            "channel_42": 4.551956749650971,
+            "channel_43": 3.8185431541389563,
+            "channel_44": 4.256059274459215,
+            "channel_45": 3.820572421303681,
+            "channel_46": 4.572737115853488
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 6.6834391756861455,
+          "thresholds": {
+            "channel_41": 4.038092875899422,
+            "channel_42": 4.8216771439136945,
+            "channel_43": 4.044806060771923,
+            "channel_44": 4.508246641046272,
+            "channel_45": 4.0469555695755375,
+            "channel_46": 4.843688824224258
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.079457843841379,
+          "thresholds": {
+            "channel_41": 4.277364921408334,
+            "channel_42": 5.107379476292771,
+            "channel_43": 4.284475887492335,
+            "channel_44": 4.775377048546264,
+            "channel_45": 4.286752762699865,
+            "channel_46": 5.130695430659148
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.498942093324558,
+          "thresholds": {
+            "channel_41": 4.53081472694444,
+            "channel_42": 5.410010736157149,
+            "channel_43": 4.538347044258527,
+            "channel_44": 5.058335927798757,
+            "channel_45": 4.540758832803867,
+            "channel_46": 5.434708247675797
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 7.943282347242816,
+          "thresholds": {
+            "channel_41": 4.79928237760402,
+            "channel_42": 5.7305740255235875,
+            "channel_43": 4.807261012778183,
+            "channel_44": 5.3580611747189515,
+            "channel_45": 4.809815708779175,
+            "channel_46": 5.756734956602325
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 8.413951416451951,
+          "thresholds": {
+            "channel_41": 5.083657736654773,
+            "channel_42": 6.070131883940072,
+            "channel_43": 5.092109135684837,
+            "channel_44": 5.67554625904885,
+            "channel_45": 5.0948152069405825,
+            "channel_46": 6.0978429476393305
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 8.912509381337454,
+          "thresholds": {
+            "channel_41": 5.384883395077913,
+            "channel_42": 6.429809810380955,
+            "channel_43": 5.393835570983468,
+            "channel_44": 6.011843517313519,
+            "channel_45": 5.396701987041712,
+            "channel_46": 6.45916285783302
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 9.440608762859233,
+          "thresholds": {
+            "channel_41": 5.703957795881606,
+            "channel_42": 6.810799993827504,
+            "channel_43": 5.7134404215580075,
+            "channel_44": 6.36806764089728,
+            "channel_45": 5.7164766834456096,
+            "channel_46": 6.841892318686409
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": 10.0,
+          "thresholds": {
+            "channel_41": 6.0419385435416295,
+            "channel_42": 7.214365264899241,
+            "channel_43": 6.05198305011382,
+            "channel_44": 6.745399370801395,
+            "channel_45": 6.055199221828876,
+            "channel_46": 7.2472999258304585
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        },
+        {
+          "multiplier": null,
+          "thresholds": {
+            "channel_41": null,
+            "channel_42": null,
+            "channel_43": null,
+            "channel_44": null,
+            "channel_45": null,
+            "channel_46": null
+          },
+          "episodes": 0,
+          "flagged": 0,
+          "feasible": true
+        }
+      ]
+    }
+  },
+  "protocol_sha256": "89a74addd7ac51cf7aa4bf118158f33deac8cc16039a78ef3094cff63411d484",
+  "code_sha256": {
+    "train.py": "c686160866aa8063d9035042e125d8508e850ace0078d81ccc077e462a0a286e",
+    "run.py": "194225604a39642550b9650afe1053c804553deebe704d49afe8ef1537104d59"
+  },
+  "source_sha256": {
+    "channel_41.zip": "32cabd39524c5c5fe972255f158e0ba933cdb0609efe88782e6217f3782d20d0",
+    "channel_42.zip": "ef01d2afdfd6926f69fc7b427eaa63565a7b218d81317027420d22f2aa34854a",
+    "channel_43.zip": "e664ea5b64ccea49796f32c9fd97cb6584c16d837442aebb2a6926c6f7413289",
+    "channel_44.zip": "b5fa421b1e5828441a0e61fe489fb3fca3036db2de8c6fbb599be39acdd5de18",
+    "channel_45.zip": "d98bce78727df6125ad82de764af68c20027b85ef3fe64c8b3dc402d3c58d57e",
+    "channel_46.zip": "9cf536c62cf3db9e54c0da0c1b9b2988fb92b21e3652da472ff3f5725799ea08",
+    "channels.csv": "27a4d6819642effc2a590d49e5bd2c7a915c06a1eb78502c34bed055d1c76d5d",
+    "anomaly_types.csv": "e0cadee4ee9697c5ca8d4f9e81067454d7d7a00d063ee0de33cbc77660eec8bc",
+    "labels.csv": "1564d630f1ec1387d699ec81531ce57118051a220c8b7cba050a446a652b9082"
+  },
+  "calibration_input_sha256": {
+    "channel_41": "5460dd65c9fb1bfec9ffc1ad9b995ed0477afc0215ef84c2a782fb18b548482d",
+    "channel_42": "e69fa8bd34e2e9e9c0c7a81b6ffe43e95ba678e3b807cf6b779726f22d1e491f",
+    "channel_43": "ebfe997578f451ba3145594e84ecfc8284218d488801897afe7f46e54ebc130f",
+    "channel_44": "b89a3ddf86708b81284d671adde5d05f5af34d44c5b959931be4a10bbe021c2a",
+    "channel_45": "8fb65e93cb439ccde593d479e3ad5ec43cba10b9f2275e411f0a6f3bf92da91b",
+    "channel_46": "d12b1c0a0ff15eda103021c199214aa820c947b4d3b914b3b27b7f320a351c02"
+  },
+  "calibration_scores_sha256": {
+    "channel_41": "fa25546fe79f017b82843cd687c88ffd7d10acc4bfcc0f9b1967b21ceec82f42",
+    "channel_42": "647966edbb84496df240b64240ad53992efc14d593a173f74632d46d3cc47502",
+    "channel_43": "b42f0ad2cc6bc808cba4415b592e2510f0368fa4e59eb48e3c9e0d54a66b8566",
+    "channel_44": "335612c2da5c0a3cbd80bb3ee5bd837b83d15a0c7feadc4319aa00b2fa8e7f32",
+    "channel_45": "8b093e67ab96b3d4b12106db50ee1cea1d58e141963cae734b1dfe24a5710b93",
+    "channel_46": "8e82ce14cde421f36869a5b9f4a978acdc8980677f735c50c86961ebe2da5661"
+  },
+  "direct_checkpoints": {
+    "channel_41": "286424b0df521c2aa94df0d3e0b6f05435e87c5f62e5a0aa3cee491a2745ebd9",
+    "channel_42": "dc89120dd90551ba0e70547ddd2bc353844c1f467b5a25f652c46b047d913b2b",
+    "channel_43": "ab6bc297b42427d3f57feb7a70ac23f0b456aec1d90d42536f051c520ad54831",
+    "channel_44": "93a8df0207c10774bde693ccd3976b7543453c3c2368e22a47780b987325f6cb",
+    "channel_45": "4785ca09beecefd131d488f4ea6eb35963f0e0701c878c2356a9b73157e3d528",
+    "channel_46": "f09f4f5dc0748fb10e66694b6e24a5172250fb3456090f587bedb7263e9bdebb"
+  },
+  "residual_checkpoints": {
+    "channel_41": "4d69c943f16132892c9a71d6690aa92b5bafa987af058da96310ed6322f9d987",
+    "channel_42": "7bdd1f1242bb6ed37bef01a4e99e9cf7501fe40d543cdcc7eb9c75cbdbaca0e0",
+    "channel_43": "ddf662a868910c652eaf86a50fe64a1776ef81cd015fe81192103e66ee61f8c4",
+    "channel_44": "b3b43fd8c0c3a0db1b57a5f184eee5e155bd0409cbb969cd53a3a6ffbb5136ef",
+    "channel_45": "f73af013e673782d92168e08f74bcb05fe61b611604beffa7ad2e0ed97f077d1",
+    "channel_46": "5ee1252714ac157792c03097a3130d0a5d3cfbf01897aafd3fad6b9a6a99dccd"
+  }
+}

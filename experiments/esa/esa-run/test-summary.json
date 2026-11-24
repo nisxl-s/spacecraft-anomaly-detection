@@ -1,0 +1,60 @@
+{
+  "channels": [
+    "channel_41",
+    "channel_42",
+    "channel_43",
+    "channel_44",
+    "channel_45",
+    "channel_46"
+  ],
+  "metrics": {
+    "level": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 6,
+      "exposure": 52560,
+      "flagged": 0,
+      "emitted": 0,
+      "raw_high": 0,
+      "streaming_exposure": 52560,
+      "rare_overlap": 0,
+      "recall": 0.0,
+      "precision": null,
+      "false_per_1000": 0.0,
+      "flagged_fraction": 0.0,
+      "median_delay_hours": null
+    },
+    "persistence": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 6,
+      "exposure": 52560,
+      "flagged": 0,
+      "emitted": 0,
+      "raw_high": 0,
+      "streaming_exposure": 52560,
+      "rare_overlap": 0,
+      "recall": 0.0,
+      "precision": null,
+      "false_per_1000": 0.0,
+      "flagged_fraction": 0.0,
+      "median_delay_hours": null
+    },
+    "lstm": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 6,
+      "exposure": 52560,
+      "flagged": 0,
+      "emitted": 0,
+      "raw_high": 0,
+      "streaming_exposure": 52560,
+      "rare_overlap": 0,
+      "recall": 0.0,
+      "precision": null,
+      "false_per_1000": 0.0,
+      "flagged_fraction": 0.0,
+      "median_delay_hours": null
+    }
+  }
+}
