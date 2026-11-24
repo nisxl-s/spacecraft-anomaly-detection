@@ -107,3 +107,26 @@ python scripts/replay_p1.py --archive kaggle.zip --manifest intake-replay.json -
 
 > **Interpretation limit**  
 > The released telemetry was scaled using test-set extrema. This study evaluates replay on those released arrays. The benchmark counts above describe the source archive. Performance results above apply to P-1 only.
+
+## ESA research status
+
+| Study | Result |
+|---|---|
+| [Mission 1 pilot](experiments/esa/esa-run/test-summary.json) | The calibration window had no eligible anomalies. The no-alarm fallback missed six test channel-events. |
+| [Mission 1 frozen workload](experiments/esa/esa-extension/summary.json) | The residual LSTM detected 3/3 incidents and 14/18 channel-events. It emitted 16.00 episodes per 1,000 eligible channel-hours across 2009–2013. |
+| [Adaptive thresholds](experiments/esa/esa-adaptive/comparison.json) | Monthly thresholds reduced workload to 3.08 episodes per 1,000 hours and retained 2/3 incidents. |
+| [Mission ticket escalation](experiments/esa/esa-ticket/k3w6/comparison.json) | The selected rule detected 3/3 incidents by page and stayed within the paging budget in each development year. |
+| [Independent Mission 2 transfer](experiments/esa/esa-mission2/summary.json) | Both paging policies met the yearly paging budget. The detector missed the single eligible incident and its four channel-events. |
+| [Mission 2 native-range development trial](experiments/esa/esa-m2-diagnosis/range-trial/summary.json) | Hourly native range generated 333 test episodes and detected no channel-events. |
+
+The ESA directories contain the experiment scripts, frozen settings and compact reports. Mission 1 paging parameters were selected on 2009–2013 development data. Mission 2 held-out results are independent of that selection. Follow-up diagnosis on the same Mission 2 incident is exploratory.
+
+### Reproduce the ESA experiments
+
+Use the ESA Anomaly Dataset v2 from [Zenodo](https://zenodo.org/records/15237121). Install Python, CPU PyTorch, NumPy and pandas. From the repository root set:
+
+```sh
+export PYTHONPATH="$PWD/experiments/esa_mission1:$PWD/experiments/esa/esa-run"
+```
+
+The Mission 1 runners expect the six verified channel archives and annotation CSVs in `experiments/esa/upload/`, plus the frozen fit and model artifacts in the experiment directories. These generated inputs, telemetry, and binary checkpoints are distributed separately. Run the experiment entry points in order from `esa-run` through `esa-ticket`; the ticket policy uses the sealed long-horizon replay. The Mission 2 protocol and entry points are under [esa-mission2](experiments/esa/esa-mission2/protocol.md), with the independent transfer ordered as training, frozen replay, annotation scoring, and audit.
