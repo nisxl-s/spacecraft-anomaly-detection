@@ -1,0 +1,76 @@
+{
+  "totals": {
+    "eligible": 91866,
+    "paging": 386,
+    "record": 386,
+    "pages": 282
+  },
+  "eligible_events": 0,
+  "incidents": 0,
+  "legacy_hits": 0,
+  "sustained_hits": 0,
+  "page_hits": 0,
+  "unpaged_gain": 0,
+  "exclusions": {
+    "prior incident": 3
+  },
+  "metrics": [
+    {
+      "channel": "channel_15",
+      "eligible": 15311,
+      "paging": 85,
+      "record": 85,
+      "pages": 51,
+      "max_record": 13
+    },
+    {
+      "channel": "channel_16",
+      "eligible": 15311,
+      "paging": 27,
+      "record": 27,
+      "pages": 22,
+      "max_record": 3
+    },
+    {
+      "channel": "channel_17",
+      "eligible": 15311,
+      "paging": 59,
+      "record": 59,
+      "pages": 51,
+      "max_record": 3
+    },
+    {
+      "channel": "channel_18",
+      "eligible": 15311,
+      "paging": 107,
+      "record": 107,
+      "pages": 61,
+      "max_record": 8
+    },
+    {
+      "channel": "channel_19",
+      "eligible": 15311,
+      "paging": 44,
+      "record": 44,
+      "pages": 38,
+      "max_record": 3
+    },
+    {
+      "channel": "channel_20",
+      "eligible": 15311,
+      "paging": 64,
+      "record": 64,
+      "pages": 59,
+      "max_record": 3
+    }
+  ],
+  "annotation_hashes": {
+    "labels.csv": "4e0c27e566c3d1585cd527f57a19617aba97afec5dca6cf87f94135ad64d2794",
+    "anomaly_types.csv": "3da0dd5f6640a277549e56852d1e41cf16842c0d4997307f16e33f7270a8e5a5"
+  },
+  "gates": {
+    "exact_paging_parity": true,
+    "additional_event_overlap": false,
+    "occupancy_at_most_10_percent": true
+  }
+}
