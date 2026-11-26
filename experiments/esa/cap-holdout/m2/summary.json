@@ -1,0 +1,46 @@
+{
+  "totals": {
+    "eligible": 6551,
+    "paging": 17,
+    "record": 17,
+    "bounded": 17,
+    "pages": 15
+  },
+  "eligible_events": 0,
+  "incidents": 0,
+  "legacy_hits": 0,
+  "sustained_hits": 0,
+  "bounded_hits": 0,
+  "page_hits": 0,
+  "unpaged_gain": 0,
+  "exclusions": {
+    "prior incident": 1,
+    "no complete hourly coverage": 1
+  },
+  "metrics": [
+    {
+      "channel": "channel_25",
+      "eligible": 6551,
+      "paging": 17,
+      "record": 17,
+      "bounded": 17,
+      "pages": 15,
+      "past_30": 0,
+      "past_168": 0,
+      "max_record": 3
+    }
+  ],
+  "annotation_hashes": {
+    "labels.csv": "4e0c27e566c3d1585cd527f57a19617aba97afec5dca6cf87f94135ad64d2794",
+    "anomaly_types.csv": "3da0dd5f6640a277549e56852d1e41cf16842c0d4997307f16e33f7270a8e5a5"
+  },
+  "gates": {
+    "bounded_occupancy_at_most_10_percent": true,
+    "bounded_preserves_all_sustained_overlaps": false,
+    "bounded_adds_overlap": false,
+    "cap_engaged": false,
+    "exact_paging_parity": true,
+    "additional_event_overlap": false,
+    "occupancy_at_most_10_percent": true
+  }
+}

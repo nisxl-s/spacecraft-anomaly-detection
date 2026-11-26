@@ -1,0 +1,16 @@
+[
+  {
+    "channel": "channel_25",
+    "id": "id_558",
+    "start": "2001-01-20T07:31:54.282000+00:00",
+    "end": "2001-01-20T08:46:54.288000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_25",
+    "id": "id_603",
+    "start": "2001-03-13T19:18:31.905000+00:00",
+    "end": "2001-03-13T19:39:31.908000+00:00",
+    "status": "no complete hourly coverage"
+  }
+]
