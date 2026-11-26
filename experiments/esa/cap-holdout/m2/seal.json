@@ -1,0 +1,13 @@
+{
+  "channels": {
+    "channel_25": {
+      "source": "a30650ae763b76fbd7dbe3068ab4d887df8ae366e24af1db08003c7b126b50e5",
+      "replay": "21732beb364bec0d23aa990ac10ff6a7b5b878b0a72c2237aad22372b93e3ab9",
+      "threshold": 2.5065231140652966e-12
+    }
+  },
+  "protocol": "86a0773b61f07e52a2d1a86044f6947c425fab7de1d15e512084dada4f9881f4",
+  "runner": "5ae08373511c09a1de1210fbd9571b3f3e642795e87ffd615aa08eabf3271b29",
+  "paging_rule": "846ee50bb708e65b24ba8daed1aae601612d69ccbd0c8f3547bebefa8547c130",
+  "bounded_rule": "da72dc8d9fc7b50c3d9d5c57370b2eb1ac488d417fda1010a41278539a2fe8a0"
+}

@@ -1,0 +1,68 @@
+{
+  "totals": {
+    "eligible": 181914,
+    "paging": 0,
+    "record": 0,
+    "bounded": 0,
+    "pages": 0
+  },
+  "eligible_events": 3,
+  "incidents": 1,
+  "legacy_hits": 0,
+  "sustained_hits": 0,
+  "bounded_hits": 0,
+  "page_hits": 0,
+  "unpaged_gain": 0,
+  "exclusions": {
+    "prior incident": 6,
+    "eligible": 3
+  },
+  "metrics": [
+    {
+      "channel": "channel_61",
+      "eligible": 60638,
+      "paging": 0,
+      "record": 0,
+      "bounded": 0,
+      "pages": 0,
+      "past_30": 0,
+      "past_168": 0,
+      "max_record": 0
+    },
+    {
+      "channel": "channel_62",
+      "eligible": 60638,
+      "paging": 0,
+      "record": 0,
+      "bounded": 0,
+      "pages": 0,
+      "past_30": 0,
+      "past_168": 0,
+      "max_record": 0
+    },
+    {
+      "channel": "channel_63",
+      "eligible": 60638,
+      "paging": 0,
+      "record": 0,
+      "bounded": 0,
+      "pages": 0,
+      "past_30": 0,
+      "past_168": 0,
+      "max_record": 0
+    }
+  ],
+  "annotation_hashes": {
+    "labels.csv": "1564d630f1ec1387d699ec81531ce57118051a220c8b7cba050a446a652b9082",
+    "anomaly_types.csv": "e0cadee4ee9697c5ca8d4f9e81067454d7d7a00d063ee0de33cbc77660eec8bc"
+  },
+  "gates": {
+    "bounded_occupancy_at_most_10_percent": true,
+    "bounded_preserves_all_sustained_overlaps": true,
+    "bounded_adds_overlap": false,
+    "cap_engaged": false,
+    "exact_paging_parity": true,
+    "additional_event_overlap": false,
+    "occupancy_at_most_10_percent": true
+  }
+}
