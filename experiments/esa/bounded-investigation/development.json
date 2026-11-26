@@ -1,0 +1,65 @@
+{
+  "eligible_hours": 45933,
+  "bounded_hours": 684,
+  "pages": 142,
+  "events": [
+    {
+      "channel": "channel_81",
+      "id": "id_635",
+      "start": "2002-09-29T19:27:24.258000+00:00",
+      "end": "2002-09-30T20:34:54.411000+00:00",
+      "status": "eligible",
+      "legacy": false,
+      "sustained": false,
+      "page": false,
+      "bounded": false
+    },
+    {
+      "channel": "channel_81",
+      "id": "id_644",
+      "start": "2002-02-18T05:42:45.261000+00:00",
+      "end": "2002-02-18T15:34:21.321000+00:00",
+      "status": "eligible",
+      "legacy": false,
+      "sustained": false,
+      "page": false,
+      "bounded": false
+    },
+    {
+      "channel": "channel_97",
+      "id": "id_612",
+      "start": "2002-02-21T18:25:01.530000+00:00",
+      "end": "2002-02-21T20:05:51.789000+00:00",
+      "status": "eligible",
+      "legacy": true,
+      "sustained": true,
+      "page": true,
+      "bounded": true
+    },
+    {
+      "channel": "channel_97",
+      "id": "id_615",
+      "start": "2002-05-21T22:06:41.028000+00:00",
+      "end": "2002-05-21T23:22:17.037000+00:00",
+      "status": "eligible",
+      "legacy": false,
+      "sustained": true,
+      "page": false,
+      "bounded": true
+    },
+    {
+      "channel": "channel_96",
+      "id": "id_622",
+      "start": "2003-03-05T08:32:35.169000+00:00",
+      "end": "2003-03-05T10:13:23.178000+00:00",
+      "status": "eligible",
+      "legacy": true,
+      "sustained": true,
+      "page": true,
+      "bounded": true
+    }
+  ],
+  "longest_bounded_hours": 168,
+  "bounded_occupancy": 0.014891254653517079,
+  "preserved_all_sustained_overlaps": true
+}

@@ -1,0 +1,449 @@
+[
+  {
+    "channel": "channel_21",
+    "id": "id_46",
+    "start": "2012-09-17T03:22:30.018000+00:00",
+    "end": "2012-09-20T14:40:30.018000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_115",
+    "start": "2007-01-12T15:41:39.330000+00:00",
+    "end": "2007-01-12T22:46:09.330000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_116",
+    "start": "2007-04-14T08:17:06.318000+00:00",
+    "end": "2007-04-30T00:00:00+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_119",
+    "start": "2007-05-30T07:07:15.312000+00:00",
+    "end": "2007-05-30T12:19:15.312000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_120",
+    "start": "2007-08-14T22:14:45.300000+00:00",
+    "end": "2007-08-15T04:14:45.300000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_126",
+    "start": "2008-02-21T11:38:45.273000+00:00",
+    "end": "2008-02-21T16:47:45.273000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_127",
+    "start": "2008-03-14T00:31:15.270000+00:00",
+    "end": "2008-03-14T01:28:15.270000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_131",
+    "start": "2008-12-26T21:19:15.228000+00:00",
+    "end": "2008-12-27T02:10:15.228000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_134",
+    "start": "2009-05-25T13:18:48.207000+00:00",
+    "end": "2009-07-04T20:18:00.201000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_135",
+    "start": "2009-07-06T13:16:30.201000+00:00",
+    "end": "2009-07-07T07:09:00.201000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_137",
+    "start": "2009-09-21T09:19:30.189000+00:00",
+    "end": "2009-09-21T11:18:00.189000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_143",
+    "start": "2010-05-04T12:55:30.156000+00:00",
+    "end": "2010-05-10T13:57:00.156000+00:00",
+    "status": "eligible",
+    "legacy": true,
+    "sustained": true,
+    "bounded": true,
+    "page": true
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_145",
+    "start": "2010-05-19T06:33:00.153000+00:00",
+    "end": "2010-05-23T20:40:30.153000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_146",
+    "start": "2010-05-23T21:18:00.153000+00:00",
+    "end": "2010-05-24T12:09:00.153000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_148",
+    "start": "2010-07-31T08:42:00.144000+00:00",
+    "end": "2010-07-31T10:01:30.144000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_152",
+    "start": "2011-01-27T03:52:30.114000+00:00",
+    "end": "2011-01-27T19:10:30.114000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_156",
+    "start": "2011-04-13T03:12:00.102000+00:00",
+    "end": "2011-04-13T05:28:30.102000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_161",
+    "start": "2011-08-16T14:54:00.084000+00:00",
+    "end": "2011-08-16T20:24:00.084000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_162",
+    "start": "2011-09-17T16:07:30.078000+00:00",
+    "end": "2011-09-17T17:33:00.078000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_171",
+    "start": "2012-07-14T08:15:00.030000+00:00",
+    "end": "2012-07-16T02:40:30.030000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_178",
+    "start": "2013-04-25T01:20:59.982000+00:00",
+    "end": "2013-04-25T04:01:29.982000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_179",
+    "start": "2013-07-23T21:25:29.964000+00:00",
+    "end": "2013-07-24T02:08:59.964000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_181",
+    "start": "2013-08-27T17:49:29.961000+00:00",
+    "end": "2013-08-29T22:56:59.961000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_188",
+    "start": "2013-11-23T06:53:59.946000+00:00",
+    "end": "2013-11-23T10:02:59.946000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_21",
+    "id": "id_189",
+    "start": "2013-12-04T18:22:29.943000+00:00",
+    "end": "2013-12-06T06:44:59.943000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_11",
+    "start": "2012-04-20T23:00:09.762000+00:00",
+    "end": "2012-04-21T10:27:09.762000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_18",
+    "start": "2008-09-08T14:16:24.960000+00:00",
+    "end": "2008-09-08T16:43:54.963000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_20",
+    "start": "2008-01-30T03:20:24.993000+00:00",
+    "end": "2008-02-04T18:33:54.993000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_116",
+    "start": "2007-04-14T08:17:16.035000+00:00",
+    "end": "2007-04-20T07:02:25.035000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_121",
+    "start": "2007-09-25T22:59:55.011000+00:00",
+    "end": "2007-09-25T23:18:25.011000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_122",
+    "start": "2007-09-29T11:58:55.011000+00:00",
+    "end": "2007-09-29T12:12:55.011000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_134",
+    "start": "2009-05-25T13:15:57.924000+00:00",
+    "end": "2009-07-01T00:12:39.918000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_138",
+    "start": "2009-10-13T06:40:09.903000+00:00",
+    "end": "2009-10-13T21:33:09.903000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_142",
+    "start": "2010-04-22T01:20:09.876000+00:00",
+    "end": "2010-04-22T01:23:09.876000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_145",
+    "start": "2010-05-19T00:49:09.873000+00:00",
+    "end": "2010-05-22T18:03:39.870000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_149",
+    "start": "2010-09-07T02:24:09.855000+00:00",
+    "end": "2010-09-07T02:27:09.855000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_149",
+    "start": "2010-09-07T02:28:09.855000+00:00",
+    "end": "2010-09-07T02:28:09.855000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_150",
+    "start": "2010-10-26T17:26:09.846000+00:00",
+    "end": "2010-10-26T17:40:09.846000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_176",
+    "start": "2013-02-09T23:45:39.711000+00:00",
+    "end": "2013-02-09T23:51:09.711000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_177",
+    "start": "2013-03-24T16:57:09.705000+00:00",
+    "end": "2013-03-24T17:11:09.705000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_183",
+    "start": "2013-09-05T19:37:39.678000+00:00",
+    "end": "2013-09-06T12:10:09.678000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_184",
+    "start": "2013-10-01T01:14:39.672000+00:00",
+    "end": "2013-10-01T01:18:39.672000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_186",
+    "start": "2013-11-11T05:27:39.666000+00:00",
+    "end": "2013-11-11T05:31:09.666000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_47",
+    "id": "id_187",
+    "start": "2013-11-19T14:58:09.663000+00:00",
+    "end": "2013-11-19T15:04:09.663000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_15",
+    "id": "id_116",
+    "start": "2007-04-14T08:23:06.318000+00:00",
+    "end": "2007-04-30T00:00:00+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_15",
+    "id": "id_134",
+    "start": "2009-05-25T13:18:48.207000+00:00",
+    "end": "2009-07-04T20:18:00.201000+00:00",
+    "status": "prior incident"
+  },
+  {
+    "channel": "channel_15",
+    "id": "id_141",
+    "start": "2010-04-28T06:00:00.156000+00:00",
+    "end": "2010-04-29T10:28:30.156000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_15",
+    "id": "id_143",
+    "start": "2010-05-04T00:21:00.156000+00:00",
+    "end": "2010-05-05T13:58:30.156000+00:00",
+    "status": "eligible",
+    "legacy": false,
+    "sustained": false,
+    "bounded": false,
+    "page": false
+  },
+  {
+    "channel": "channel_15",
+    "id": "id_145",
+    "start": "2010-05-19T00:45:00.153000+00:00",
+    "end": "2010-05-22T18:22:30.153000+00:00",
+    "status": "prior incident"
+  }
+]
