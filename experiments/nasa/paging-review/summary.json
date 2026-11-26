@@ -1,0 +1,42 @@
+{
+  "readings": 472832,
+  "channels": 78,
+  "recovered_record_events_already_unpaged": 17,
+  "variants": {
+    "legacy_overlap": {
+      "tp": 77,
+      "fp": 2116,
+      "fn": 23,
+      "episodes_or_pages": 2193,
+      "rate_per_1000": 4.63801096372496,
+      "median_delay_readings": 26
+    },
+    "sustained_record": {
+      "tp": 94,
+      "fp": 2199,
+      "fn": 6,
+      "episodes_or_pages": 2293,
+      "rate_per_1000": 4.849502571737953,
+      "median_delay_readings": 16.0
+    },
+    "legacy_pages": {
+      "tp": 73,
+      "fp": 2120,
+      "fn": 27,
+      "episodes_or_pages": 2193,
+      "rate_per_1000": 4.63801096372496,
+      "median_delay_readings": 29
+    },
+    "reminder_pages": {
+      "tp": 78,
+      "fp": 2459,
+      "fn": 22,
+      "episodes_or_pages": 2537,
+      "rate_per_1000": 5.365542095289659,
+      "median_delay_readings": 28.0
+    }
+  },
+  "legacy_active_fraction": 0.05246472319978343,
+  "sustained_active_fraction": 0.3033804818624797,
+  "max_record_readings": 8389
+}
