@@ -1,0 +1,110 @@
+{
+  "overall": {
+    "channels": 78,
+    "readings": 472832,
+    "detectors": {
+      "direct": {
+        "tp": 76,
+        "fp": 2196,
+        "fn": 24,
+        "recall": 0.76,
+        "false_episodes_per_1000": 4.644355711965349,
+        "median_delay": 26.0,
+        "excluded_truths": 0,
+        "clipped_truths": 0
+      },
+      "residual": {
+        "tp": 77,
+        "fp": 2116,
+        "fn": 23,
+        "recall": 0.77,
+        "false_episodes_per_1000": 4.475162425554954,
+        "median_delay": 26,
+        "excluded_truths": 0,
+        "clipped_truths": 0
+      },
+      "persistence": {
+        "tp": 69,
+        "fp": 1076,
+        "fn": 31,
+        "recall": 0.69,
+        "false_episodes_per_1000": 2.275649702219816,
+        "median_delay": 38,
+        "excluded_truths": 0,
+        "clipped_truths": 0
+      }
+    }
+  },
+  "SMAP": {
+    "channels": 52,
+    "readings": 406699,
+    "detectors": {
+      "direct": {
+        "tp": 52,
+        "fp": 1981,
+        "fn": 14,
+        "recall": 0.7878787878787878,
+        "false_episodes_per_1000": 4.870924197010566,
+        "median_delay": 24.0,
+        "excluded_truths": 0,
+        "clipped_truths": 0
+      },
+      "residual": {
+        "tp": 53,
+        "fp": 1908,
+        "fn": 13,
+        "recall": 0.803030303030303,
+        "false_episodes_per_1000": 4.691430271527592,
+        "median_delay": 24,
+        "excluded_truths": 0,
+        "clipped_truths": 0
+      },
+      "persistence": {
+        "tp": 47,
+        "fp": 889,
+        "fn": 19,
+        "recall": 0.7121212121212122,
+        "false_episodes_per_1000": 2.185891777457038,
+        "median_delay": 49,
+        "excluded_truths": 0,
+        "clipped_truths": 0
+      }
+    }
+  },
+  "MSL": {
+    "channels": 26,
+    "readings": 66133,
+    "detectors": {
+      "direct": {
+        "tp": 24,
+        "fp": 215,
+        "fn": 10,
+        "recall": 0.7058823529411765,
+        "false_episodes_per_1000": 3.251024450728078,
+        "median_delay": 28.5,
+        "excluded_truths": 0,
+        "clipped_truths": 0
+      },
+      "residual": {
+        "tp": 24,
+        "fp": 208,
+        "fn": 10,
+        "recall": 0.7058823529411765,
+        "false_episodes_per_1000": 3.145177143029955,
+        "median_delay": 35.0,
+        "excluded_truths": 0,
+        "clipped_truths": 0
+      },
+      "persistence": {
+        "tp": 22,
+        "fp": 187,
+        "fn": 12,
+        "recall": 0.6470588235294118,
+        "false_episodes_per_1000": 2.8276352199355843,
+        "median_delay": 26.5,
+        "excluded_truths": 0,
+        "clipped_truths": 0
+      }
+    }
+  }
+}
