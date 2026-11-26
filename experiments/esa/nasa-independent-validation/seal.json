@@ -1,0 +1,37 @@
+{
+  "channels": {
+    "channel_15": {
+      "source": "20da6b90a18d3ab93b05731e9b4217af7257817109caf98575537242a97c5dcc",
+      "replay": "96ba5a0b872ebc743ae770bb60f317ac09e975c5549b2297c8bf4b08d2bd0d47",
+      "threshold": 0.0005888736248016357
+    },
+    "channel_16": {
+      "source": "69846e1d5b5eeb0f30901ea8165f0291612a54ae34e2e50f45e9c7448eca35ca",
+      "replay": "ebc7b05e14b4c0d137f2c8e87a12f56ea192aefe615be255c1d7fb59985fac45",
+      "threshold": 0.001146564483642578
+    },
+    "channel_17": {
+      "source": "c9f7cfe35c60f34c58bcdbb367865005df6797ed2d72c46a259a0f52eb3251ad",
+      "replay": "8b9e663c8af23250e478ccd1bab440cf4b50b25b040e610be1a43422a09259d7",
+      "threshold": 0.0008635938167572009
+    },
+    "channel_18": {
+      "source": "4add8e578370b9a54fa0cf6e6b4df82243526ba84aca86229382be2fdb40a72c",
+      "replay": "2989e00bf144ca89dc77e849e21a90b29a8ba603921bb26a8ef079594acc7906",
+      "threshold": 0.002339174747467041
+    },
+    "channel_19": {
+      "source": "a5319ee5d7eb464bd83136bf818fcb498459ce20d750e21c50cde2c17b79ec4d",
+      "replay": "387fd13942b46ac0fbbd0b29be522bced026647f9eb22528704d18b8679556b7",
+      "threshold": 0.0006396770477294922
+    },
+    "channel_20": {
+      "source": "d76b08bea9d2bdce3a445603ab09d3a6596dfdf4e2760493de36b6f100935038",
+      "replay": "ea2346889e5c08045e7560e13bee84291fd336a72f003ba118ce20c14c3c5c87",
+      "threshold": 0.0014450460672378509
+    }
+  },
+  "protocol": "6389c19134acc8b2356721ac0e20d90161e383cb52905dfb3160cb2db57b8150",
+  "runner": "a5deef66dc97b642fa9d74eab6186874741bf785c72b755ebfef8040a64c76a2",
+  "paging_rule": "846ee50bb708e65b24ba8daed1aae601612d69ccbd0c8f3547bebefa8547c130"
+}

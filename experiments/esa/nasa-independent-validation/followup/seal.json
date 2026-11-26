@@ -1,0 +1,22 @@
+{
+  "channels": {
+    "channel_81": {
+      "source": "a6fe6b23d1b25cdb5a5e3171e221d28c38353301e6af2f4783e810a925160cbd",
+      "replay": "206323edd7a04f6ccf9bce390aee0d6e18c69c47d59ce6d4918284e48f1324f5",
+      "threshold": 0.12712866067886353
+    },
+    "channel_97": {
+      "source": "2703c8ed55656e454f43efbaf4d6aea379b8112a6de74ceab00767ba58e8daea",
+      "replay": "10497a967fbcc4034d61994f5e8ec3779d3ecf0632191cc07313b1f75917b3e7",
+      "threshold": 0.0001373291015625
+    },
+    "channel_96": {
+      "source": "81cd7c2ef5da06d9898045abf82829b23bb4e57f059c9198427387fef47c4921",
+      "replay": "46d6fc0e22146d2d182e782460985b8683ad684e1ea8f1114fa95b8410943b90",
+      "threshold": 7.62939453125e-05
+    }
+  },
+  "protocol": "f7c97e541cee5bb33e6f87e2e8841d3fa08dc5f379612b8461d7ee2be63db823",
+  "runner": "9d83e18ba3dac46e535cebe0ebf304135e54a29357622c2efebff5690f62c3ce",
+  "paging_rule": "846ee50bb708e65b24ba8daed1aae601612d69ccbd0c8f3547bebefa8547c130"
+}
